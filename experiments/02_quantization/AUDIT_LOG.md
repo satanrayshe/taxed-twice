@@ -73,6 +73,19 @@
 - **Build:** MiKTeX 25.12 installed (winget, user scope) + official ACL style files (acl-org/acl-style-files@master). `paper.pdf` compiles to 4 pages with 0 errors/warnings. Note: run bibtex from PowerShell (git-bash gets "Permission denied").
 - **M9:** the unsupported "in India models are usually deployed quantized" claim was removed from the Intro but was still in the Abstract. Caught on the PDF read-through and fixed. Also fixed: the table overflowed its column (resizebox), and the Pragna-1B title was lowercased by BibTeX.
 
+- **M11: External draft audit (2026-09-25) triaged claim by claim.**
+  - **False positives (checked against source + PDF render):** Δ→"A", missing ρ header, missing † markers, dropped → arrows, "c1100k_base", "Pragna-IB", and stray text under §2. These are text-extraction/OCR artifacts; the "stray text" is the figure's embedded vector text.
+  - **Real, fixed:**
+    - §4 now names the 5 translation models and 5 languages and gives the reasons Llama-3B and PARAM-1 were excluded; the shots are rows 1000–1002, disjoint from the test rows.
+    - The slope is restated per doubling of parity (0.077, CI 0.058–0.101; natural log clarified), and `stats.json` now stores it.
+    - Naming is unified to PARAM-1-2.9B.
+    - chrF++ (Popović 2017) and SacreBLEU (Post 2018) are cited, with the signature in the appendix.
+  - **Venues (verified by an agent on NeurIPS proceedings / ACL Anthology / arXiv):**
+    - Now cited at published venues: LLM.int8 (NeurIPS 2022, published title "GPT3.int8()"), QLoRA and Petrov (NeurIPS 2023), Ahia (EMNLP 2023 main, pp. 9904–9923), Marchisio (Findings EMNLP 2024), Rust (ACL-IJCNLP 2021), IndicTrans2 (TMLR 2023), Brahma (Findings ACL 2026).
+    - **The audit's claims were wrong on 4 items:** Ahia is main conference (not Findings) with different pages; IndicTrans2 is TMLR (not ACL Findings); Grattafiori-first is correct for the current Llama-3 arXiv version (Dubey was first in v1 only); the LLM.int8 NeurIPS title differs.
+  - **TODO:** confirm the IndicTrans2 TMLR year on OpenReview.
+  - **Double-blind:** a conference submission needs the `[review]` option + an anonymized repo; arXiv/emails keep `[final]`.
+
 ## 6. Headline numbers (as of 2026-09-24, nf4 abs Δ NLL/char)
 - Pooled Spearman(parity256, abs Δ), 7 models × 11 languages = 77 points: **0.708**.
 - Indic only, Δ minus that model's English Δ: **0.648**.

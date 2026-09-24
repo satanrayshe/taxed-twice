@@ -23,7 +23,7 @@ rng = np.random.default_rng(0)
 
 NAMES = {"Llama-3.2-1B": "Llama-3.2-1B", "Llama-3.2-3B": "Llama-3.2-3B", "gemma-3-1b-pt": "Gemma-3-1B",
          "Qwen3-1.7B-Base": "Qwen3-1.7B", "sarvam-1": "Sarvam-1", "pragna-1b": "Pragna-1B",
-         "Param-1-2.9B-Instruct": "Param-1-2.9B"}
+         "Param-1-2.9B-Instruct": "PARAM-1-2.9B"}
 INDIC_BUILT = {"sarvam-1", "pragna-1b", "Param-1-2.9B-Instruct"}
 
 
@@ -62,6 +62,7 @@ def fixed_effects_slope(d, x, y):
 
 def main():
     d = pd.read_csv(EXP / "parity256_vs_damage.csv").reset_index(drop=True)
+    import warnings; warnings.simplefilter("ignore", FutureWarning)
     d["log_parity"] = np.log(d.parity256)
     ind = d[d.language != "English"].copy()
     ind["excess"] = ind.dmg - ind.eng
@@ -71,6 +72,9 @@ def main():
     stats["indic_excess_spearman"], stats["indic_excess_perm_p"] = within_model_perm_test(
         ind.reset_index(drop=True), "parity256", "excess")
     stats["fe_slope_dmg_per_log_parity"], stats["fe_slope_ci95"] = fixed_effects_slope(d, "log_parity", "dmg")
+    # log is the NATURAL log; also report per doubling of parity (log-base independent)
+    stats["fe_slope_per_doubling"] = stats["fe_slope_dmg_per_log_parity"] * np.log(2)
+    stats["fe_slope_per_doubling_ci95"] = [c * float(np.log(2)) for c in stats["fe_slope_ci95"]]
     stats["within_model_spearman"] = {NAMES[m]: spearman(g.parity256, g.dmg) for m, g in d.groupby("model")}
 
     # Per-model summary table (nf4, abs NLL/char damage)

@@ -1,124 +1,167 @@
-% Every entry below was verified against the arXiv API on 2026-09-24
-% (see experiments/02_quantization/env/citations_verified_arxiv.txt) or the source URL given.
-% Check final venue/booktitle details before camera-ready.
+% Verified 2026-09-25 against primary sources: NeurIPS proceedings, ACL Anthology, arXiv (API + journal-ref),
+% model cards. Log: experiments/02_quantization/env/citations_verified_arxiv.txt and AUDIT_LOG.md (M11).
 
-@article{marchisio2024quantization,
-  title   = {How Does Quantization Affect Multilingual {LLMs}?},
-  author  = {Marchisio, Kelly and Dash, Saurabh and Chen, Hongyu and Aumiller, Dennis and {\"U}st{\"u}n, Ahmet and others},
-  journal = {arXiv preprint arXiv:2407.03211},
-  year    = {2024}
+@inproceedings{dettmers2022int8,
+  author    = {Dettmers, Tim and Lewis, Mike and Belkada, Younes and Zettlemoyer, Luke},
+  title     = {{GPT3.int8()}: 8-bit Matrix Multiplication for Transformers at Scale},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {35},
+  pages     = {30318--30332},
+  year      = {2022},
+  publisher = {Curran Associates, Inc.},
+  note      = {Also released as ``LLM.int8()'', arXiv:2208.07339}
 }
 
-@article{petrov2023tokenizers,
-  title   = {Language Model Tokenizers Introduce Unfairness Between Languages},
-  author  = {Petrov, Aleksandar and La Malfa, Emanuele and Torr, Philip H. S. and Bibi, Adel},
-  journal = {arXiv preprint arXiv:2305.15425},
-  year    = {2023}
+@inproceedings{dettmers2023qlora,
+  author    = {Dettmers, Tim and Pagnoni, Artidoro and Holtzman, Ari and Zettlemoyer, Luke},
+  title     = {{QLoRA}: Efficient Finetuning of Quantized {LLMs}},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {36},
+  pages     = {10088--10115},
+  year      = {2023},
+  publisher = {Curran Associates, Inc.}
 }
 
-@article{ahia2023cost,
-  title   = {Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models},
-  author  = {Ahia, Orevaoghene and Kumar, Sachin and Gonen, Hila and Kasai, Jungo and Mortensen, David R. and others},
-  journal = {arXiv preprint arXiv:2305.13707},
-  year    = {2023}
+@inproceedings{petrov2023tokenizers,
+  author    = {Petrov, Aleksandar and La Malfa, Emanuele and Torr, Philip and Bibi, Adel},
+  title     = {Language Model Tokenizers Introduce Unfairness Between Languages},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {36},
+  pages     = {36963--36990},
+  year      = {2023},
+  publisher = {Curran Associates, Inc.}
 }
 
-@article{rust2021tokenizer,
-  title   = {How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models},
-  author  = {Rust, Phillip and Pfeiffer, Jonas and Vuli{\'c}, Ivan and Ruder, Sebastian and Gurevych, Iryna},
-  journal = {arXiv preprint arXiv:2012.15613},
-  year    = {2020}
+@inproceedings{ahia2023cost,
+  author    = {Ahia, Orevaoghene and Kumar, Sachin and Gonen, Hila and Kasai, Jungo and Mortensen, David and Smith, Noah and Tsvetkov, Yulia},
+  title     = {Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models},
+  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {9904--9923},
+  year      = {2023},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/2023.emnlp-main.614/}
+}
+
+@inproceedings{marchisio2024quantization,
+  author    = {Marchisio, Kelly and Dash, Saurabh and Chen, Hongyu and Aumiller, Dennis and {\"U}st{\"u}n, Ahmet and Hooker, Sara and Ruder, Sebastian},
+  title     = {How Does Quantization Affect Multilingual {LLMs}?},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2024},
+  pages     = {15928--15947},
+  year      = {2024},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/2024.findings-emnlp.935/}
+}
+
+@inproceedings{rust2021tokenizer,
+  author    = {Rust, Phillip and Pfeiffer, Jonas and Vuli{\'c}, Ivan and Ruder, Sebastian and Gurevych, Iryna},
+  title     = {How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models},
+  booktitle = {Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)},
+  pages     = {3118--3135},
+  year      = {2021},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/2021.acl-long.243/}
 }
 
 @article{gala2023indictrans2,
+  author  = {Gala, Jay and Chitale, Pranjal A. and AK, Raghavan and Gumma, Varun and Doddapaneni, Sumanth and Kumar, Aswanth and Nawale, Janki and Sujatha, Anupama and Puduppully, Ratish and Raghavan, Vivek and Kumar, Pratyush and Khapra, Mitesh M. and Dabre, Raj and Kunchukuttan, Anoop},
   title   = {{IndicTrans2}: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled {Indian} Languages},
-  author  = {Gala, Jay and Chitale, Pranjal A. and AK, Raghavan and Gumma, Varun and Doddapaneni, Sumanth and others},
-  journal = {arXiv preprint arXiv:2305.16307},
-  year    = {2023}
+  journal = {Transactions on Machine Learning Research},
+  year    = {2023},
+  url     = {https://openreview.net/forum?id=vfT4YuzAYA}
+}
+% TODO: confirm the TMLR year on the OpenReview page (the agent's fetch was blocked; arXiv journal-ref says "Accepted at TMLR").
+
+@inproceedings{popovic2017chrfpp,
+  author    = {Popovi{\'c}, Maja},
+  title     = {{chrF++}: words helping character n-grams},
+  booktitle = {Proceedings of the Second Conference on Machine Translation},
+  pages     = {612--618},
+  year      = {2017},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/W17-4770/}
 }
 
-@article{dettmers2022int8,
-  title   = {{LLM.int8()}: 8-bit Matrix Multiplication for Transformers at Scale},
-  author  = {Dettmers, Tim and Lewis, Mike and Belkada, Younes and Zettlemoyer, Luke},
-  journal = {arXiv preprint arXiv:2208.07339},
-  year    = {2022}
-}
-
-@article{dettmers2023qlora,
-  title   = {{QLoRA}: Efficient Finetuning of Quantized {LLMs}},
-  author  = {Dettmers, Tim and Pagnoni, Artidoro and Holtzman, Ari and Zettlemoyer, Luke},
-  journal = {arXiv preprint arXiv:2305.14314},
-  year    = {2023}
-}
-
-@article{pundalik2025param1,
-  title   = {{PARAM-1} {BharatGen} 2.9{B} Model},
-  author  = {Pundalik, Kundeshwar and Sawarkar, Piyush and Sahoo, Nihar and Shinde, Abhishek and Chanda, Prateek and others},
-  journal = {arXiv preprint arXiv:2507.13390},
-  year    = {2025}
+@inproceedings{post2018sacrebleu,
+  author    = {Post, Matt},
+  title     = {A Call for Clarity in Reporting {BLEU} Scores},
+  booktitle = {Proceedings of the Third Conference on Machine Translation: Research Papers},
+  pages     = {186--191},
+  year      = {2018},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/W18-6319/}
 }
 
 @article{grattafiori2024llama3,
-  title   = {The {Llama} 3 Herd of Models},
   author  = {Grattafiori, Aaron and Dubey, Abhimanyu and Jauhri, Abhinav and Pandey, Abhinav and Kadian, Abhishek and others},
+  title   = {The {Llama} 3 Herd of Models},
   journal = {arXiv preprint arXiv:2407.21783},
   year    = {2024}
 }
+% Author order follows the current arXiv version (v3); v1 listed Abhimanyu Dubey first.
 
 @article{gemma2025gemma3,
-  title   = {{Gemma} 3 Technical Report},
   author  = {{Gemma Team} and Kamath, Aishwarya and Ferret, Johan and Pathak, Shreya and Vieillard, Nino and others},
+  title   = {{Gemma} 3 Technical Report},
   journal = {arXiv preprint arXiv:2503.19786},
   year    = {2025}
 }
 
 @article{yang2025qwen3,
-  title   = {{Qwen3} Technical Report},
   author  = {Yang, An and Li, Anfeng and Yang, Baosong and Zhang, Beichen and Hui, Binyuan and others},
+  title   = {{Qwen3} Technical Report},
   journal = {arXiv preprint arXiv:2505.09388},
   year    = {2025}
 }
 
+@article{pundalik2025param1,
+  author  = {Pundalik, Kundeshwar and Sawarkar, Piyush and Sahoo, Nihar and Shinde, Abhishek and Chanda, Prateek and others},
+  title   = {{PARAM-1} {BharatGen} 2.9{B} Model},
+  journal = {arXiv preprint arXiv:2507.13390},
+  year    = {2025}
+}
+
 @article{srivastava2026tokenizertax,
-  title   = {The Tokenizer Tax: Quantifying and Explaining the Cross-Lingual Cost of Subword Tokenization for {Indian} Languages},
   author  = {Srivastava, Priyansh},
+  title   = {The Tokenizer Tax: Quantifying and Explaining the Cross-Lingual Cost of Subword Tokenization for {Indian} Languages},
   journal = {arXiv preprint arXiv:2607.24276},
   year    = {2026}
 }
 
-@article{brahma2025indictok,
-  title   = {Multilingual Tokenization through the Lens of {Indian} Languages: Challenges and Insights},
-  author  = {Brahma, Maharaj and Karthika, N J and Verma, Rajat and Naidu, Nagasai Saketh and Saluja, Rohit and Desarkar, Maunendra Sankar and others},
-  journal = {arXiv preprint arXiv:2506.17789},
-  year    = {2025}
+@inproceedings{brahma2025indictok,
+  author    = {Brahma, Maharaj and Karthika, N J and Verma, Rajat and Naidu, Nagasai Saketh and Saluja, Rohit and Desarkar, Maunendra Sankar and Ramakrishnan, Ganesh},
+  title     = {Multilingual Tokenization through the Lens of {Indian} Languages: Challenges and Insights},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
+  pages     = {32614--32632},
+  year      = {2026},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/2026.findings-acl.1632/}
 }
-% TODO (not printed): reported as ACL 2026 Findings; verify venue before camera-ready.
 
 @article{ghosh2026noncanonical,
-  title   = {Language Models are not Equally Robust to Non-Canonical Tokenization across Languages},
   author  = {Ghosh, Poulami and Jyothi, Preethi},
+  title   = {Language Models are not Equally Robust to Non-Canonical Tokenization across Languages},
   journal = {arXiv preprint arXiv:2607.26831},
   year    = {2026}
 }
 
 @article{uppadhyay2026depart,
-  title   = {{DEPART}: {DE}composing {PAR}i{T}y across Multilingual {LLMs}},
   author  = {Uppadhyay, Manan and Kodali, Prashant and Chitale, Pranjal and Ramaprasad, Reshma and Beniwal, Himanshu and Sitaram, Sunayana},
+  title   = {{DEPART}: {DE}composing {PAR}i{T}y across Multilingual {LLMs}},
   journal = {arXiv preprint arXiv:2605.28163},
   year    = {2026}
 }
 
 @misc{sarvam2024sarvam1,
-  title        = {Sarvam-1},
   author       = {{Sarvam AI}},
+  title        = {Sarvam-1},
   year         = {2024},
   howpublished = {\url{https://huggingface.co/sarvamai/sarvam-1}},
   note         = {Model card, revision e9607337}
 }
 
 @misc{soket2024pragna,
-  title        = {{Pragna-1B}},
   author       = {{Soket AI Labs}},
+  title        = {{Pragna-1B}},
   year         = {2024},
   howpublished = {\url{https://huggingface.co/soketlabs/pragna-1b}},
   note         = {Model card, revision d7375b4c}
