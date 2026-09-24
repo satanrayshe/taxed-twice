@@ -1,0 +1,1281 @@
+precision,language,idx,hyp,chrf
+bf16,Hindi,0,"Service people have many qualities that combine together, such as their shoes, clothes, tie, jewelry, hairstyle, makeup, watch, cosmetics, perfume, etc.",58.58680462873601
+bf16,Hindi,1,The Ajanta Caves near Aurangabad in Maharashtra have twenty-nine monasteries and temples carved into rock dating back to 200 BCE to 500 CE with murals depicting Jataka tales.,29.609260079204137
+bf16,Hindi,2,Expansion makes your body look more rounded.,8.944034313182177
+bf16,Hindi,3,"Ashoka started using stone extensively for sculptures and monuments, while before that traditional materials such as wood and clay were used.",49.662673773242815
+bf16,Hindi,4,"This dish is called ""Bhajji"" and is made with spices mixed into grilled potatoes, then coated with gram flour batter and fried until crispy.",31.41843591707631
+bf16,Hindi,5,"Chennai is famous for its food, which has been influenced by many cultures over time. The city was once ruled by the British Empire, who brought with them their own culinary traditions. This resulted in a fusion of flavors that can still be found today in the local cuisine.",22.437408004141133
+bf16,Hindi,6,Cinnamon is native to India and used as both a flavoring agent and medicinal ingredient.,53.773382782064246
+bf16,Hindi,7,Grind it into flour using a stone mill or grinder.,27.689363323757338
+bf16,Hindi,8,"Punjab has its own specialties, such as Amritsari kulche, Bhartawar parathas and milk products.",38.84754463181656
+bf16,Hindi,9,Lord Rama was sent away with his brother Lakshmana.,32.83455802216558
+bf16,Hindi,10,But he did this with an unflinching dedication to a higher principle.,29.95051107401055
+bf16,Hindi,11,"To make a delicious Meghalaya curry, you need to marinate your meat with spices overnight before frying it gently until all the flavors have been absorbed.",26.64159980527251
+bf16,Hindi,12,"The book Hitopadesha is a collection of fables about animals, birds, and humans through their characteristics.",51.744305909661456
+bf16,Hindi,13,The book seems to aim at encouraging proficiency in Sanskrit expressions and wisdom in behavior.,45.2168953925057
+bf16,Hindi,14,"Professor Asit Kumar Bandyopadhyay has played an important role in compiling the history of his home town, Howrah, through two volumes titled Howrah Shahar Itihas (First and Second Volumes).",56.72021753938201
+bf16,Hindi,15,The Chaitya hall has an open front with wooden building facade facing it and sometimes no main chaitya arch window.,32.87094233528778
+bf16,Hindi,16,The royalty and the Khanasams have perfected these recipes over centuries through generations of oral tradition.,37.97877751836945
+bf16,Hindi,17,"Traditionally, dishes are prepared with the help of a team of cooks, led by the head chef.",32.384591184643874
+bf16,Hindi,18,"Pav bhaji is a fast food dish originating in Maharashtra, consisting of a thick vegetable mixture cooked with butter and served on a soft bread roll called pav.",62.4175297475658
+bf16,Hindi,19,"Habba Khawan and Lall Dyadi's Kashmiri creations are known for their spirituality and deep emotions, Rajasthan's Mirabai compositions are famous for their profound devotion, Tamil literature has celebrated women's contributions during that time with works such as Aandaal's mystic knowledge and Akkha Mahadevi's sayings.",39.42530460082893
+bf16,Hindi,20,"Bagh Caves, which have Buddhist frescoes, are located about 97 km (60 miles) away from Dhar district in Madhya Pradesh.",53.06411375144548
+bf16,Hindi,21,The word root has a literal meaning as a plant or tree's root but can also mean the bottom or base of anything.,36.34322967236785
+bf16,Hindi,22,The Indus Valley Civilization was known for its technological knowledge across many regions.,61.744170597753225
+bf16,Hindi,23,The Pandavas were five brothers who survived only after all their kinsmen died at the hands of the Kauravas.,44.99198069947481
+bf16,Hindi,24,The Mahabharata ends with the defeat of the Pandavas at the hands of the Kauravas.,55.57138503841554
+bf16,Hindi,25,"The central narrative of the Mahabharata is about a struggle over succession at the throne of Hastinapura, a kingdom that was located just north of modern Delhi and which was the ancestral home of the Bharatiya tribe.",65.37387562718848
+bf16,Hindi,26,"Karnataka has more vegetarians than meat-eaters, so their food tends to be mostly vegetarian dishes.",32.95453148341016
+bf16,Hindi,27,He gets an answer back from Sanjay about what's happening on the battlefield.,52.39017479792647
+bf16,Hindi,28,The two epics Silappadikaram and Manimekalai are found in Tamil literature.,70.65312040316239
+bf16,Hindi,29,The use of chilli powder is carefully used here.,48.29775661448396
+bf16,Hindi,30,"Yoga comes from the Sanskrit word yuj, meaning to join or unite.",51.69620479308304
+bf16,Hindi,31,Oriya architecture has evolved over centuries with numerous images carved on temple walls.,35.24214120149781
+bf16,Hindi,32,"Vashishtha now turned towards the king and said softly: ""King, your actions do not reflect well on you that you have broken your word once.""",34.08707756096134
+bf16,Hindi,33,"When Arjun realized his own limitations, Krishna changed his approach and began teaching about religious conflicts in the world.",30.347124630458243
+bf16,Hindi,34,Add coconut at intervals while you pour rice flour into the batter.,30.201310467303397
+bf16,Hindi,35,You can start with one teaspoonful of crushed coconut mixed into a spoonful of rice flour before adding more.,35.537079181657646
+bf16,Hindi,36,"The Gurudwara at Nanded was built under Maharaja Ranjit Singh's generous donation in 1835 CE, with intricate carvings on its golden dome.",42.85393211283781
+bf16,Hindi,37,Samaveda is a collection of hymns that have been set to melody according to proposed rhythmic patterns.,35.24947435763221
+bf16,Hindi,38,The description of Ayodhya by Valmiki makes it clear that its ancient capital was no less modern than our cities today.,45.07160611322824
+bf16,Hindi,39,You have no choice but to do what you say you will do.,34.33455068504569
+bf16,Hindi,40,"In recent years, there have been varying views on how much foreign exchange reserves India needs to maintain its currency value and ensure financial stability.",41.20180099421028
+bf16,Hindi,41,"When your credit card account shows a past due balance of more than three days, only then can banks inform CICs that you have an outstanding balance or late payment fee etc., which may result in penalties.",37.59520988731712
+bf16,Hindi,42,The government can encourage foreign direct investment (FDI) into the country to improve its economic status.,45.01461486334606
+bf16,Hindi,43,"However, if approved packages are implemented within 90 days after receiving an application from the bank, the asset classification status can be re-classified at the time when the application was received.",46.71752830463591
+bf16,Hindi,44,"Is private capital accumulation always limited to a few people, or does it result in an equilibrium between competition, technological progress, & inequality?",41.22411217770539
+bf16,Hindi,45,The central bank intervenes in the market to reduce volatility and prevent inflationary pressures.,55.30441573534301
+bf16,Hindi,46,Second-quarter high frequency data shows that economic activity remains robust.,56.09414963373384
+bf16,Hindi,47,The study of economics as an aggregate of individual nations and their markets is called comparative economic systems.,28.10783698292551
+bf16,Hindi,48,Short-term capital gains taxation.,7.099906471879894
+bf16,Hindi,49,Objective recognition policy should be based on objective criteria rather than subjective reasons.,41.98085568359644
+bf16,Hindi,50,"So, interest that has accrued on such amounts does not become uncollectible, and becomes an asset.",28.98806936969227
+bf16,Hindi,51,"The government has been working on linking India's payment systems with those of other jurisdictions, including similar ones, to improve cross-border payments such as remittances.",41.93544223598786
+bf16,Hindi,52,Liquefied natural gas (LNG) has become increasingly important as an energy source due to its use in power plants and industrial facilities.,36.18954863384315
+bf16,Hindi,53,Marketing sites can help you sell more but they don't make you a long-term customer or brand.,20.23979732830391
+bf16,Hindi,54,Payment aggregators were taxed as PSOs under new rules on March 2022.,19.62552371476863
+bf16,Hindi,55,The current regulations apply to all payment gateways that process online or e-commerce transactions.,57.35493929663343
+bf16,Hindi,56,Recordo suggests that countries should focus on exporting those goods which have comparative advantage and import those with relatively lower absolute value but still positive net benefit.,31.138316565150543
+bf16,Hindi,57,"Bank credits grew at an accelerated rate of 16.2 percent year-on-year as of September 6, 2022, compared with six months earlier.",51.79819027771519
+bf16,Hindi,58,Crop insurance covers costs such as these during harvesting before and after planting.,18.608505753674383
+bf16,Hindi,59,Agricultural credit facilities are extended for long-term loans for irrigation and other developmental activities.,45.70244986276214
+bf16,Hindi,60,Banks inspectors are looking into shadow banks' impact on traditional banking systems and trying to limit them through better regulation of capital and liquidity as this revelation had affected both sectors and the economy at large.,45.62079558381044
+bf16,Hindi,61,The government has been collecting more and better information about official corruption during the global financial crisis.,54.99386121686176
+bf16,Hindi,62,Market equilibrium price is determined when supply and demand are equal.,36.58874887248881
+bf16,Hindi,63,The equilibrium price and quantity determine supply and demand levels.,31.722480875425664
+bf16,Hindi,64,"The current account balance consists of net factor income (such as interest and profits), which usually constitute only a small fraction of total receipts.",43.82679068312938
+bf16,Hindi,65,Trade balance is the difference between exports and imports of goods and services.,57.22365531317215
+bf16,Hindi,66,"The Ministry of Micro, Small & Medium Enterprises has been working hard to improve our ranking on the Global EODB and address the challenges faced by MSMEs in connecting with GVCs.",29.880076524059252
+bf16,Hindi,67,"Inflation is expected to remain at 6.7 percent in 2022-23 on a balanced assessment of risks, with second quarter growth projected at 7.1 percent; third quarter at 6.5 percent; and fourth quarter at 5.8 percent.",50.90369105015934
+bf16,Hindi,68,"India's imports have increased despite a decline in growth, but its exports have grown faster than that.",36.13343315731083
+bf16,Hindi,69,"The focus on growth accounting currently centers around economic performance (growth rate, fiscal deficit as a percentage of GDP, government debt as a percentage of GDP, tax revenue as a percentage of GDP, etc.), and social performance (poverty levels, corruption, employment rates, nutrition levels among the general public).",70.91827033105181
+bf16,Hindi,70,The main topic of current economic discussions is maintaining balance between social and economic performance with consideration of environmental performance.,59.466570434838616
+bf16,Hindi,71,"The calculation of the fair value of debt will include an appropriate premium on interest rate, discounted cash flows representing principal repayment plus restructuring charges at the date of bankruptcy, and the sum of the appropriate periodic risk premium and the fair value of borrower category as determined under the relevant provisions of the Bankruptcy Code.",48.249151648366805
+bf16,Hindi,72,"The Reserve Bank of India has extended a special liquidity facility of Rs. 50,000 crore ($7.2 billion) to the Systemically Important Financial Institutions (SLFs), which helped restore confidence in financial markets.",45.24841304259006
+bf16,Hindi,73,"Recent rapid growth rates and extreme inflation have led to economic instability, with people becoming more risk-averse.",22.16568747231497
+bf16,Hindi,74,Full-value notes will be accepted as tender money at RBI clearing offices while half-value and invalid notes will be presented for redemption and processed accordingly.,44.89965975249108
+bf16,Hindi,75,India has seen an increase in debt securities.,31.170488164205608
+bf16,Hindi,76,"Despite turbulent global conditions, India has remained stable economically.",26.822839187271622
+bf16,Hindi,77,Financial markets have been shaken up with concerns about its impact on real economy and financial stability.,49.30857091972168
+bf16,Hindi,78,"When given more than five notes and their total value exceeds Rs. 5,000, one should advise the person giving them to send the bank statement along with an insured post to a nearby currency treasury branch or go there personally to change the notes.",35.22016435098546
+bf16,Hindi,79,"The court also noted that privacy is an essential component of the right to privacy and therefore must be given priority when collecting information and facts for CBDC publication, and only necessary private identifiable data can be collected, and information used solely for those purposes for which it was obtained.",45.910733051170446
+bf16,Hindi,80,Cybercrime is an illegal activity that involves accessing another computer or network with the intent to damage data or services.,45.66569400368228
+bf16,Hindi,81,Packaged foods and canned goods contain high levels of sodium because they use salt as preservative.,47.5397975959654
+bf16,Hindi,82,The sudden stopping of a vehicle can cause an uncontrolled crash situation inside the car.,18.675073771217757
+bf16,Hindi,83,"But that morning, a white prisoner who had been released by Narpat Singh arrived at the British camp and told General that he had heard Narpat Singh say that he would evacuate the fort but only after taking revenge.",51.455415438037065
+bf16,Hindi,84,The current Chief of Army Staff at Lahore was Robert Montgomery.,41.67632119664778
+bf16,Hindi,85,"Despite having four against one, the British soldiers were confident that they had no reason to suspect any betrayal until news reached them from Meerut. When news arrived, they could not be sure whether they were communicating with the secretly-controlled Meerut troops or not.",38.1481319732964
+bf16,Hindi,86,They can also cause adverse effects on your brain.,32.2339410109123
+bf16,Hindi,87,The new arrivals were both day-to-day and long-term.,21.97795433928996
+bf16,Hindi,88,"If anybody had personal vendetta against him, he would have been listed as murderers rather than martyrs.",34.899975002983325
+bf16,Hindi,89,"He looked at me once, then said with humility, ""Sorry, we don't have any vacancies."" I bid him farewell.",19.648792273965327
+bf16,Hindi,90,What would happen if we didn't clean up our homes and surroundings?,37.35930205472452
+bf16,Hindi,91,Recent years have seen significant changes around us due to digital technology.,39.09402784447918
+bf16,Hindi,92,"In the past, letters took days to reach their destination, and each recipient would get his own copy and reply separately.",62.33461262734694
+bf16,Hindi,93,Revolutionary fervor can be either sacred or profane depending on whether its principles are beneficial or harmful.,30.08709608251034
+bf16,Hindi,94,"Gandhi married four times, but he was never happy with any of them.",34.87116737770399
+bf16,Hindi,95,It became their social responsibility to write about justice and freedom from slavery.,51.790984110578265
+bf16,Hindi,96,It's enough to know that their potential and character can be estimated based on this fact alone.,39.09193109032059
+bf16,Hindi,97,We could see hundreds of soldiers marching with drums and banners through the city streets in full uniform.,24.00259796678106
+bf16,Hindi,98,"They read together Ramayana and Mahabharata; they also read accounts of Maratha wars, and Hindu epic stories inspired them with great courage and inspiration.",35.00323902356394
+bf16,Hindi,99,The lack of sufficient cloud-free satellite data during the monsoon season hinders significantly its use for agricultural applications.,42.7454626480172
+bf16,Hindi,100,"When we click on an ad that appears online, it can also reach our computer system.",46.74503044223528
+bf16,Hindi,101,"He ran out of his cave screaming at the sight of danger and pounced on an enemy with fierce claws, leaving him bleeding badly.",27.89698055036552
+bf16,Hindi,102,They left with their weapons and threatened to invade Kanpur.,29.26684985179898
+bf16,Hindi,103,The shopkeeper and his employees surrounded me.,32.19865897711705
+bf16,Hindi,104,"After that, Zarxiz II ruled for a while.",32.572911043965256
+bf16,Hindi,105,Both brothers were very fond of each other.,47.29076916179193
+bf16,Hindi,106,"I thought that if they agreed to the proposal, others might be persuaded to agree as well.",65.4619423363668
+bf16,Hindi,107,Urban areas have an extremely dynamic transportation system.,32.834855256883095
+bf16,Hindi,108,"Right-Ahead Log ensures that if there is a crash, the log can recover all complete and scheduled changes back to their original values as per the previous ones or set them to new values accordingly based on the situation.",36.90182598898755
+bf16,Hindi,109,"The first obstacle is that if multiple things are blocked, getting to them takes longer, and the second is that justifying your argument becomes more complex.",30.03855573164361
+bf16,Hindi,110,"If there is a swimming facility available, then drowning prevention techniques can be practiced there.",50.405665122201206
+bf16,Hindi,111,Students should be encouraged to ask questions if they have any doubts about primary medical care procedures related to swimming.,72.86038279916035
+bf16,Hindi,112,The Punjab Sikhs were at the forefront of nationalist sentiment during this time.,25.2394164267282
+bf16,Hindi,113,This kind of magnificent forgiveness was not easy for my father.,50.087129534335325
+bf16,Hindi,114,The rebellion gave Henry VIII pleasure because now he had a select and loyal army consisting of British infantry and artillery and two battalions of Sikhs and Hindustani soldiers who proved their loyalty under severe tests.,43.94161672328869
+bf16,Hindi,115,"The food was ready, and everyone was waiting for their first bite.",17.005653405644768
+bf16,Hindi,116,"""You have earned your breakfast through hard work, not because you bleed out your body, but because you worked hard."" So take advantage of these mango plantations with your commanders!""",35.04605574311632
+bf16,Hindi,117,"You have seen how seeds grow into plants, or how puppies develop into dogs, or how turtles hatch out of eggs.",39.35933605461706
+bf16,Hindi,118,Boys are also as vulnerable to sexual assault as girls.,58.13080440870312
+bf16,Hindi,119,"Bengal was watching as her sons prepared their swords with mian (sword) in hand when she saw them ready to fight for Swaraj, so she threatened them that if they pulled out their swords from the mians then she would inform the Rangers about their tactics and order them to kill them.",41.500552664133366
+bf16,Hindi,120,"GBH (Goodbye Harry) was one of the first successful horror films made in India, directed by G. B. H. Wadia and his brother Homi Wadia.",39.68244357629858
+bf16,Hindi,121,He became known as the King of Storms after his film Hurricane Mel (1932).,12.758436472753427
+bf16,Hindi,122,Asami cinema primarily seen in Assam is the main form of Assamese language film.,45.39828397098994
+bf16,Hindi,123,Translations can never be as good as the original work.,19.896074512509475
+bf16,Hindi,124,"It's important to wash your hands frequently, especially when you have been out in public places.",21.08440995668524
+bf16,Hindi,125,"They make the novel something else than what you expect, resulting in a hybrid case, with many genres mixed together.",42.77708470545932
+bf16,Hindi,126,FTII has launched its first online film appreciation course between June 15th to July 11th 2020.,41.60069544404269
+bf16,Hindi,127,The curriculum was developed with collaboration between India's National Film Archive in Pune.,40.79539318985528
+bf16,Bengali,0,"The external appearance is a collection of characteristics related to service providers such as their shoes, clothes, ties, gaiters, hairstyle, makeup, cosmetics, fragrances, etc.",53.48665841658021
+bf16,Bengali,1,"Ajanta Caves, located in Maharashtra's ঔরঙ্গাবাদ district, have sculptures and paintings dating back to the first century BC to the fifth century AD.",47.61141244787491
+bf16,Bengali,2,"The color of the body lines blends with the colors of the sky, creating an impression of density.",30.77145389582744
+bf16,Bengali,3,"Ashoka started using stone extensively in his architecture and monuments, which was previously done with wood and clay.",44.29449868107318
+bf16,Bengali,4,"Maharashtrian food is famous throughout India, but this dish is particularly beloved in the state of Maharashtra.",29.143284079246584
+bf16,Bengali,5,"Chittagong cuisine is the food of Chittagong region in Bangladesh, which is similar to that of Tripura state in northeast India.",23.3751900019774
+bf16,Bengali,6,Cinnamon is primarily grown in India and used as spices and medicinal products.,29.160086056307733
+bf16,Bengali,7,Put them all together into one dry jute bag or bale.,18.063419950448456
+bf16,Bengali,8,"Punjabi food has many regional variations, with people in Amritsar preferring Amritsari kulcha, Purvara parathas, and dairy products more than others.",37.91098510925103
+bf16,Bengali,9,Lord Rama sent his brother Lakshmana to help him.,31.390101363873324
+bf16,Bengali,10,"But Pandey's bravery was heroic, performed with high principles.",30.15610930163075
+bf16,Bengali,11,"Pork stew with yellow mustard seeds is served when peacocks fly out, and you cook it on low heat until all the spices have been absorbed into the meat.",28.28657837891463
+bf16,Bengali,12,"Hutophees is a book of proverbs that teaches us about life through stories of birds, animals, and humans.",53.1608005657219
+bf16,Bengali,13,The aim of this book is to encourage language learning and cultural knowledge.,27.767263691534826
+bf16,Bengali,14,Professor Asit Kumar Banerjee has been an outstanding contributor to compiling the complete history of his hometown Howrah in two volumes published in 1994 and 1995.,47.568814564208814
+bf16,Bengali,15,"The front facade of the Chaitya Hall has an image of a half-circular Chaitya arch with exposed wooden exterior walls, and sometimes there are no visible windows.",35.44201040118107
+bf16,Bengali,16,Maharajas and KhanSamaa have been perfecting their culinary skills over centuries and passed down these recipes through generations via word of mouth.,32.79752591696127
+bf16,Bengali,17,"Traditionally, one steward or head cook with assistant cooks prepare the meal.",29.53974785596745
+bf16,Bengali,18,Paow Vazi: A quick dish made with soft paouruttu rolls filled with mashed vegetables cooked in butter. It is very common in Maharashtra.,29.9763547519534
+bf16,Bengali,19,"Red Deed and Habba Khattun's Kashmiri compositions are known for their mystery and intense expression of pain, while Mira Baith's Rajasthani compositions are renowned for their devotional qualities, with Uday Shankar's Tamil works being celebrated for their mystical nature and Akka Mahadevi's Kannada verses showcasing women's significant contributions to literature during",49.66818858648355
+bf16,Bengali,20,The Tiger Cave near Dhara District in Madhya Pradesh has Buddhist wall paintings.,34.59520152551646
+bf16,Bengali,21,"The word root literally means ""tree"" but figuratively means ""the bottom"", ""root"", or ""foundation"".",28.251468166890792
+bf16,Bengali,22,The Indus Valley Civilization was known for its technological knowledge in many fields.,70.98094803278731
+bf16,Bengali,23,The Pandavas all died; only Yudhishthira survived.,28.98538959991002
+bf16,Bengali,24,The battle lasted eighteen days and ended with the defeat of the Pandavas.,65.98310647537143
+bf16,Bengali,25,"The Mahabharata is an epic saga that tells the story of a war between two groups of cousins over the throne of Hastinapur, which was located near modern Delhi.",37.63938892098486
+bf16,Bengali,26,"Karnataka has more vegetarians than meat eaters, with their food mainly consisting of vegetarian dishes.",41.00218881775096
+bf16,Bengali,27,He responded with what was going on at the front line.,19.738859446708208
+bf16,Bengali,28,The two epics found in Tamil language are Silappadikaram and Manimekalai.,77.97727522792209
+bf16,Bengali,29,Lemon grass is used carefully here.,12.580868174472124
+bf16,Bengali,30,Yoga is derived from the Sanskrit word yuj meaning union or joining.,49.482350218781775
+bf16,Bengali,31,"Oriya architecture has been influenced by many cultures over time, including Hinduism, Buddhism, Jainism, Islam, Christianity, and Portuguese colonialism.",15.567171164109434
+bf16,Bengali,32,"Bashista said: ""King, you once promised me something that I cannot do.""",20.70175343204644
+bf16,Bengali,33,Arjun's frustration with his own behavior made him realize that he needed to change and so began learning about Dharma (righteous duty) from Krishna.,24.676986129628887
+bf16,Bengali,34,The dish can also include coconut flakes.,12.511706261505497
+bf16,Bengali,35,"You can start with one spoon of coconut milk, then mix well ground rice.",20.12869189350508
+bf16,Bengali,36,"The Nandadeo Gurdwara was built in 1835 by Maharaja Ranjit Singh on behalf of his father, who had been given the land as a gift. It has an exquisite golden dome with intricate carvings.",39.74716800971618
+bf16,Bengali,37,The Samveda is a collection of melodic patterns that help maintain the rhythm while singing.,22.316363410149005
+bf16,Bengali,38,The capital city of Kosala was clearly no less than our modern cities.,35.048917953729266
+bf16,Bengali,39,"Once you say ""I will"", there's no going back.",17.11888306204747
+bf16,Bengali,40,The current exchange rate and foreign currency reserves have been subject to varying opinions.,30.25097514592585
+bf16,Bengali,41,"If you have an account that has been closed after three days without paying your balance, the bank will report this to credit card issuers and may impose fees such as late payment penalties.",29.04084884851192
+bf16,Bengali,42,Countries can encourage direct foreign investment through incentives such as tax breaks and subsidies.,39.60182743885981
+bf16,Bengali,43,"However, if the bank accepts your application within 90 days after receiving the package, you can request a reclassification of your asset class back to its original status.",30.614015683013847
+bf16,Bengali,44,"Is wealth creation inevitably concentrated in the hands of the few, or do factors such as competition and technological progress work to reduce inequality?",46.42961292745112
+bf16,Bengali,45,The government intervenes in the market to stabilize prices and keep people hopeful.,42.29947653823101
+bf16,Bengali,46,The second quarter saw high-quality economic activity with stable growth.,29.13733621468289
+bf16,Bengali,47,"The aggregate economy refers to the sum total of all markets that interact with each other, which economists call the total variables.",40.460860568107634
+bf16,Bengali,48,"The shortest distance between two points is a straight line, but the market will only sell you something if there is demand for it.",19.43878876575402
+bf16,Bengali,49,"The principle of restorative justice should be objective and factual, rather than subjective and based on personal bias.",43.58078221979368
+bf16,Bengali,50,"So, there isn't much interest left and therefore no NPAs remain on time.",20.140134988785743
+bf16,Bengali,51,"The UPI system can connect India's fast money transfer systems with those of other countries, which will improve cross-border financial transactions.",24.03113265864821
+bf16,Bengali,52,Liquefied natural gas (LNG) has become an important source of energy in the power sector and industrial use.,31.383564966421428
+bf16,Bengali,53,"However, markets can help you sell more but they do not necessarily create sustainable businesses and branding.",37.92381304595165
+bf16,Bengali,54,Payment processors play an important role in ecosystems and were therefore included in law in March 2020 and renamed as PSOs.,39.4893453876761
+bf16,Bengali,55,"However, current regulations do not apply to online fundraising or electronic-trading transactions.",40.57331595497736
+bf16,Bengali,56,"Ricardo's insight was that even though a country has comparative advantage in exporting its largest unrestricted benefit product, it will still profit by importing lesser but more favorable products.",38.49264721174224
+bf16,Bengali,57,"Bank deposits grew at an annual rate of 16.2 percent over September 9, 2022 compared with six years earlier, when they were growing at 6.7 percent annually.",48.27924387960702
+bf16,Bengali,58,"The agricultural sector has its own set of practices such as pesticide application before and after harvesting, threshing, sorting, drying, and transportation.",35.5992655242642
+bf16,Bengali,59,"Agricultural credit will include machinery purchases, irrigation projects, and other developmental activities.",38.38627858559124
+bf16,Bengali,60,"The Reserve Bank of India has been given approval to issue currency notes with higher denominations, which will have an impact on traditional banks and their ability to lend money.",21.380011622133114
+bf16,Bengali,61,"The government has been increasingly collecting more and better data on global financial crises since 2008, with an eye toward finding hidden vulnerabilities.",51.64317392781946
+bf16,Bengali,62,The price of something is determined by its demand equaling its supply at a certain point.,34.899460468822575
+bf16,Bengali,63,Structural Equation Models determine the level of demand and supply as factors such as income and others.,41.54616874818156
+bf16,Bengali,64,"The current stock of foreign exchange reserves is just a small fraction of total amount, which includes trade surpluses, remittances sent abroad, and official development assistance.",33.20521102716342
+bf16,Bengali,65,The trade balance is the difference between exports and imports.,44.60589029989113
+bf16,Bengali,66,"Minister Shri Giriraj Singh, who was speaking at the 15th Global Summit on Micro, Small and Medium Enterprises (MSME), held here on December 19-20, said that continuous efforts have improved our ranking in EOGB and GVCs, which were facing problems with these two entities.",33.757235278213244
+bf16,Bengali,67,"Inflationary pressure has been on hold over the last three months with 7.1% in the second quarter, 6.5% in the third quarter and 5.8% overall in the fourth quarter.",18.14089303480696
+bf16,Bengali,68,India's import growth has slowed down but its export growth has accelerated.,53.25198939177525
+bf16,Bengali,69,"Currently, growth is mainly driven by economic performance (growth rate, GDP as a percentage of revenue shortfall, GDP as a percentage of government debt, GDP as a percentage of tax revenues etc.) and social performance (poverty, inequality, employment rates, nutritional rate among population).",61.808138820024325
+bf16,Bengali,70,"The current economic discourse has been increasingly focused on social and economic development at the expense of environmental preservation, which is somewhat overlooking the interplay between these two factors.",43.66275714174734
+bf16,Bengali,71,"The fair value of the loan after restructuring will be calculated as the present value of future cash flows representing the interest on the original amount plus the appropriate premium for risk associated with the borrower class at the time of restructuring, equal to the bank's BPLR rate.",57.41977450929245
+bf16,Bengali,72,"The Reserve Bank of India has announced an additional 50,000 crore ($7.2 billion) liquidity facility for the financial sector to help stabilize the economy amidst the aftershocks of the pandemic.",34.01223226741097
+bf16,Bengali,73,Recent economic growth has been accompanied by increased volatility and risk aversion.,23.75823588041825
+bf16,Bengali,74,Full value non-cash notes will be accepted as payment and half-value and cancelled notes will be presented for settlement at the Reserve Bank of India issue office.,31.935349262563506
+bf16,Bengali,75,India has seen an increase in its debt ratings.,18.665939999059383
+bf16,Bengali,76,"Despite the instability of the global environment, India has managed to maintain its economic stability.",42.00129510454861
+bf16,Bengali,77,The real economy and financial stability have been shaken by fears over stock markets.,41.59334631915648
+bf16,Bengali,78,"If the amount sent is more than 5,000 but less than 5,000, then the sender should send them to their nearest currency chest branch with the account number, branch name, IFSC etc., along with an insurance dıkıt call back to his/her nearby bank branch or personally bring them there himself/herself to change them.",38.98132803895561
+bf16,Bengali,79,The court also observed that privacy is an essential component of the right to information and therefore CBDC must prioritize collecting only those personal data which are necessary and used solely for the purpose for which they were collected.,46.45482963265411
+bf16,Bengali,80,A cybercriminal can attack one computer or an internal network to steal information or data.,38.770853072052056
+bf16,Bengali,81,Packaged and canned food products contain high levels of sodium due to preservatives used.,42.787402181431865
+bf16,Bengali,82,"Cars can move freely on unpaved roads without any kind of braking system, passing through one side to another.",20.45274854326942
+bf16,Bengali,83,"But then, at dawn, an English captive arrived at the camp and told the commander that he had heard Norpat Singh say that he would not surrender without retribution.",33.58895737996199
+bf16,Bengali,84,"In this context, Robert Montgomery was the military commander of Lahore.",40.94246100441046
+bf16,Bengali,85,The English soldiers were outnumbered four to one by Sepoys at Meerut but they had no suspicion that there was any secret communication with them until news arrived from Miraṭh.,36.80481594120048
+bf16,Bengali,86,They are addictive as well as harmful to your brain.,25.46099995764103
+bf16,Bengali,87,"Day after day, both sides were sending more troops.",55.140200591794105
+bf16,Bengali,88,"If you were mad at someone, your name would be on the list of murderers.",27.20766036519577
+bf16,Bengali,89,"She looked at me and said ""Sorry we're full"", and bid me farewell.",18.3627095030676
+bf16,Bengali,90,What would happen if we didn't clean up our waste?,15.304022098014393
+bf16,Bengali,91,Recent years have seen many changes around us due to digital technology use.,40.25715459845668
+bf16,Bengali,92,"In the past, letters took days to arrive, and each recipient would get their own reply.",42.57776666041519
+bf16,Bengali,93,The revolutionary spirit has been perceived as either sacred or profane depending on whether its outcome was beneficial or harmful.,30.46574047442136
+bf16,Bengali,94,"Gandhi married four times, but he died at age 78 after his fourth wife passed away.",37.34312701059027
+bf16,Bengali,95,Writers have become social activists to inspire people with their writings against slavery and oppression.,27.39136637181126
+bf16,Bengali,96,It's enough information to make an educated guess about his abilities and character.,32.792255463257106
+bf16,Bengali,97,The mountain range was so perfect that we could see hundreds of flags and banners flying without any hindrance.,25.20523023335678
+bf16,Bengali,98,"Ramayana and Mahabharata together tell stories about Maratha warriors, and have inspired young hearts with Hindu heroic tales.",30.65995475291386
+bf16,Bengali,99,The main barrier to using remote sensing data during the monsoon season is insufficient availability of clear optical satellite imagery due to limited number of such satellites.,47.18109054753187
+bf16,Bengali,100,The internet can also spread malicious adverts.,32.633668817037055
+bf16,Bengali,101,"Chilean gulls have been known to steal food from their own nests when they see danger approaching, soaring away as soon as they spot an intruder.",16.405612318768398
+bf16,Bengali,102,They were accompanied by many soldiers and marched towards Cawnpore (Kanpur).,24.405126813245616
+bf16,Bengali,103,The servants came around me.,31.42562778053116
+bf16,Bengali,104,The next stop is Jerzyks.,6.565363417270745
+bf16,Bengali,105,The relationship between brothers can be very strong.,25.313988545191258
+bf16,Bengali,106,"I thought that if they agreed to this proposal, others would also agree to do the same thing.",54.61187876061
+bf16,Bengali,107,The biggest sign of urbanization is the variety of transportation available.,39.50753988743284
+bf16,Bengali,108,A backup copy ensures that all completed and intended changes can be restored systematically using a recovery procedure to return things to how they were before the crash.,35.59308259084654
+bf16,Bengali,109,The tradeoffs between getting what you want and opening up your mind are more complex as you go deeper into them.,20.482949105761065
+bf16,Bengali,110,Swimming safety tips can be learned through swimming lessons.,17.08130419067633
+bf16,Bengali,111,Students should ask questions about first aid if they have any concerns.,45.30007417538423
+bf16,Bengali,112,The Punjab Sikhs were ready to fight for freedom.,19.332738238155763
+bf16,Bengali,113,My father was never used to such generosity.,20.829837731593337
+bf16,Bengali,114,The rebellion was satisfying to Sir Henry as he had an unbroken line of English soldiers and artillery that were selected and tested through trials and tribulations.,25.00564347495773
+bf16,Bengali,115,The food here is very spicy and delicious.,6.3620047283731305
+bf16,Bengali,116,"British soldiers, you have worked hard all day to earn your breakfast, so we can sit down with our officers and enjoy our morning meal together.",28.171214297368053
+bf16,Bengali,117,"You have seen how seeds grow into plants, or puppies become dogs, cats become cats, etc.",34.11032351686664
+bf16,Bengali,118,Men are also vulnerable to sexual assault.,52.257106207200685
+bf16,Bengali,119,Raja Rammohun Roy was an influential social reformer who fought against casteism and religious superstition in India during British colonial rule.,11.121686603278562
+bf16,Bengali,120,J. B. H. Wadia and his brother Homi Wadia were film producers who made this stunt movie famous.,44.370422983180525
+bf16,Bengali,121,"The film Tufan Mel (1932), which was based on the novel of the same name, has many scenes of people fighting while riding a moving train.",33.14623319122552
+bf16,Bengali,122,Assamese cinema is mainly seen in India's Assam state.,33.135705814634505
+bf16,Bengali,123,Literature appreciation hasn't been clear yet.,16.959448736566834
+bf16,Bengali,124,"In addition, an emergency hand technique and thus purpose will appear.",24.29984415091858
+bf16,Bengali,125,"They turned the novel into something else and got a hybrid, a mix of several genres.",54.12678762649551
+bf16,Bengali,126,FTII has launched its first online film appreciation course on June 15th to July 11th.,37.9688739412828
+bf16,Bengali,127,The film archive was co-located with the Pune Film Institute.,26.408110648517223
+bf16,Tamil,0,"The appearance of service staff refers to their attire, accessories, makeup, jewelry, etc., which can vary depending on the type of work they do.",28.035298563561778
+bf16,Tamil,1,Ajanta Caves in Maharashtra have twenty-nine monasteries and viharas decorated with sculptures and paintings dating back to the 1st century BCE to the 5th century CE.,50.74288767747925
+bf16,Tamil,2,The body color is dark brown with oily skin texture.,15.782245889406024
+bf16,Tamil,3,"Ashoka used large stones extensively for sculptures and monuments but before that, wood and clay were more common.",38.3288178108951
+bf16,Tamil,4,"Maharashtrian food has many famous dishes, including this one with potatoes that have been marinated in spices and then deep-fried in oil.",32.75658869505572
+bf16,Tamil,5,"Chennai food is known as ""Madras"" food, but its actual name is ""Chennai"". It is a style of cooking that originated in the city of Chennai (formerly Madras) in Tamil Nadu, India.",22.446712731756907
+bf16,Tamil,6,"Lavender is native to India and has many uses, including perfumes, medicines, and even food flavoring.",38.177272560034446
+bf16,Tamil,7,"To make flour out of rice grains, you need to grind them into fine powder using a stone mill or a mortar and pestle.",35.01734496439873
+bf16,Tamil,8,"Punjab has many cities with their own preferences, such as Amritsar people preferring Amritsari Khichdi, stuffed parathas, and milk dishes.",42.48979936291705
+bf16,Tamil,9,Ramayana - The Epic of Rama,9.99414907392571
+bf16,Tamil,10,"However, Mangal Pandey's act was an exemplary display of valor towards a noble ideal.",27.78678471098158
+bf16,Tamil,11,Cooking with yellow mustard seeds can add flavor to meat dishes such as chicken or mutton.,13.206728729599442
+bf16,Tamil,12,The Hitopadesa is a collection of fables that teaches moral lessons about animals and humans.,36.81983184997076
+bf16,Tamil,13,The book aims to promote knowledge of Sanskrit language and practical wisdom.,29.76714388369202
+bf16,Tamil,14,"Professor Asit Kumar Bandyopadhyay was a pioneer in compiling the complete history of his hometown Howrah, which he titled Howrah Sahareer Itipriyo (First and Second Volumes).",66.1245671696815
+bf16,Tamil,15,"The facade of the Shiva temple has an arcaded porch with half-circle arches that dominate the main entrance, sometimes without a central archway window.",29.58429356023335
+bf16,Tamil,16,"The culinary traditions of Meghalaya have been refined over centuries through generations of maharajas and khansama, who passed down their cooking skills via oral tradition.",35.13871221709779
+bf16,Tamil,17,"Traditionally, these dishes were cooked by the head chef (wasta vasa) and his assistants (vasas).",28.604811155553005
+bf16,Tamil,18,Pav bhaji is a fast food originating from Maharashtra that consists of a spicy vegetable curry served with soft bread pieces (bhaji).,47.76946434725433
+bf16,Tamil,19,"Lal Datta and Happa Kathun's poems have mystical undertones and intense expression, Rajasthani poetry has been known for its profound spirituality, while Meera Bai's poems exemplify women's significant contribution to literature during that period.",28.87194420725721
+bf16,Tamil,20,The Bagh Caves have Buddhist frescoes located near Madhya Pradesh's Dhar district.,43.20193649053696
+bf16,Tamil,21,"In Sanskrit literature, the word mulā refers to the root of a plant or tree, but figuratively it means its base, bottom, or foundation.",55.46183645559811
+bf16,Tamil,22,The Indus Valley Civilization was renowned for its technological prowess across multiple fields.,51.63774886692194
+bf16,Tamil,23,"The Pandavas all perish, but only Arjuna survives with Krishna as his charioteer.",31.54294594292876
+bf16,Tamil,24,The battle rages on for another eighteen days until the Pandavas finally defeat their enemies.,49.38168442879753
+bf16,Tamil,25,"The central plot of the Mahabharata revolves around a struggle over succession to the throne of Ashtadiggaja, which was located north of Delhi, and thus roughly corresponding to modern-day Delhi itself, being the ancestral home of the Pandavas as generally known.",47.27591606328603
+bf16,Tamil,26,"Karnataka has a high number of vegetarians compared to non-vegetarians, which influences its food culture significantly.",35.6487663686991
+bf16,Tamil,27,He responds with what's happening on the battlefield.,47.1346498863958
+bf16,Tamil,28,"Tamil literature includes two major epics, Silappadikaram and Manimekalai.",48.46579139396837
+bf16,Tamil,29,"The spice used here is very hot, so you need to use it carefully.",19.201664304361618
+bf16,Tamil,30,"Yoga comes from the Sanskrit root yuj, which means union, binding together or unifying.",36.33629633139436
+bf16,Tamil,31,The Odissi dance form originated from the temple carvings on the walls of Orissa temples.,41.91184220445481
+bf16,Tamil,32,"Vashista now addressed Raja with a gentle tone, saying, ""Your word is your bond, so don't break it.""",18.15798164242309
+bf16,Tamil,33,"When Arjuna realizes his own limitations, he changes course and begins teaching Dharma (righteousness) in this world.",32.022875136389146
+bf16,Tamil,34,You can add grated coconut between rice balls when making montu (Meghalaya specialty).,27.06498011615522
+bf16,Tamil,35,"First pour a cupful of crushed coconut into the pot, then stir well with rice milk.",26.068168329950524
+bf16,Tamil,36,The Gurdwara was built in about 1835 after the granting of the title Maharaja Ranjit Singh by the British Empire.,22.085179677491286
+bf16,Tamil,37,The Vedic chants have been set to specific rhythms called Samaveda.,19.95346181229883
+bf16,Tamil,38,"The ancient city of Ayodhya was certainly not as big as our modern cities, according to Valmiki's description of its capital.",52.08019959661184
+bf16,Tamil,39,"If you say ""I will do"" then you must do it. There is no alternative.",25.110218693950127
+bf16,Tamil,40,"The value of the rupee has been fluctuating recently, with differing opinions on whether we have enough foreign currency reserves.",33.24010985467077
+bf16,Tamil,41,A credit card account can be reported as delinquent after three days without making any payments; banks may then charge late fees on that account.,27.573425959917763
+bf16,Tamil,42,Countries can welcome direct foreign investment to improve their finances.,66.05648575486212
+bf16,Tamil,43,The bank can reclassify the property back to its original classification status if it has been implemented within 90 days of receiving the application when the property was classified as such at the time of submission.,32.639993626256455
+bf16,Tamil,44,"Is private capital accumulation driven by an unstoppable force of concentration or does it act as a balancing mechanism through growth, competition, and technological advancement?",47.5532492254242
+bf16,Tamil,45,The market intervention prevents excessive volatility and stabilizes expectations.,57.91469408436964
+bf16,Tamil,46,"The data for the second quarter shows rapid changes, with economic activity continuing to weather the effects of the pandemic.",33.689043306803704
+bf16,Tamil,47,Ecological economics usually talks about how economies interact with each other and form large rules called macroeconomic variables.,31.969121443933545
+bf16,Tamil,48,"The term ""market cap"" refers to the total value of all outstanding shares of a company, which can be calculated as the price per share multiplied by the number of shares.",30.84881982837669
+bf16,Tamil,49,"In general, income recognition should be based on objective criteria rather than subjective opinions, without regard to any preconceived ideas.",48.82263784298538
+bf16,Tamil,50,So these interest payments will become overdue as they exceed their due date.,25.81338584635555
+bf16,Tamil,51,"The possibility of linking India's payment systems with those abroad, including cross-border remittances such as money transfers, could improve international payments across borders.",38.08267281336412
+bf16,Tamil,52,Energy resources have become increasingly important as liquefied natural gas (LNG) power plants and factories are being built.,28.013815172233343
+bf16,Tamil,53,"However, markets can help boost sales but they do not necessarily lead to long-term business growth and branding.",31.49932979809321
+bf16,Tamil,54,"Payment gateways play an important role in payment systems, so they were renamed as Payment Service Providers (PSP).",35.67498657195169
+bf16,Tamil,55,"However, current regulations do not apply to online or e-commerce transactions.",51.845454940773706
+bf16,Tamil,56,Ricardo's insight is that countries with maximum overall advantage can still benefit from importing products they cannot produce themselves while exporting those they do well at producing.,31.424530254027445
+bf16,Tamil,57,Banking reserves have grown at an accelerating rate of 16.2% since September 2022 compared to 6.7% one year ago.,37.64907153093512
+bf16,Tamil,58,"Crop insurance covers activities such as pesticide spraying, weeding, harvesting, sorting, grading, transportation of farm produce.",57.511054027914646
+bf16,Tamil,59,"Agricultural machinery includes tractors, plows, harvesters, etc., which can help farmers increase their productivity over time.",21.887840805067206
+bf16,Tamil,60,"Bank regulators have been looking at how informal banking activities can affect formal banks, especially when they invest heavily and convert them into more stable forms. This has led to efforts to control these activities because they can cause problems for both the formal financial sector and the economy as a whole.",34.08419238770104
+bf16,Tamil,61,The global financial crisis has led governments to look more closely at their weaknesses than ever before.,27.60031925202366
+bf16,Tamil,62,Market demand determines price; supply equals demand.,24.5797757567233
+bf16,Tamil,63,"The supply curve shows how much producers will produce at each price, while the demand curve shows how much consumers will buy at each price.",20.42519337699825
+bf16,Tamil,64,"The current account balance is made up of trade surplus (exports minus imports), net factor income (foreign investments or remittances on interest and dividends), and generally makes up a small percentage of the total amount.",50.27032718278358
+bf16,Tamil,65,Trade balance refers to the difference between exports and imports of goods and services.,52.76460707613708
+bf16,Tamil,66,"The Minister of State for Micro, Small and Medium Enterprises (Independent Charge), Shri Giriraj Singh, addressing the opening ceremony of the 15th Global Summit of the Ministry of Micro, Small and Medium Enterprises (MSME) here on December 19-20, 2018, said that with continued efforts, we have made significant strides in our ratings in both the World EOGP",46.67804493362425
+bf16,Tamil,67,"Inflation was projected at 6.7% over the year, 7.1% in the second quarter, 6.5% in the third quarter, and 5.8% in the fourth quarter.",21.12166758825234
+bf16,Tamil,68,India's exports have grown faster than its imports over the past few years.,25.39095624618502
+bf16,Tamil,69,"Currently, development factors include economic performance (growth rate, GDP as a percentage of fiscal deficit, debt as a percentage of GDP), social performance (poverty, inequality, employment level, food security levels).",50.30544585121056
+bf16,Tamil,70,"Economic debates often focus on balancing social and economic development with environmental protection, but they tend to overlook the importance of integrating these two aspects into policy-making.",35.193153479260644
+bf16,Tamil,71,"The restructuring debt will be calculated based on the current market value of the loan at present, with interest accrued over the first and second years being deducted from the principal amount due at the time of repayment, plus the appropriate premium for the type of creditor involved and the risk premium associated with that particular credit line.",42.5350016431591
+bf16,Tamil,72,"The Reserve Bank of India stepped up its efforts to stabilize the economy amidst the cash crunch, creating a special liquidity facility worth Rs. 50,000 crore for mutual funds (SLF-MF), which helped restore faith in financial markets.",46.29313384333549
+bf16,Tamil,73,Recent inflationary pressures have led to financial stresses and increased risk-aversion among investors.,22.72364923208483
+bf16,Tamil,74,Full-value notes will be treated as Treasury receipts while partial-value notes will be considered as rejected notes and action will be taken accordingly.,42.61308720028436
+bf16,Tamil,75,India has seen an explosion in its debt market.,18.010221813931437
+bf16,Tamil,76,"Despite facing such challenges, India has managed to maintain its economic growth over time.",23.72691478520527
+bf16,Tamil,77,"Financial markets have been shaken up recently, which could affect both practical economics and financial stability.",41.571020354617424
+bf16,Tamil,78,"If someone has more than five notes but less than 5,000 rupees, they should bring their bank account details with them when changing money at a nearby ATM or branch.",23.90913094665185
+bf16,Tamil,79,"The court also noted that data privacy was an essential aspect of individual autonomy and therefore should be given priority when collecting personal information, with only necessary identifiable data collected and used solely for its intended purpose.",37.415280250322645
+bf16,Tamil,80,"Cybercriminals use malware to attack computers and networks, causing damage or disruption.",31.36469579865151
+bf16,Tamil,81,Packaged foods often contain high levels of sodium as a preservative.,37.12493494300205
+bf16,Tamil,82,"If you don't hold on to your seat belt when driving, you can get thrown out of the car if something goes wrong while moving.",15.449229033693149
+bf16,Tamil,83,"But that very afternoon, one of the white-skinned prisoners released by Narabaht Singh came to tell the commander that he would only leave the camp after he had avenged himself.",36.072507813112345
+bf16,Tamil,84,The time was 1950 when Robert Montgomery served as the Chief of Staff of the Lahore Garrison.,43.598870034824536
+bf16,Tamil,85,"Despite having four times as many British soldiers than Indians at Meerut, no one suspected any wrongdoing until news arrived there, but even after that, they couldn't confirm whether those soldiers had secret contact with Meerut soldiers.",27.228340938213396
+bf16,Tamil,86,These can cause brain damage as well as enslavement.,18.127682339460584
+bf16,Tamil,87,The two sides were constantly exchanging troops.,29.840151005000333
+bf16,Tamil,88,"If he had been born into a family with such strong personal vendetta against him, his name would have been on the list of those who killed rather than those who sacrificed themselves.",45.40162819241029
+bf16,Tamil,89,He apologized and left me alone after looking at me briefly.,13.825690003251175
+bf16,Tamil,90,What if we never clean up our trash?,9.312815673649553
+bf16,Tamil,91,Digital technology has brought about many changes around us recently.,30.91700825848669
+bf16,Tamil,92,"In the past, letters took days to reach their destination, with each recipient having his own copy to respond individually.",43.07090219043443
+bf16,Tamil,93,The quality of revolutionary ideals determines whether they are good or bad people who can become saints or devils.,22.91168220447491
+bf16,Tamil,94,Gandhi married four times after his first wife died.,36.15611622417325
+bf16,Tamil,95,The idea that writing about social issues can become a way to raise awareness has been embraced by many writers.,19.11743128935502
+bf16,Tamil,96,His energy and courage were evident even before he was born.,11.86615486237184
+bf16,Tamil,97,"We could see hundreds of soldiers marching into town with perfect order and discipline, music playing as they marched, waving flags and banners along the way.",39.7615620284034
+bf16,Tamil,98,"They both studied Ramayana and Mahabharata together, as well as Maratha warriors' exploits, their youthful hearts were inspired equally by Hindu epics that inspire heroic tales.",28.20427054871005
+bf16,Tamil,99,"There aren't enough number of cloud-free optical satellite data sets available, which makes it difficult to use them for agricultural purposes during monsoon season.",47.06270127852063
+bf16,Tamil,100,Clicking on an infected ad can infect your computer with malware.,15.766296576052316
+bf16,Tamil,101,The lioness was aware that danger was approaching and leapt out of her cave to attack her enemy with claws instead of teeth.,21.747686941867805
+bf16,Tamil,102,Nana brought his army with him to Pitrukhanda and threatened to attack Kanpur.,44.89285650735123
+bf16,Tamil,103,The clerks surrounded me with their chairs.,28.67574223016845
+bf16,Tamil,104,"He was succeeded by his son, who ruled briefly after him.",21.83214158827112
+bf16,Tamil,105,Brotherly love is an important value in many cultures around the world.,16.348979222220606
+bf16,Tamil,106,"I thought that if they accepted this proposal, then others would also accept it.",35.67197684105108
+bf16,Tamil,107,Urban centers have diverse transportation systems as their main feature.,26.82408069199042
+bf16,Tamil,108,"The write ahead log (WAL) protocol ensures that if something goes wrong during recovery, you can restore everything back to its previous state or overwrite it with new values as needed based on what was written before.",28.31129547203901
+bf16,Tamil,109,"The same thing can happen when you have too many barriers: if you spend more time trying to get them off than getting them on, your chances of success will decrease; and if your arguments become more complicated, they may also fail to convince others.",32.17656971608226
+bf16,Tamil,110,Swimming pools can help you learn how to save your life if you ever find yourself in water.,14.93939916412386
+bf16,Tamil,111,Students should be encouraged to ask questions about first aid procedures while swimming.,58.93915158001563
+bf16,Tamil,112,The Punjab Soldiers were at the forefront of the nationalist movement that culminated in Independence.,24.351676712013703
+bf16,Tamil,113,My father does not have that kind of magnanimity.,20.980427193490925
+bf16,Tamil,114,"The British officer Henry was pleased with this because now he had a small loyal force consisting of an English regiment, two Sikh and Hinduist regiments who were tested through rigorous trials to prove their loyalty to Britain.",37.19631713148629
+bf16,Tamil,115,"The sun was rising over the horizon as we set off on our journey, ready to explore the beautiful landscapes and rich culture of this region.",19.38314950710253
+bf16,Tamil,116,"British soldiers, you have laboured hard to get your breakfast, not through bloody mangoes but with generous helpings of cold air underneath the shade of mahogany trees.",32.90770470294112
+bf16,Tamil,117,"You have seen this happen with seeds becoming plants, puppies growing into dogs, and so on.",38.447110225142936
+bf16,Tamil,118,Men can also be victims of sexual assault.,19.29065772406152
+bf16,Tamil,119,"Jhansi was struck by lightning recently, but Bundelkhand has been hit hard too with its sons preparing their swords for Swarajya (self-rule) while threatening to reveal their plans to foreigners if they don't form them into a club and then cut off their heads!",32.767235924054084
+bf16,Tamil,120,JPW Dutta was one of the pioneers of Bollywood cinema who made many iconic films that have become classics.,13.629546577683888
+bf16,Tamil,121,"The first film was Tuphan Mel (1932), which featured many fight scenes on moving train roofs.",28.6475218488082
+bf16,Tamil,122,Assamese cinema refers to films made in the Assamese language primarily seen in Assam state in India.,60.66611080455354
+bf16,Tamil,123,The process of making a film is often more mysterious than we would like.,15.98751910103079
+bf16,Tamil,124,The climate changes dramatically over time and space.,14.564976749736772
+bf16,Tamil,125,They create an amalgamation of art forms that result in a rich cultural tapestry.,19.23380542839676
+bf16,Tamil,126,The first online film evaluation course was launched on June 15th and will run until July 11th this year.,30.86429994200121
+bf16,Tamil,127,The course was held at the National Film Archive of India (NFAI) in Pune.,53.93014800344276
+bf16,Telugu,0,"The exterior appearance refers to the outward appearances of the person, including their shoes, clothes, tie, jewellery, hairstyle, makeup, accessories, watch, cosmetics, etc.",61.30426258940629
+bf16,Telugu,1,"Ajanta Caves are located near Aurangabad in Maharashtra, India, which has sculptures and paintings dating back to the first century BCE - fifth century CE.",47.478314078144415
+bf16,Telugu,2,The color palette of the body becomes more vibrant with the addition of shades that complement each other.,23.18066727427727
+bf16,Telugu,3,"Ashoka used stone extensively as a building material, replacing earlier traditions that had been based on wood and clay.",31.17696472734814
+bf16,Telugu,4,Masala Dosa,2.952555809220867
+bf16,Telugu,5,"Chittoor, Chennai, Coimbatore, Madurai, Salem, Tiruchirapalli, Tirunelveli, Tuticorin, Vellore, and Warangal districts of Tamil Nadu have their own distinct styles of cooking.",22.238001752919725
+bf16,Telugu,6,"Cinnamon is native to India, and its uses range from perfumery to medicinal purposes.",51.35227178383903
+bf16,Telugu,7,You can have it either as roti (a type of flatbread) or paratha (a type of layered flatbread).,14.77507343253374
+bf16,Telugu,8,"Punjabi food varies greatly across cities, with people in Amritsar preferring stuffed parathas and dairy products.",37.77658611906818
+bf16,Telugu,9,Ramayana,6.994245025041184
+bf16,Telugu,10,Mangal Pandey's heroic act was an example of unwavering dedication towards a higher cause.,32.127782043309686
+bf16,Telugu,11,"Mangalorean food is famous for its spicy curries made with onions, meat (usually mutton), and a long cooking time to tenderize the meat.",21.18106945632221
+bf16,Telugu,12,The Bhagavad Gita is one of the most important Hindu texts that teaches about life and spirituality through stories and characters.,27.50034526840378
+bf16,Telugu,13,The book aims to promote proficiency in Sanskrit expressions and wisdom in behavior.,43.08486375724374
+bf16,Telugu,14,"Professor Asit Kumar Banerjee was an influential figure who compiled the history of his own town Hughra in two volumes titled ""Hughra sabhar Itihas"" (first and second parts).",32.3853464055837
+bf16,Telugu,15,Some chayaas have open wooden gates at their front while others do not.,13.103436504742591
+bf16,Telugu,16,"Traditional maharajas and khansamas have been perfecting the recipes for generations, passing them down through oral tradition.",33.82426898264892
+bf16,Telugu,17,The preparation of Meghalaya cuisine traditionally involves the use of vaazas or cooks assistants.,35.146820924277755
+bf16,Telugu,18,"Pav Bhaji: This is a snack dish originating from Maharashtra, consisting of a thick vegetable curry served with soft bread rolls (pav).",59.44805184928097
+bf16,Telugu,19,"Lal Deed Mariy Habba Khauntoon-like Kashmiri works such as those of Mirabai have their own spiritual charm and intense yearning expressions, while Rajasthan's Meera Bai's work showcases unparalleled devotion qualities, and Andhra Pradesh's Aandaal Yogam and Kannada's Akkamahadevi Vachanas exemplify",28.96171180083363
+bf16,Telugu,20,Bagh Caves have beautiful Buddhist murals in Madhya Pradesh‌.,30.27483947975047
+bf16,Telugu,21,"The word root means ""foot"" but figuratively refers to the bottom or base of something.",28.200049268716032
+bf16,Telugu,22,The Indus Valley Civilization was known for its technological advancements in many fields.,58.779032051453775
+bf16,Telugu,23,The Pandavas all die; only Arjuna survives as the sole living Pandava brother.,45.52545899607493
+bf16,Telugu,24,The war lasted eighteen days and ended with the defeat of the Kauravas.,69.53324461820938
+bf16,Telugu,25,The Mahabharata is an ancient Indian epic that tells the story of a war between two groups of cousins who fought over the throne of Hastinapura.,34.2017906284618
+bf16,Telugu,26,"In Karnataka, vegetarianism is more common than meat-eating, so their cuisine tends to be mostly vegetarian.",32.184499743097554
+bf16,Telugu,27,The answer is that he was talking about the war.,15.970379953356131
+bf16,Telugu,28,The two major epics in Tamil literature are Silappadikaram and Manimegalai.,51.47856142548029
+bf16,Telugu,29,The spice is used with care here.,13.813240380963617
+bf16,Telugu,30,"Yoga is derived from the Sanskrit word yuj, which means to unite, integrate, or connect.",50.18533944496962
+bf16,Telugu,31,Odissi dance originated from sculptures on temple walls depicting diverse themes.,32.32972797016281
+bf16,Telugu,32,"Vasishta then turned to the king and said, ""You can't refuse after you have made your word.""",29.794332443472133
+bf16,Telugu,33,Arjuna's Dialogues is an epic poem written by Krishna that tells the story of his friend Arjuna who seeks guidance on how to fight in battle against the Kauravas.,24.10751177812628
+bf16,Telugu,34,You can add coconut flakes while stirring rice batter into the pot.,22.9402159886942
+bf16,Telugu,35,"The dish starts with a spoonful of coconut cream poured into a conical vessel, followed by a generous portion of rice flour batter.",38.97113451506502
+bf16,Telugu,36,Rani Jindan Devi donation led to the construction of a magnificent Gurdwara with intricate carvings in Nanded in 1835.,33.778135075690955
+bf16,Telugu,37,The hymns of Samaveda were composed with fixed metrical patterns and syllable counts.,19.599079229376997
+bf16,Telugu,38,"The ancient city of Ayodhya has been described by Valmiki as one that was ""the capital of Kosala"" - which means that it was an important city even in ancient times.",37.94893532992575
+bf16,Telugu,39,"Once you say ""I will"", there's no turning back.",16.999129271659953
+bf16,Telugu,40,The rupee has been fluctuating against foreign currencies recently.,16.809895674337763
+bf16,Telugu,41,"A credit card account can be reported as overdue to a credit information company (CICs) within three days after its due date, but only if there has been no payment on time since then. Otherwise, any late payment charges will apply.",43.21379832497016
+bf16,Telugu,42,Countries can encourage internal direct investment to improve their economic situation.,64.80782002123696
+bf16,Telugu,43,"If you apply for an approved package within 90 days after receiving your bank application, you can get your status back to pre-approved as if you had applied before.",23.01297067810687
+bf16,Telugu,44,Is wealth creation driven by individual investment concentration inevitably leading to inequality or can balanced growth and technological development reduce inequalities?,38.99979349008483
+bf16,Telugu,45,The government intervenes in markets to prevent over-inflation.,30.196912398288266
+bf16,Telugu,46,Q2 data shows that economic resilience has been maintained despite challenges.,34.174427152950976
+bf16,Telugu,47,Economics is about how markets interact to produce a wide variety of goods and services.,25.87278560674277
+bf16,Telugu,48,Liquidity refers to how easily an asset can be converted into cash without affecting its value.,32.42042517740654
+bf16,Telugu,49,The income tax system should be fair and based on actual revenue collection rather than personal judgments.,30.55234892095786
+bf16,Telugu,50,"So, interest amounts due on such loans will not become NPAs based on the date of filing.",32.799039015656184
+bf16,Telugu,51,The introduction of UPI (Unified Payments Interface) as an attempt to add such payment systems across India with existing ones will improve cross-border payments too.,25.72239830658683
+bf16,Telugu,52,Liquefied Natural Gas (LNG) has become increasingly important as an energy source in power generation due to its use in industrial applications such as fertilizer production.,43.30234554500043
+bf16,Telugu,53,"However, your business can grow sustainably if you create your own brand that will help you stand out from competitors.",35.66035484840056
+bf16,Telugu,54,Payment aggregators (PAs) have become key players in payment systems due to their regulation as POSs on March 2020.,32.65806546787013
+bf16,Telugu,55,"Online payment aggregators work on any platform, including those that have been around for years.",20.361606447286825
+bf16,Telugu,56,"Recognizing such countries can benefit from trading based on their comparative advantages, focusing on exporting high-value products while importing lower-cost ones.",28.532971348560075
+bf16,Telugu,57,Bank loan growth was at an all-time high of 16.2 percent per year during September 2022 compared with 6.7 percent last year.,38.913308330892335
+bf16,Telugu,58,Pichakari is a system of agricultural credit that allows farmers to borrow money before planting season to pay off debts incurred during previous seasons.,15.764650357316166
+bf16,Telugu,59,Agricultural credit can help farmers buy expensive equipment such as tractors and irrigation systems over time.,19.93572049754876
+bf16,Telugu,60,Banks are being closely monitored to prevent exposure to shadow banks which have been found to pose a threat to traditional financial systems and economies.,27.16725980105365
+bf16,Telugu,61,The government has been trying to find out more about missing children since the global economic crisis began.,24.63148706686193
+bf16,Telugu,62,The market clearing price is the price at which supply equals demand.,38.72996435477467
+bf16,Telugu,63,Supply and demand determine price levels.,23.4698409017585
+bf16,Telugu,64,"The current account surplus then consists of foreign investment income and remittances paid out as interest, dividends etc., which usually make up only a small portion of the total.",42.88298780429764
+bf16,Telugu,65,The trade balance refers to the difference between the value of exports and imports of goods and services.,68.9306423961592
+bf16,Telugu,66,"The Minister highlighted that due to continuous efforts, India has been able to move up one place on the Global EOODB rankings and also address challenges faced by MSMEs in linkages with GVCs.",21.431141541015524
+bf16,Telugu,67,"Income growth was moderately strong at 7.1 percent in Q2; moderate at 6.5 percent in Q3; and weak at 5.8 percent in Q4, with inflation projections at 6.7 percent in 2022-23.",48.43951871984784
+bf16,Telugu,68,India's export growth was stronger than its import growth during 2018-19.,44.964458540913775
+bf16,Telugu,69,"Currently, growth accounting focuses on economic performance (growth rate, fiscal deficit as percentage of GDP, debt-to-GDP ratio, tax revenue as percentage of GDP), but also social performance (poverty, inequality, employment levels, nutritional status among population).",61.192122552204864
+bf16,Telugu,70,The current economic discussions tend to focus more on social and economic management than environmental management.,40.302417193141885
+bf16,Telugu,71,"The present value of a loan with an appropriate interest rate on both principal and accrued interest at the time of restructuring can be calculated as follows: Present Value = (P x R / (1 + R)^n), where P is the original amount borrowed, R is the appropriate interest rate, n is the number of years until maturity, and P_LR is the bank's BPLR after refinancing.",39.07620314103238
+bf16,Telugu,72,"The Reserve Bank of India has intervened with a Special Liquidity Facility for MFs worth Rs 50,000 crore to restore confidence in financial markets.",46.81473838971948
+bf16,Telugu,73,"Recent price spikes have led to economic instability, fear of disaster, and negative sentiment.",19.399648992653887
+bf16,Telugu,74,"Full-value notes are considered as banknotes payable on demand, while half-value notes and rejected notes are treated as negotiable instruments subject to fair value determination.",36.90540802364551
+bf16,Telugu,75,India has seen an unprecedented growth in its debt market over the past few years.,29.06477935557585
+bf16,Telugu,76,"Despite the geographical challenges, India has managed to remain resilient economically.",30.9289052378384
+bf16,Telugu,77,The economy has been hit hard by concerns over potential size of the service sector and economic stability.,30.021493766212377
+bf16,Telugu,78,"A person submitting notes worth less than Rs. 5,000 can be insured against loss if he/she provides his/her bank details (account number, branch name, IFSC code) through an insurance taped with him/her at the nearest cash counter.",30.7833622615306
+bf16,Telugu,79,The court also noted that personal information and data must be protected as an essential aspect of privacy rights and should only be collected when necessary and used solely for the purpose for which they were gathered.,36.83350739004256
+bf16,Telugu,80,A cybercriminal is someone who attacks computers or networks with the intent to disrupt or damage information or services.,46.713873039922696
+bf16,Telugu,81,Packaged food products often contain high levels of sodium as a preservative.,38.16878856079157
+bf16,Telugu,82,The interior of an unrestrained car can become dangerously flammable if there is a fire inside the vehicle.,30.27437332243049
+bf16,Telugu,83,The general was told that one of the white prisoners had heard that Narpat Singh would surrender but only after he got his revenge.,29.59864957443016
+bf16,Telugu,84,The current Chief of Army Staff of Pakistan is Lt Gen Muhammad Aziz Khan.,15.92032865817806
+bf16,Telugu,85,The English officers at Meerut were initially unsure about their situation until they received news that reached them before the number of British soldiers was four times higher than the number of native Indians. This made it difficult for them to determine whether the natives were communicating with the British through secret channels.,38.61314045784557
+bf16,Telugu,86,They can have negative effects on your brain as well.,23.660919644360337
+bf16,Telugu,87,The two sides of the road are always changing with new armies arriving every day.,21.92650805453095
+bf16,Telugu,88,"If there was any personal grudge against Mangal Pandey, he would have been on the list of assassins rather than martyrs.",62.21060930427187
+bf16,Telugu,89,"He said goodbye with a smile, saying he had no time left, but I was still able to say thank you.",19.898663453420447
+bf16,Telugu,90,What happens if we don't clean up our trash?,11.601061595891316
+bf16,Telugu,91,The last few decades have seen significant changes around us due to technological advancements.,33.9166554332837
+bf16,Telugu,92,"In the past, getting an answer would take days, and everyone had their own personal response.",39.81409409813295
+bf16,Telugu,93,Revolutions can be either good or bad depending on their underlying principles.,24.42981159658869
+bf16,Telugu,94,"Gandhi married four times, but he was divorced each time after his wife died.",47.96289654889426
+bf16,Telugu,95,The idea of social responsibility has become an important theme in modern literature as writers try to raise awareness about issues such as slavery and injustice.,34.61590129049634
+bf16,Telugu,96,It can be said that this one fact alone makes him capable and worthy of being evaluated.,25.226443451040577
+bf16,Telugu,97,"We could see thousands of soldiers marching with perfect discipline down the mountain towards the city, accompanied by colorful flags and banners.",43.26412571159114
+bf16,Telugu,98,"They read together Rama and Mahabharata, Maratha war chronicles, inspiring them with Hindu heroic tales.",21.76137776684872
+bf16,Telugu,99,The lack of cloud-free satellite imagery during monsoon season poses a significant barrier to using optical remote sensing data for applications such as crop monitoring.,47.976311420573886
+bf16,Telugu,100,The internet can also contain harmful content that may end up on our system if we click on any suspicious links.,42.65514522221996
+bf16,Telugu,101,The cave bear was able to defend itself against its attacker with its claws.,11.906962996120338
+bf16,Telugu,102,Nana Bhatia was known as a daring guerrilla leader who would lead his men on long treks into enemy territory to attack their camps.,23.696492410471624
+bf16,Telugu,103,The shopkeeper and his staff were gathered around me.,57.34819043163641
+bf16,Telugu,104,The Second Jérôme Bonaparte was Emperor of France for only a short time.,21.84655921272834
+bf16,Telugu,105,The people of Meghalaya have an extremely strong sense of kinship with each other.,30.290954379600795
+bf16,Telugu,106,I think they would agree if others did too.,17.891084017227808
+bf16,Telugu,107,Urban areas have many types of transportation methods available.,33.50767253488429
+bf16,Telugu,108,"A crash recovery mechanism ensures that data can be recovered after a crash, with logging contacting back to the source, rewriting old evaluations to match the current state, but also ensuring that new evaluations are written to those locations.",28.232349411238246
+bf16,Telugu,109,"Advantages gained often come at the expense of disadvantages, and disputes over standards can become more complicated.",19.746163064576656
+bf16,Telugu,110,"Swimming pools are available, so drowning prevention measures should be taken if you can swim.",24.89092175692352
+bf16,Telugu,111,The students should ask questions if they have any doubts about swimming safety.,58.55369342845428
+bf16,Telugu,112,The Punjab Sipahis were known for their nationalist spirit during India's struggle for independence.,24.468220239898923
+bf16,Telugu,113,My father was not born with this kind of generosity.,26.38539211827045
+bf16,Telugu,114,"The rebellion was something that Henry found pleasing because he had kept an English regiment, artillery units, and two Hindu-Sikh regiments loyal to him so far.",28.203511921024933
+bf16,Telugu,115,The meal was ready when I arrived at the restaurant.,13.452406835412065
+bf16,Telugu,116,"You earned your breakfast with sweat on your forehead, British soldiers, not blood, so enjoy your lunch under cool mango trees with your officers.",39.11969850032012
+bf16,Telugu,117,"Seeds germinate, grow into plants, and then they develop into animals such as dogs and cats.",31.68831670179581
+bf16,Telugu,118,Boys are just as vulnerable to sexual abuse as girls.,68.97719964674044
+bf16,Telugu,119,"The lightning strike destroyed much of Jhansi, and Banks saw his sons ready to kill their father if he didn't tell the white man about their plans. He advised them to cut off their heads instead.",25.403499830482733
+bf16,Telugu,120,JBH Wadia and his brother HW Wadia were responsible for spreading stunt cinema across India.,34.74316700102914
+bf16,Telugu,121,They became kings of the genre with their epic 1932 film Tughlaq Nilaya (The Tower of Terror).,23.83465676859584
+bf16,Telugu,122,Assamese cinema is a film made in the Assamese language primarily seen in India's state of Assam.,59.508975719901215
+bf16,Telugu,123,The scientific classifications are less transparent.,57.51188263984124
+bf16,Telugu,124,The main reason why I am writing this blog post is because of my personal experience with the lazyness of people who do not want to work hard.,14.962595309001692
+bf16,Telugu,125,"They make something new out of what they have, resulting in a complex mix of styles.",25.42602666021389
+bf16,Telugu,126,"FTTI launched its first online film appreciation course on June 15th, 2020, starting from July 11th, 2020.",40.40214800430445
+bf16,Telugu,127,This course was co-organised with National Film Archive of India in Pune.,54.20954749364553
+bf16,Odia,0,"A person's appearance consists of many characteristics such as his shoes, clothes, tie, jewelry, hairstyle, makeup, accessories, perfume, etc.",48.15961946084236
+bf16,Odia,1,"Ajanta Caves, located in Maharashtra's Aurangabad district, contain non-Romanesque architecture and paintings dating back to the first century BCE through the fifth century CE.",48.2878101971515
+bf16,Odia,2,"The body color blends with the shadows, creating an effect of depth.",38.00737477785104
+bf16,Odia,3,"Ashoka introduced stone as a major material in sculpture and monuments, while earlier traditions used wood and clay.",36.863675611258174
+bf16,Odia,4,"The Maharashtrian dish called ""Pav Bhaji"" consists of potatoes mixed with spices, then boiled and mashed together before being fried into crispy bits.",29.281248172607757
+bf16,Odia,5,"Chettinad‌ cuisine is a distinct type of food that comes from the Chennai region of Tamil Nadu state, specifically from the community known as 'Nattukottai Chettiars', who call themselves 'Nagarathars'.",57.68354630766927
+bf16,Odia,6,"Dill is native to India, and its use ranges from being used as a spice to an herbal remedy.",33.308322811584475
+bf16,Odia,7,It can be ground using a dry grinder or stone mill.,33.819549339837195
+bf16,Odia,8,"Punjab has diverse tastes, with people preferring specific dishes such as Amritsari kulcha, Puri roti, and dairy products.",32.820972120772936
+bf16,Odia,9,Lord Rama was sent away with his brother Lakshmana.,32.83455802216558
+bf16,Odia,10,Only Mangal Pandey had such an extraordinary courage and dedication towards his ideal.,25.211041129606578
+bf16,Odia,11,Prawn curry with onions once marinated then stirred into the spices until they have all been absorbed by the prawns.,28.29138823177292
+bf16,Odia,12,The Hitopadesa is a collection of fables that uses animal characters to teach moral lessons.,31.99277685599624
+bf16,Odia,13,The book aims to promote skills in expressing emotions and using wisdom in Sanskrit.,27.302145274741363
+bf16,Odia,14,"Professor Acyuta Kumar Bandopadhyay played a crucial role in compiling the history of his hometown Hawrah, which was published as two volumes titled ""Hawrah Sahareer Itihaso"" in 1994 and 1995.",52.252654759538885
+bf16,Odia,15,"Chaitya windows are semi-circular openings with a wooden frame on the front side of temples, but there are no large semicircular window structures at all in some temples.",31.352211866269936
+bf16,Odia,16,"Traditional chefs have been passed down through generations, preserving these recipes with their expertise and knowledge.",27.759112177993337
+bf16,Odia,17,The preparation of Meghalaya cuisine traditionally involves a Basta Waza (head chef) assisted by a Basta Waza team (cooking crew).,38.55335094505542
+bf16,Odia,18,"Pav Bhaji: It is a fast food dish originating from Maharashtra, consisting of thickly fried vegetables served with soft pav (bhaji).",56.408892048203626
+bf16,Odia,19,Reddeed O Haba Khutun‌ and Haba Khutun‌ have their own distinct flavors and expressions that set them apart from other North Eastern Indian states.,13.624399732419008
+bf16,Odia,20,"Bodh Gaya, also known as Mahabodhi Temple, is an important Buddhist pilgrimage site located 97 km (60 miles) southwest of Patna, Bihar.",27.376349713329777
+bf16,Odia,21,"In Sanskrit literature, the word 'moola' has both literal and figurative meanings - as a plant root, but also as the bottom or lowest point of something.",47.009366800685385
+bf16,Odia,22,The Indus Valley Civilization was known for its technological advancements in many fields.,58.779032051453775
+bf16,Odia,23,The Pancha Pandavas (the five brothers) survive while all others die.,38.11767151171665
+bf16,Odia,24,The battle lasted eighteen days and ended with the defeat of the Kauravas.,76.5925394782495
+bf16,Odia,25,"The main story of Mahabharata is about an ongoing struggle over the throne of Hastinapur, which was the ancestral home of a tribe known as the Bhāratas, who were later called Vṛjīans.",45.30556819425992
+bf16,Odia,26,"Karnataka has an unusually high number of vegetarians compared to meat eaters, so their diet consists mostly of vegetarian foods.",39.10346319008963
+bf16,Odia,27,"He replies with ""I know.""",6.853250537818728
+bf16,Odia,28,The two Tamil epics that we have are Silappadikaram and Manimekalai.,55.941967268113416
+bf16,Odia,29,Lemongrass is used with care here.,12.0647722648718
+bf16,Odia,30,"The word 'yoga' comes from the original Sanskrit 'yuj‌', meaning to join or bind together.",45.44666562749632
+bf16,Odia,31,Oriya temple carvings have evolved over centuries into an intricate art form that reflects many aspects of life and culture.,22.96595472745937
+bf16,Odia,32,"Bashisht looked at Rajan‌ and bowed respectfully: ""It is unwise to make promises you cannot keep.""",25.29923379607768
+bf16,Odia,33,Arjun realizes his own limitations when he understands that there is more to life than just being angry at himself. He then begins teaching others about the mysteries of religious behavior on Earth.,33.6362614330692
+bf16,Odia,34,You can add a little bit of korra niya (coconut milk) when pouring rice into the pot while stirring.,24.131854758313985
+bf16,Odia,35,"You can start with chammacha kora (narial) which is a cylindrical shaped container made out of coconut shells, then you put rice powder inside it.",28.98231829220292
+bf16,Odia,36,"The Maharaja Ranjit Singh Gurudwara was built near Nanded in 1835, with intricate carvings on its golden dome.",37.55942195192519
+bf16,Odia,37,The Sam Veda is a collection of hymns composed in specific meters and rhymes.,22.4587667667313
+bf16,Odia,38,It seems that ancient Ayodhya was not as grandiose as modern cities.,37.3100717039852
+bf16,Odia,39,You have no choice but to do what you say.,29.081899707191887
+bf16,Odia,40,The recent days have seen divergent views on the exchange rate and foreign currency reserves.,53.39258301821649
+bf16,Odia,41,"A credit card company will report past due information to CIC if there is any such thing as late payment fees, interest charges, etc., on your account for more than three days.",45.203059140925895
+bf16,Odia,42,States can promote domestic direct investment to improve their financial status.,54.96147900633882
+bf16,Odia,43,"If approved packages can be implemented within 90 days after application submission, then property classification status will be restored as it was when reclassified at the time of approval.",31.48408737577633
+bf16,Odia,44,"Is the dynamic nature of private capital accumulation inherently unequal, or does it mitigate against inequality through growth, competition, and technological progress?",52.18204540290643
+bf16,Odia,45,It controls inflation through monetary policy and intervenes in markets when necessary.,33.450610122646815
+bf16,Odia,46,The data suggests that economic activities have returned to normal levels.,33.66516188215425
+bf16,Odia,47,The concept of macroeconomics refers to how all markets interact with each other to create larger economic phenomena.,36.86763420269017
+bf16,Odia,48,Economic bubble refers to an asset price that has risen so high that its value appears inflated due to speculation rather than fundamentals.,25.176761508546125
+bf16,Odia,49,The overall approach should be fair and balanced rather than subjective judgments.,26.43194103038862
+bf16,Odia,50,"So, interest accrues but does not have an expiration date and is therefore n›PA.",22.311527278459256
+bf16,Odia,51,"The UPI system will expand India's cross-border remittance capabilities, including money transfers, which could significantly increase foreign exchange inflows into the country.",25.76255318913592
+bf16,Odia,52,Liquified Natural Gas (LNG) has become increasingly important as an energy source because it can power electricity generation plants and industrial facilities such as fertiliser production.,40.35639135747383
+bf16,Odia,53,"While marketization can help you grow your business quickly, it does not necessarily lead to long-term success and branding.",27.18277433527997
+bf16,Odia,54,Payment aggregators have become increasingly important in payment systems and were recently included as PSOs under the Act.,29.180590878972385
+bf16,Odia,55,"However, current laws do apply to online trading or e-commerce aggregators.",34.989680678551984
+bf16,Odia,56,"Ricardo observed that such a country could benefit from exporting its high-value products and importing lower-value ones, while still reaping benefits despite having relatively low comparative advantage.",37.55454205275655
+bf16,Odia,57,Bank credit grew at an accelerated pace of 16.2 percent compared with 6.7 percent one year ago.,61.45547055017493
+bf16,Odia,58,"Pre-harvesting activities include irrigation, weeding, harvesting, sorting, grading, and transportation of their own agricultural products.",56.93397226965536
+bf16,Odia,59,Agricultural machinery purchases under medium and long-term loans will include irrigation projects and other developmental activities such as water management systems.,48.82548530225954
+bf16,Odia,60,"Banking observers have been watching the threat posed by shadow banks, which are increasingly challenging traditional banking systems due to their ability to influence both financial markets and everyday money transactions.",28.30993858475538
+bf16,Odia,61,The official sector has been increasingly collecting more accurate data on hidden vulnerabilities since the global financial crisis.,59.41452250993593
+bf16,Odia,62,The market price is determined by the equilibrium between supply and demand.,45.05560623898077
+bf16,Odia,63,The equilibrium price and quantity of goods and services can be determined as a function of supply and demand levels.,45.37380215244041
+bf16,Odia,64,"Net worth is the difference between what you earn abroad and what you spend on foreign investments, which usually amounts to a small fraction of your total assets.",30.155399209939937
+bf16,Odia,65,The trade balance is the difference between the value of exports and imports of goods and services.,73.55053995514808
+bf16,Odia,66,"Minister of State (Independent Charge) for Micro, Small and Medium Enterprises (MSME), Shri Gaurav Vardhan Singh said that continuous efforts have led to improved ranking of EODB locations globally and also helped MSMEs connect with global value chains (GVCs).",35.14662738831778
+bf16,Odia,67,"The inflation projection for Q2 2023 is at 6.7 percent, while considering both risk factors, with a neutral outlook on risks.",32.710100042352934
+bf16,Odia,68,India's import growth has slowed down but its exports have continued to grow faster than its imports.,38.67375529332966
+bf16,Odia,69,"The focus on growth has been primarily on economic indicators such as GDP growth rate, fiscal deficit as a percentage of GDP, public debt as a percentage of GDP, tax revenue as a percentage of GDP, etc., while social indicators have received less attention.",47.6196514894661
+bf16,Odia,70,"Recent economic discussions have been focusing on balancing social and economic performance with environmental performance, often neglecting the interplay between them.",54.64574046531886
+bf16,Odia,71,"The loan will be restructured at an appropriate discount rate based on the current value of cash flows since the repayment schedule has been adjusted to reflect the interest accrued on the outstanding principal plus the unpaid portion of the original principal due over the life of the loan, as well as any losses incurred by the borrower during the period of refinancing.",41.57851193053058
+bf16,Odia,72,"The Reserve Bank of India introduced a special liquidity facility worth 50,000 crore ($7.2 billion) to help stabilize the financial system amidst mounting pressure on cash flow.",34.64736257201131
+bf16,Odia,73,The recent sharp rise in fuel prices has exacerbated financial stresses and led to heightened volatility and risk avoidance among investors.,36.83211318881671
+bf16,Odia,74,Full-value notes‌ are accepted as currency by RBI offices while half-value notes‌ and rejected notes‌ are considered as legal tender.,29.841119227044626
+bf16,Odia,75,India has seen an impressive rise in its debt market.,19.20258709527398
+bf16,Odia,76,"Despite global instability, India has remained resilient economically.",30.43773493074936
+bf16,Odia,77,Financial markets have been shaken by concerns over potential economic and financial instability.,41.32034556545718
+bf16,Odia,78,"The tenderder‌ should send his/her bank account details (account number, branch name, IFSC code, etc.) via insured post to a nearby current currency cheque-house with an ATM at that place.",36.43482709025184
+bf16,Odia,79,"Cryptocurrency data centers must prioritize protecting citizens' privacy rights above all else when collecting personal identifiable information, as this is essential to upholding their right to privacy. They can only collect such data that is necessary for its intended purpose and use it solely for that purpose.",37.12032925412173
+bf16,Odia,80,A cybercriminal attacks a computer or network to gain unauthorized access to data or services on another computer or network.,61.5639525515043
+bf16,Odia,81,Packaged food products contain high levels of sodium due to the use of salt as a preservative.,43.86814987813892
+bf16,Odia,82,"A vehicle moving at high speed can suddenly stop due to an uncontrolled braking, skillful driving, or accidental collision with another object.",27.00346318306328
+bf16,Odia,83,But one of those prisoners who was freed by Narpat Singh earlier that morning told General that he had heard that Narpat Singh said he would leave the fort only after taking revenge on himself.,38.67305032001015
+bf16,Odia,84,The Pakistani Army Chief was General Rahimuddin Khan.,12.011810025246822
+bf16,Odia,85,"The British officers were surprised when they found out that their soldiers had been defeated by an army four times as large, but because there was no news from Meerut until then, they couldn't know if the Meerut soldiers were secretly communicating with them.",37.82233443154016
+bf16,Odia,86,Ecstasy can have both pleasurable effects on the brain but also negative side effects.,38.66089931562343
+bf16,Odia,87,Both sides were receiving new troops every day.,39.25155287550028
+bf16,Odia,88,"If there were any individual who deserved to be remembered as a martyr, Mangal Pandey would certainly be on that list.",31.88271773018881
+bf16,Odia,89,"He looked at me once more and said with humility, ""I'm sorry, we're all full."" And he bid me farewell.",23.437042333112917
+bf16,Odia,90,"If we don't clean up our own messes, what will happen to us?",21.459728186352677
+bf16,Odia,91,"Over recent years, our surroundings have seen many changes due to digital technology usage.",41.221562753114846
+bf16,Odia,92,"In the past, letters took days to arrive, and each recipient had their own copy of the letter and kept separate responses.",45.1117886625897
+bf16,Odia,93,"The balance between good and evil forces can be seen as an inherent aspect of their nature, with either being beneficial or harmful depending on how they are used.",24.391065123866223
+bf16,Odia,94,"Gandhi married four times, but he was never happy with any of them.",34.87116737770399
+bf16,Odia,95,The concept of justice has become an important social duty for writers to raise awareness about slavery and freedom among people.,36.726473085363125
+bf16,Odia,96,It's all there in his power and character.,23.647310244443958
+bf16,Odia,97,"We could clearly see hundreds of soldiers marching down the road, following strict orders, performing military drills with their flags waving and banners flying.",34.55506353458112
+bf16,Odia,98,"They read together Rama's Ramayana and Mahabharata, they recited together Maratha war stories, and their young hearts were stirred with tales of Hindu heroism that inspired them all at once.",43.95038981765576
+bf16,Odia,99,The lack of sufficient cloud-free optical‌ satellite data makes it difficult to use remote sensing data for agricultural applications during rainy seasons.,48.4047364333877
+bf16,Odia,100,It can also reach our computer through an online advertisement.,42.22984207492341
+bf16,Odia,101,"He ran away from his cave fearing that he would get killed by the enemy, but instead managed to kill him with one punch and leave him bleeding on the ground.",29.981050626322293
+bf16,Odia,102,They took their weapons with them and threatened to attack Kanpur.,40.24636425836526
+bf16,Odia,103,The shepherds gathered around me.,53.13315258383248
+bf16,Odia,104,The next time I see you will be at my house.,11.001540091739033
+bf16,Odia,105,The brothers were deeply in love with each other.,69.14390273788607
+bf16,Odia,106,"I felt that if they agreed to this proposal, others might also feel compelled to follow suit.",54.355077515653015
+bf16,Odia,107,The busiest element of urban life is transportation.,38.79389346545724
+bf16,Odia,108,"A crash‌ recovery protocol ensures that all changes made during a reorganization process are found and restored accordingly, whether they were old or new systems.",26.81419231560532
+bf16,Odia,109,"The first challenge is that when there are multiple tags, you have to spend more time on tagging and deleting them, while the second challenge is that accuracy becomes more complex.",36.40306001311758
+bf16,Odia,110,Swimming can save your life if you have access to a swimming pool or ocean.,17.560790919066484
+bf16,Odia,111,Students should be encouraged to ask questions if they have any doubts about swimming safety procedures.,73.27175495287537
+bf16,Odia,112,It was necessary to know how far the spirit of national independence had been awakened among Punjab Sepoys.,70.14867927856385
+bf16,Odia,113,My father was not used to such kind of luxury.,25.40956363990581
+bf16,Odia,114,"The rebellion pleased Sir Henry because now he had a special army that included English soldiers, artillerymen, and two groups of troops made up of Sikhs and Hindus who proved their loyalty under tough tests.",35.992878781482446
+bf16,Odia,115,"The army was well equipped, had plenty of water, and food supplies were plentiful.",14.159999924620625
+bf16,Odia,116,"British soldiers have earned their breakfast with sweat, not free blood circulation, so they can enjoy their breakfast under cool shade of mango groves with their commanders.",43.92385690778562
+bf16,Odia,117,"You may have seen mangroves growing as seedlings or saplings, or even seeing them grow into mature trees over time, such as dogs turning into puppies.",35.25223183784865
+bf16,Odia,118,Children are also vulnerable to sexual abuse.,65.91732610774133
+bf16,Odia,119,"Bengal was devastated when lightning struck Jhansi, but seeing his sons ready to sacrifice their lives for freedom, he warned them that if they surrendered their swords, he would inform the enemy about their plans and advise them to cut off their heads!",40.54408854091072
+bf16,Odia,120,"J.B.H‌ was responsible for making stunt films popular among moviegoers worldwide, including those who watch Wiiya movies.",29.16780248415448
+bf16,Odia,121,"They became iconic with their train fight scenes, which have been featured in many films over the years.",26.280702658561744
+bf16,Odia,122,Assamese cinema is the film industry based in the state of Assam in India.,39.39313319156378
+bf16,Odia,123,The ancient art form of Odisha has been transformed into modern forms.,16.690031556646183
+bf16,Odia,124,"The food here is more spicy than elsewhere in India, but with less heat.",13.77253564467221
+bf16,Odia,125,The novel takes on many forms and results in a mixed style that blends elements of several genres.,26.730839441944138
+bf16,Odia,126,Festival of India International Film Institute (FIIFI) launched its first online film festival on 15th June‌ to 11th July‌ 2020.,36.7706812148544
+bf16,Odia,127,The text was organized with the help of the National Film Museum in Pune.,42.00228990041693
+nf4,Hindi,0,"Service people have many qualities that combine together, such as their shoes, clothes, ties, jewelry, hairstyles, makeup, watches, cosmetics, etc.",45.077609878595645
+nf4,Hindi,1,Ajanta Caves in Maharashtra are famous for their sculptures and paintings dating back to 1st century BCE to 5th CE.,30.172281376000186
+nf4,Hindi,2,Expansion makes your body look bigger.,7.994810523513006
+nf4,Hindi,3,"Ashoka started using stone extensively for sculptures and monuments, which was previously only done with wood and clay.",51.58397779846523
+nf4,Hindi,4,Maharashtrian food is famous all over India for its variety and richness.,18.55428931123841
+nf4,Hindi,5,Chettinad food is native to Tamil Nadu's Chettinad region and its people called themselves Nagarathars.,34.578042187183286
+nf4,Hindi,6,Cinnamon is native to India and used as both food flavoring and medicine.,43.94699490946372
+nf4,Hindi,7,Grind them with stone mills or grinders.,23.40275130836101
+nf4,Hindi,8,"Punjabi food has many regional specialties, such as Amritsari kulche, Bharture parantha and milk products.",38.09181672352263
+nf4,Hindi,9,"""Rama send him with sage Vishwamitra.""",21.045892808409477
+nf4,Hindi,10,But Mangal Pandey did this with an unflinching dedication to his principles.,33.76011228680304
+nf4,Hindi,11,Pink onion when kept overnight with spices can be used as an ingredient for meat dishes.,14.516477034628764
+nf4,Hindi,12,"The book Hitopadesha is a collection of fables about animals, birds, and humans through which moral lessons are conveyed.",45.75033550815766
+nf4,Hindi,13,It seems that the book aims to encourage proficiency in Sanskrit expression and knowledge of good manners.,61.39991438056035
+nf4,Hindi,14,"Professor Asit Kumar Bandhopadhyay has played an important role in compiling the history of his home town, Howrah, in two volumes entitled Howrah Shahir Itihas (First and Second Volumes).",54.70661492190736
+nf4,Hindi,15,The Chaitya Hall has an open front with wooden building facade and sometimes no main Chaitya archway.,27.233365461360453
+nf4,Hindi,16,The royal chefs and their cooks have perfected these recipes over centuries through oral tradition.,35.908151597201474
+nf4,Hindi,17,The food is prepared with help of large teams of cooks.,14.060546971019988
+nf4,Hindi,18,"Pav Bhaji: This is a fast food dish originating in Maharashtra, consisting of a thick vegetable mixture cooked with butter then served with a soft bread roll called pav.",63.77176945472252
+nf4,Hindi,19,"Haba Khauthah and Lall Dyad are known for their spirituality and deep emotions expressed through their compositions, Rajasthan has become famous for Meera Bai's compositions that showcase her profound devotion, Tamil literature boasts of Aandaal's mysticism and wisdom, and Kannada literature also celebrates women's contributions during that time.",38.776411753143336
+nf4,Hindi,20,"Tigers Cave, which has Buddhist frescoes carved into its walls, lies about 97 km away from Bhopal in central India.",23.677009859366063
+nf4,Hindi,21,The word root has also come to mean any object's foundation or base.,12.881863902817988
+nf4,Hindi,22,The Indus Valley Civilization was known for its technological knowledge across many regions.,61.744170597753225
+nf4,Hindi,23,All the kauravas die; only five pandav brothers and Krishna survive.,72.33072523411573
+nf4,Hindi,24,The war lasts eighteen days and ends with the defeat of the Pandavas.,65.89212723370943
+nf4,Hindi,25,"The epic Mahabharata tells the story of a struggle over succession at the heart of a kingdom that was based on modern Delhi and known as Bharatvarsha, which is believed to have been home to an ancient tribe called the Bhartiya.",42.87161329605125
+nf4,Hindi,26,"Karnataka has more vegetarians than meat eaters, so their food mostly consists of vegetarian dishes.",41.22691591728562
+nf4,Hindi,27,"Hey Sanjay, what's going on at the front?",19.878280139967057
+nf4,Hindi,28,The Tamil epic Silappadikaram and Manimekala are two famous works.,45.30854338647692
+nf4,Hindi,29,The spice used in this region is carefully employed because of its heat.,41.63160323100076
+nf4,Hindi,30,Yoga is an ancient practice that originated in India and has become popular worldwide as a form of exercise and meditation.,17.261019376396355
+nf4,Hindi,31,Oriya architecture has evolved over centuries on temple walls with countless images depicting mythological stories.,30.770711032897573
+nf4,Hindi,32,"Wishtasha now turned towards King and said softly: ""King, your promise does not look good.""",34.20520712301403
+nf4,Hindi,33,"When Arjun realized that his own hubris was responsible for the war, he changed his attitude towards religion and started teaching others about its secrets.",32.15317318185555
+nf4,Hindi,34,You add rice flour gradually while pouring in coconut at intervals.,25.23470381647746
+nf4,Hindi,35,You can start with one spoonful of ground coconut mixed with rice flour.,30.70837053949664
+nf4,Hindi,36,The Gurudwara built by Maharaja Ranjit Singh in 1835 E marks one of the earliest instances of public construction funded by a ruler in India.,30.356425928030955
+nf4,Hindi,37,"Samaveda is one of the four Vedas, which are sacred texts of Hinduism.",19.405797710909013
+nf4,Hindi,38,The description of Ayodhya's ancient capital makes it clear that modern cities can learn much about their past.,42.22916772508257
+nf4,Hindi,39,You have to do it; you can't say no.,23.535520661467874
+nf4,Hindi,40,"In recent years, there have been differing views on how much foreign currency reserves India needs to maintain its exchange rate stability.",45.04826810871619
+nf4,Hindi,41,"When a credit card account shows three days or more past due balance, only then banks can inform CICs that there is an outstanding debt.",28.90059272108104
+nf4,Hindi,42,The government can encourage foreign investment to improve its economic condition.,41.514591903880174
+nf4,Hindi,43,"However, if approved packages are implemented within 90 days after application received by bank, the asset classification status can be re-classified at the same level as when applied.",38.07319056485424
+nf4,Hindi,44,What is the relationship between private capital accumulation and inequality?,24.430429659970027
+nf4,Hindi,45,The central bank intervenes in markets to reduce volatility and prevent hyperinflation.,43.70229952457739
+nf4,Hindi,46,The second quarter had high frequency data indicating strong economic activity.,43.35965319878248
+nf4,Hindi,47,The study of macroeconomics focuses on how individual markets interact with each other to produce broader economic phenomena that economists call aggregate variables.,54.92906983897773
+nf4,Hindi,48,Short-Term Capital Flows,4.227571562270286
+nf4,Hindi,49,The policy should be based on objective criteria rather than subjective ones.,35.5353076742083
+nf4,Hindi,50,"Therefore, interest that has overdue dates does not become uncollectible and becomes an unsold asset.",32.90846277914399
+nf4,Hindi,51,"The integration of India's payment systems with those of other jurisdictions will improve cross-border payments including remittances, among others.",37.3351958024946
+nf4,Hindi,52,LNG is becoming increasingly important as an energy source due to its use in power plants and industrial facilities.,28.215366693400743
+nf4,Hindi,53,Marketing sites can help you sell more but they don't make you a long-term brand that people will love.,19.7558959522436
+nf4,Hindi,54,Payment collectors (PA) have been given tax status as payment system operators (PSOs) under new rules effective March 2022.,27.796086205755223
+nf4,Hindi,55,The regulations apply to all payment groupers that process online or e-commerce transactions.,49.295259659132256
+nf4,Hindi,56,"The country should focus on exporting goods that have a comparative advantage over others, such as those with a high degree of efficiency relative to their costs.",22.32544419732993
+nf4,Hindi,57,"Bank credits grew at an accelerated rate of 16.2 percent year-on-year (y-o-y) on September 9, 2022, compared with 6.7 percent during the same period last year.",62.38719640141262
+nf4,Hindi,58,Crop insurance covers these costs.,7.423885484762466
+nf4,Hindi,59,Agricultural credit is extended for long-term loans for irrigation and other developmental works.,38.8980249133438
+nf4,Hindi,60,Banks inspectors are looking into how shadow banks affect traditional banking and trying to limit their impact on capital and liquidity as revealed by this revelation.,33.912347355273
+nf4,Hindi,61,The government has been increasingly seeking more information about its own vulnerabilities during the global financial crisis.,44.48698022785955
+nf4,Hindi,62,The market clearing price must equal supply and demand.,31.08133875422084
+nf4,Hindi,63,The equilibrium price and quantity of goods and services will be determined by supply and demand at that point.,32.6075999038659
+nf4,Hindi,64,"The current account balance is the difference between the total amount of foreign investment outflows and inflows, including interest and dividends paid on foreign investments and transfers received from abroad.",46.02319424078412
+nf4,Hindi,65,Trade balance is the difference between the value of goods exported and imported.,50.86174397316725
+nf4,Hindi,66,"Minister Griha Singh said that the Ministry of Micro, Small & Medium Enterprises has been working hard to improve our ranking on the Global EOIB index and address the challenges faced by MSMEs in connecting with global entities.",33.279553599069374
+nf4,Hindi,67,"Inflation is expected to remain at 6.7 percent in the second quarter, with an estimated growth rate of 7.1 percent in the third quarter, and 6.5 percent in the fourth quarter.",33.86575474649223
+nf4,Hindi,68,"India's imports have increased despite falling exports, but they were still more than its exports.",27.77456209257431
+nf4,Hindi,69,"The current focus of growth accounting is on economic performance (growth rate, GDP as a percentage of government debt, GDP as a percentage of tax revenue, etc.), social performance (poverty, inequality, employment levels, nutrition levels, etc.) and environmental sustainability.",63.90795759475635
+nf4,Hindi,70,The current economic discourse often neglects the need to maintain social and environmental performance balance.,42.43280095503329
+nf4,Hindi,71,The restructuring process will include an assessment of the fair value of the debt at the time of origination as well as the interest rate on that debt when it was originally issued. This includes both the current market value of the debt and its original interest rate.,29.670565564964978
+nf4,Hindi,72,"The Reserve Bank of India has extended a special liquidity facility worth Rs 50,000 crore to help tide over the current financial crisis.",27.75174700688372
+nf4,Hindi,73,"The recent sharp increases in interest rates and the resulting economic conditions have led to extreme volatility, and people are becoming risk-averse.",39.99740836607037
+nf4,Hindi,74,The RBI will issue full-value notes at its treasury branches while half-valued & demonetised notes will be presented to the authorities for scrutiny before they can be issued back into circulation.,33.65608665539161
+nf4,Hindi,75,India has seen an enormous increase in its debt-to-GDP ratio.,19.74795660464493
+nf4,Hindi,76,"Despite global uncertainties, India's economy has been steadily growing over the past few years.",29.31798029266365
+nf4,Hindi,77,Financial markets have been shaken up with concerns about its real economy and financial stability.,49.54824095280311
+nf4,Hindi,78,"When given more than five notes worth over 5,000 rupees, you should advise your bank to send them by post with your account details so that they can get their money back if lost or stolen.",23.092973617719636
+nf4,Hindi,79,"The court also noted that privacy rights are an essential component of personal information and data protection, and therefore CBDC publishers must prioritize collecting only necessary private identifiable information and using it solely for its intended purposes.",34.35628590721958
+nf4,Hindi,80,Cybercrime is an illegal act that involves accessing another person's computer or network with the intent to steal data or services.,38.84068224387697
+nf4,Hindi,81,Packaged foods contain very high levels of sodium because they are preserved with salt as preservative.,47.05447806328242
+nf4,Hindi,82,The sudden stopping of a vehicle can cause an uncontrolled crashing force on the body which may result in serious injuries.,21.8681384220391
+nf4,Hindi,83,"But that morning, a white prisoner who had been released by Narpat Singh arrived at the English camp and reported that he had heard Narpat Singh say that he would evacuate the fort but only after taking revenge.",52.76210576320055
+nf4,Hindi,84,The army commander at Lahore was Robert Montgomery.,40.070550073696566
+nf4,Hindi,85,"Although there were four to one more British soldiers than Englishmen at Meerut camp, when news reached them, they had no reason to suspect that their fellow officers were secretly communicating with the English troops at Meerut.",36.140826284812654
+nf4,Hindi,86,They also cause brain damage.,14.458406663573268
+nf4,Hindi,87,Every day new pieces were coming in both directions.,40.04633730729576
+nf4,Hindi,88,"If anybody had personal grudge against him, he would have been listed as murderers rather than martyrs.",34.232836976177616
+nf4,Hindi,89,"He looked at me once, and with humility said, ""Sorry, we have no vacancy."" I bid him farewell.",21.37789918352873
+nf4,Hindi,90,What if we didn't clean up our surroundings?,18.66573812252529
+nf4,Hindi,91,"In recent years, our whole world has changed dramatically due to digital technology.",39.86209674433312
+nf4,Hindi,92,"In the past, letters took several days to reach their destination, and each recipient would have received his own copy and responded separately.",60.38921400159386
+nf4,Hindi,93,Revolutionary fervor is revered or despised depending on whether its principles are beneficial or detrimental.,30.54551908895034
+nf4,Hindi,94,Cabinet Gandhi married four times after his wife died each time.,47.58505685651209
+nf4,Hindi,95,It became their social responsibility to write about justice and freedom of slaves.,43.74342966980812
+nf4,Hindi,96,It only takes one look at them to know that they have something special about them.,11.896234224398793
+nf4,Hindi,97,We could see hundreds of soldiers marching in full uniform up the mountain with their flags and banners waving proudly.,26.788741364232894
+nf4,Hindi,98,"They read together Ramayana and Mahabharata; they also read accounts of Maratha wars, and Hindu heroic tales inspired them both with great enthusiasm.",33.20938715118209
+nf4,Hindi,99,The lack of sufficient amount of cloud-free satellite data during the monsoon season hinders significantly the use of cloudless remote sensing data for agricultural applications.,53.16749484988126
+nf4,Hindi,100,"When we click on an online ad that seems suspicious, our computer system can also get infected with malware.",40.25712401340989
+nf4,Hindi,101,He fled his motherland when he saw danger at Chiliawala and killed an enemy with one paw.,20.61425419400563
+nf4,Hindi,102,They left with their threat to invade Kanpur.,15.614114556510147
+nf4,Hindi,103,The sultan was surrounded by his guards.,20.035496930470067
+nf4,Hindi,104,"After that, Xerxes II ruled for a while.",44.8825034670575
+nf4,Hindi,105,Both brothers loved each other very much.,36.53845112403705
+nf4,Hindi,106,"I thought that if they agreed to the proposal, others could be persuaded to agree as well.",74.2447893865951
+nf4,Hindi,107,"Urban areas have many transportation modes including cars, buses, trains, bicycles, motorcycles, taxis, etc.",29.69258839841628
+nf4,Hindi,108,"Right-Ahead Logging ensures that if there is a crash, the logger can ensure that all complete and scheduled changes will be recovered in order and with the correct values restored as per the situation.",30.38903073275179
+nf4,Hindi,109,"The problem with symmetry is that if you have more than one thing blocking your way then getting there and opening them takes longer, and the justifications become more complicated.",30.128352775445503
+nf4,Hindi,110,"If there is any possibility of swimming, then life-saving techniques can be practiced there.",44.63642080279429
+nf4,Hindi,111,Students should be encouraged to ask questions if they have any doubts about how to swim safely.,65.61307386984596
+nf4,Hindi,112,The Punjab region was at the forefront of nationalist sentiment during this time.,25.436610648095343
+nf4,Hindi,113,This kind of overwhelming forgiveness was not easy for my father.,50.18048593637433
+nf4,Hindi,114,The rebellion had given Henry an army that was loyal and well-trained with British infantry and artillery as well as two battalions of native soldiers who proved their loyalty under severe tests.,28.421570557849343
+nf4,Hindi,115,"The food was ready, the drinks were prepared, and everyone was hungry.",24.22253493911407
+nf4,Hindi,116,"""You have earned your breakfast with hard work, so take your generals with you to enjoy your breakfast!""",29.685128696454527
+nf4,Hindi,117,You have seen seedlings grow into plants which then develop into plants. Or you may have observed dogs growing puppies. Or perhaps you have witnessed bats developing into their adult form.,44.93618034085438
+nf4,Hindi,118,Boys are also as vulnerable to sexual assault as girls.,58.13080440870312
+nf4,Hindi,119,Bengali: Bonga korlo joko swarajer lathi dhore chilo dekhte pachchhey bangshalir sabai tar shashurke nije hate rakta dite proshuto hoyechilo.,9.573697823316945
+nf4,Hindi,120,G.B.H. Wadia was responsible for producing films that were known for their dangerous stunts.,26.751139032607995
+nf4,Hindi,121,"The train chase film Storm Mel (1932) was his first major motion picture success, which launched him into stardom as the Train Chase King.",19.71762459191698
+nf4,Hindi,122,Assamese cinema primarily focuses on Assam and its culture.,33.45257752003915
+nf4,Hindi,123,The best translations aren't always as clear as the original.,28.20273809756508
+nf4,Hindi,124,It seems that you have been washing your hands several times today!,12.072868289023084
+nf4,Hindi,125,"They make novels something else than what you expect, and that results in a hybrid case, with many genres mixed together.",40.03260098722301
+nf4,Hindi,126,FTTI has launched its first online film appreciation course on June 15th to July 11th.,36.372663401887344
+nf4,Hindi,127,The curriculum was developed with support from India's National Film Archives in Pune.,41.44481427430917
+nf4,Bengali,0,"The external appearance of people is that of service providers such as their shoes, clothes, ties, hairstyles, makeup, perfumes, etc.",42.03869736161997
+nf4,Bengali,1,Ajanta and Ellora Caves in Maharashtra have sculptures and paintings dating back to the first century BC to the fifth century AD.,44.27069007298029
+nf4,Bengali,2,The bodyline on the face can give an impression of density.,14.327912975051676
+nf4,Bengali,3,"In ancient times, stone was used extensively in India for building monuments such as the Ashoka Pillars.",24.36401520683814
+nf4,Bengali,4,Maharashtrian food is well known throughout India and abroad for its variety and deliciousness.,22.13210196636333
+nf4,Bengali,5,"Chittagong cuisine is the food of the Chittagonian community in Bangladesh, or their own name according to their naming conventions.",24.856750441239896
+nf4,Bengali,6,Cinnamon is native to India and widely used as a spice and medicine.,37.66930771712201
+nf4,Bengali,7,To dry out something means to remove moisture from it.,14.754312379317463
+nf4,Bengali,8,Punjabi food has many regional variations depending on what ingredients are available locally.,15.165906723207792
+nf4,Bengali,9,"""Rama, send Lakshmana too!""",38.38652030111718
+nf4,Bengali,10,But Bipin Chandra's valorous deeds were performed on high and noble principles.,35.885520836199994
+nf4,Bengali,11,"Pork ribs are cooked with clear yellow gravy made with pork meat, onions, garlic, ginger, soy sauce, vinegar, and spices.",17.860026748693027
+nf4,Bengali,12,The Huttipurse (Hitopadesha) is a book of fables with animal characters that teaches moral lessons.,34.407810857092386
+nf4,Bengali,13,The purpose of this book is to encourage the development of proficiency in the use of the language and knowledge of good manners.,50.36803274247178
+nf4,Bengali,14,"Professor Asoitkumar Banerjee played an important role in compiling the complete history of his hometown, Howrah, in two volumes published in 1994 and 1995.",50.91240820895908
+nf4,Bengali,15,"The front facade of the Chaitanya Dalan has an open half-circular archway with wooden pillars decorated with carved designs, and sometimes there are no windows at all.",32.52960841684233
+nf4,Bengali,16,The food of Meghalaya is distinct and different from other North Eastern Indian states.,10.847976165354003
+nf4,Bengali,17,"In traditional practice, one steward or head cook oversees several assistants preparing the meal.",27.87945640046059
+nf4,Bengali,18,Paow Vaji: A quick meal of soft paou rolls filled with mashed vegetables cooked in butter. It is very common in Maharashtra.,29.57277283392176
+nf4,Bengali,19,"Red Deodar and Habba Khattun Kashmiri dishes are known for their mystery and intense pain of expression, Rajasthani Mirabai's compositions are renowned for their devotion, Tamil Aravana Niraval is celebrated as an example of women's outstanding contribution to literature.",42.31016752967528
+nf4,Bengali,20,The Bengal Tiger cave near Darchula in central province Dhaka district is famous for its Buddhist artwork.,23.40431586796427
+nf4,Bengali,21,"The word ""root"" has an alðraric meaning that is more general than just any tree or plant, but also includes something's lower part or foundation.",28.73758470378627
+nf4,Bengali,22,The Indus Valley Civilization was known for its technological knowledge across many fields.,67.28648384130086
+nf4,Bengali,23,The Pandavas all died; only Yudhishthir survived.,27.724299297251772
+nf4,Bengali,24,The battle lasted eighteen days and ended with the defeat of the Pandavas.,65.98310647537143
+nf4,Bengali,25,"The Mahābhārata is an epic poem that tells the story of the dynastic struggle between two cousins, the Pāṇḍavas and the Kauravas, over the throne of Hastinapura.",32.27715199134163
+nf4,Bengali,26,"Karnataka has a high number of vegetarians compared to non-vegetarian food, with their cooking including mostly vegetarian dishes.",45.60293955017177
+nf4,Bengali,27,He said that he was going to war with North Korea.,12.377909334410129
+nf4,Bengali,28,The two epic poems found in Tamil literature are Silappadikaram and ManimekalaI.,63.825095723184575
+nf4,Bengali,29,"Lakkha মানে laddu, আর এটা এক ধরণের মিষ্টি যা সাধারণত লঙ্কা গুড়ো দিয়ে বানানো হয়।",1.4258555133079849
+nf4,Bengali,30,Yoga is an ancient practice that originated in India and has become increasingly popular worldwide.,16.829744081404733
+nf4,Bengali,31,The architecture of Puri's Jagannath Temple has been influenced by Hinduism and Buddhism.,15.391279433535647
+nf4,Bengali,32,"Bashyasta now turned towards King and said with humility: ""King, you once promised me that I would never see your face again.""",33.921235896588286
+nf4,Bengali,33,Arjun was deeply disappointed when he realized that his brother had been killed in battle. He felt responsible for his death because he had helped him kill the enemy.,24.59311935514744
+nf4,Bengali,34,The food of Meghalaya is distinct and different from other northeastern Indian states.,14.8157493088047
+nf4,Bengali,35,"You can begin with one spoonful of coconut milk, then mix well rice flour.",31.32730880704765
+nf4,Bengali,36,"In 1835, Maharaj Ranjit Singh donated a magnificent Gurudwara at Nandné which has exquisite carvings on its golden dome.",29.96627165394628
+nf4,Bengali,37,The Samaveda is the collection of melodic rules that govern the recitation of the Vedic hymns with their appropriate musical accompaniment.,32.99788024563357
+nf4,Bengali,38,"The capital city of Kosal was very similar to our modern cities, but much smaller.",33.16979122975681
+nf4,Bengali,39,"Once you say ""I will"", there's no going back.",17.11888306204747
+nf4,Bengali,40,There are differing opinions on whether the exchange rate and our foreign currency reserves are sufficient.,33.25673690560789
+nf4,Bengali,41,"If you have an account with a bank that only allows three days credit to be held as a deposit, then you will need to inform CICS or face penalties such as late payment fees.",26.209203463559643
+nf4,Bengali,42,Countries can encourage direct foreign investment through incentives such as tax breaks and subsidies.,39.60182743885981
+nf4,Bengali,43,"However, if the bank accepts your application within 90 days after you have received the package, then you can request that the classification status of your assets be restored to its original position.",36.73814646585078
+nf4,Bengali,44,"What is the relationship between personal capital accumulation and wealth concentration? Is it inevitable, or can it be balanced out by more equitable distribution mechanisms?",32.209354441686216
+nf4,Bengali,45,The government intervenes heavily in markets to stabilize prices and prevent hunger.,28.620666313323788
+nf4,Bengali,46,The second quarter was characterised by high economic activity.,28.569879400183524
+nf4,Bengali,47,The economy of the country is based on its collective economic system.,15.107717288968477
+nf4,Bengali,48,The shortest way to get to the marketplace is through liquidity.,20.265238872698102
+nf4,Bengali,49,The principle of reciprocity should be non-biased and based on documentary evidence rather than personal interest.,31.674576782547128
+nf4,Bengali,50,"So, there isn't much left to borrow on, so interest rates aren't very high.",17.406339216834986
+nf4,Bengali,51,"The UPI system can connect India's financial systems with those of other countries that have similar systems, which could increase cross-border money transfers.",25.60231437712298
+nf4,Bengali,52,Liquified natural gas (LNG) is being used more widely as an energy source due to its lower carbon footprint compared to coal.,25.57568736758395
+nf4,Bengali,53,"While markets can help you grow your business, they do not create sustainable growth and branding on their own.",39.27176987320244
+nf4,Bengali,54,PAs collectively contribute to ecosystem services and therefore they have been included in the law as PSOs in March 2020.,24.416111293992586
+nf4,Bengali,55,"However, current payment systems do not yet cover online payments.",20.314214203586577
+nf4,Bengali,56,"Recognizing that one country can still gain comparative advantage through exporting its largest uncontrolled advantage product, and importing products with lesser comparative disadvantage, has been an insightful idea.",38.76517423950696
+nf4,Bengali,57,"Bank deposits grew at an annual rate of 16.2 percent on September 9, 2022, compared with six months earlier, according to data released by the Bangladesh Bank.",44.956970170427226
+nf4,Bengali,58,"The agricultural practices of the region include crop-pre- and post-harvest activities such as pesticide application, harvesting, sorting, cleaning, and transportation.",46.83833803292588
+nf4,Bengali,59,"Agricultural credit includes machinery purchases, irrigation projects, and other developmental activities.",37.23020992137801
+nf4,Bengali,60,"The Financial Regulatory Authority (FRA) has approved the opening of new branches of traditional banks, which will have an impact on financial institutions and economies.",22.74133636449556
+nf4,Bengali,61,The World Bank has said that global economic crisis has led governments to focus on identifying vulnerabilities and building up resilience.,27.09816030014046
+nf4,Bengali,62,The price of something will always be determined by how much people want it compared to how much there is available.,27.637547269741635
+nf4,Bengali,63,"The quantity demanded of something is determined by its price and related factors such as income, tastes, and prices of substitute or complements.",30.850182135615604
+nf4,Bengali,64,The current account balance is the difference between total factor income earned abroad and spending on foreigners in the country.,29.690638698500827
+nf4,Bengali,65,The trade balance is the difference between what a country exports (goods and services produced domestically) and what it imports (goods and services produced abroad).,62.01820289436076
+nf4,Bengali,66,Minister Shri Giriraj Singh said that continuous efforts made by the state government have improved our ranking on EOODB and GVC with CII.,17.222154813533745
+nf4,Bengali,67,The inflation rate was 7.1 percent in the second quarter of 2023; 6.5 percent in the third quarter; and 5.8 percent over the same period last year.,31.48915661591135
+nf4,Bengali,68,India's import growth has slowed but its export growth has picked up.,48.70261841284797
+nf4,Bengali,69,The growth rate of the economy has been high but social performance remains an area of concern.,14.863975561327129
+nf4,Bengali,70,The current economic discourse often focuses on social and economic development at such an extent that environmental sustainability becomes somewhat neglected.,42.3403535696878
+nf4,Bengali,71,The fair value of the restructuring will be equal to the present value of the future cash flows representing the original loan plus any interest payments due at the time of the restructuring.,37.44863222351306
+nf4,Bengali,72,"The RBI has announced an emergency liquidity facility (ELF) worth ₹50,000 crore for financial institutions facing liquidity crunch.",20.507108629895363
+nf4,Bengali,73,Recent growth spurts and more volatile growth trajectories have led to increased instability and risk aversion.,27.841229031292613
+nf4,Bengali,74,The Reserve Bank of India will accept full value cheque payments as well as half-value and cancelled cheques for clearing debt.,19.04674939139454
+nf4,Bengali,75,India has seen an increase in its debt-to-GDP ratio.,17.679008364010397
+nf4,Bengali,76,"Despite the instability of the global environment, India's economy has been steadily growing.",43.69453426627881
+nf4,Bengali,77,The real economy and financial stability of Bangladesh face serious concerns with its banking system.,42.51471248916214
+nf4,Bengali,78,"A person can send notes worth more than 5 but less than 5,000 with his bank account details on hand.",17.768332490801264
+nf4,Bengali,79,"Cryptocurrency regulations must prioritize the public's best interests, not just those of crypto companies.",11.588627993034024
+nf4,Bengali,80,Cybercrime is an attack on one computer or network with the intent to steal information or cause damage.,31.941760928187364
+nf4,Bengali,81,Food products in packaged formats such as canned foods and bottled drinks often contain high levels of sodium due to preservation methods.,37.32367361359388
+nf4,Bengali,82,"Cars can freely swerve around bends without stopping, passing, or colliding with each other.",13.17639855428383
+nf4,Bengali,83,"But then, at dawn, one white prisoner arrived at the English camp, bearing news that Norparß had heard he would not leave the fort without revenge.",31.157833443837983
+nf4,Bengali,84,"In 1947, Lahore was under British rule as part of the United Kingdom.",23.01175977225906
+nf4,Bengali,85,"The English soldiers at Meerut were so numerous that they outnumbered their officers four to one before anyone suspected any wrongdoing, and when news arrived that there was an officer missing, everyone assumed he had been killed.",30.783570354655147
+nf4,Bengali,86,They are addictive as well as harmful to the brain.,31.487069311018857
+nf4,Bengali,87,"Day after day, both sides were sending more troops.",55.140200591794105
+nf4,Bengali,88,"If you have any personal grudge against someone, then their name would be on the list of murderers.",37.61413728793893
+nf4,Bengali,89,"She looked at me and said ""I am sorry, we have all been booked"", I replied.",22.104588650191324
+nf4,Bengali,90,What if we never clean up our messy neighborhoods?,12.516823196131485
+nf4,Bengali,91,"In recent years, digital technology has been used to change our planet in many ways.",35.42843462522124
+nf4,Bengali,92,"In the past, letters took days to arrive, and each recipient would get their own reply individually.",42.85653814208116
+nf4,Bengali,93,The revolutionary spirit is often perceived as either beneficial or detrimental depending on whether one perceives it as positive or negative.,29.272082130912292
+nf4,Bengali,94,"Each time he lost his wife, he married her again.",31.07457492914086
+nf4,Bengali,95,"Writers across India have come together to form an organization called ""Writers Unite"" to promote social consciousness through their writing.",21.72660689024949
+nf4,Bengali,96,"""It was only this information that he had been able to gather that made him so powerful.""",14.825953265875505
+nf4,Bengali,97,"The mountain range was so magnificent that we could see hundreds of flags and banners flying atop each other, and I could clearly see the city below them.",35.15513664129784
+nf4,Bengali,98,Rama and Mahabharata they have together poured into young hearts with their inspiring stories of Hindu heroism.,29.920432154660265
+nf4,Bengali,99,The main barrier to using remote sensing data for agricultural planning during the monsoon season is insufficient availability of optical satellite imagery due to cloud cover.,51.69579271556238
+nf4,Bengali,100,Internet ads can sometimes contain malicious code that could harm your computer.,26.198488200799485
+nf4,Bengali,101,Chileans alsoয়alয় তাদের Dérähü থেকে তাড়াহুড়ো করে বেরিয়ে গিয়ে সে তার ভয়ানকে থেৱায়ে আঘাত করে এবং তার রক্তপাত ঘটায়।,2.824713414375466
+nf4,Bengali,102,They were accompanied with many Bengalis to Cawnpore and threatened an attack on Kanpur.,36.25940161922668
+nf4,Bengali,103,The servants came around me.,31.42562778053116
+nf4,Bengali,104,The next stop is the Middle East.,8.168513651319124
+nf4,Bengali,105,Brotherly love was strong between them.,16.33435033929909
+nf4,Bengali,106,I think they will agree if you make them feel that this is the only way.,20.73436754677579
+nf4,Bengali,107,The metropolitan area's most notable feature is its diverse transportation system.,32.10046105022684
+nf4,Bengali,108,A logging method that ensures no crashes occur helps ensure that all completed and intended changes can be recovered back to their original state or rearranged accordingly.,27.935490286259267
+nf4,Bengali,109,"The more complex the problem, the harder it becomes to solve.",13.877819442309573
+nf4,Bengali,110,"Swimming is available at all times, so you can practice your drowning-saving technique anytime.",38.6655800483407
+nf4,Bengali,111,Students should be encouraged to ask questions about first aid procedures.,53.59161518943727
+nf4,Bengali,112,The Punjab witnessed an unprecedented level of nationalist fervour during this time.,23.758288660136703
+nf4,Bengali,113,My father was never able to show me his own forgiving nature.,29.44116530462627
+nf4,Bengali,114,The British were pleased with Sir Henry's selection of an English army and a loyal Hindostani regiment that had been through trials and tribulations.,26.053156315811105
+nf4,Bengali,115,"The food here is prepared with arms around the table, breakfast is ready, hungry mouths are waiting for their first bite, waterßes full of cups.",35.37758224848243
+nf4,Bengali,116,"British soldiers, you have earned your breakfast with sweat on your head, so enjoy your meal with your officers.",34.99063148207242
+nf4,Bengali,117,"You have seen how seeds grow, and you have also seen how puppies grow into dogs, and bears grow into bears.",33.10881615356318
+nf4,Bengali,118,Bengali: ছেলেদেরও যৌন নিপীড়নের মুখোমুখি হতে হয়।,1.9315119329977375
+nf4,Bengali,119,"""I will cut your throats if you don't fight!"" said Bengal to his two sons as he saw them ready to take up arms against the British.""",12.434566954636756
+nf4,Bengali,120,J. B. Haldia and his brother Homi Haldia were film producers who made this stunt movie famous.,34.19905848834677
+nf4,Bengali,121,They climb up the ladder to become kings in this genre.,14.272534744614834
+nf4,Bengali,122,Assamese cinema is mostly seen in India's Assam state.,31.46342578657481
+nf4,Bengali,123,Literature appreciation is not clear cut.,15.450245492980274
+nf4,Bengali,124,The more important thing is an emergency handy strategy and so on.,17.75504646333541
+nf4,Bengali,125,"They transform the novel into something else and its result is a hybrid, a mix of several categories.",58.79516972070794
+nf4,Bengali,126,"The FTA International Film Institute (FTII) has launched its first online film appreciation course on June 15th, 2020.",36.327999138085
+nf4,Bengali,127,The film archive was organised with Pune Jatiয় Film Archives.,37.81564595701062
+nf4,Tamil,0,"The term originates from the French word ""origine"", which means source or place of birth.",11.30361513122538
+nf4,Tamil,1,Ajanta Caves in Maharashtra have 29 caves decorated with sculptures and paintings dating back to the first century BCE to the fifth century CE.,52.87241716136559
+nf4,Tamil,2,The body type of many people here is broad-shouldered with an oily skin tone that tends to stain easily.,18.040885695559677
+nf4,Tamil,3,"The earliest known use of stone as an architectural material was by Ashoka, but before him, wood and clay were used more commonly.",29.702797899153985
+nf4,Tamil,4,"Maharashtrian food is famous all over India, but this particular dish called ""Bhaaji"" is especially loved here.",22.26784439816428
+nf4,Tamil,5,"Chennai food is known as ""Madras Curry"" because of its origins in Madras (now called Chennai).",13.141525533771524
+nf4,Tamil,6,"Lavanga (lavanga) is native to India, and has many uses including as spice, medicine, etc.",32.55700535598425
+nf4,Tamil,7,"To make chapati flour, you need to grind wheat into fine powder using a stone mill or mortar and pestle.",35.403294843167515
+nf4,Tamil,8,"Punjabi food varies greatly across the region, with each city having its own specialties.",16.394987277521693
+nf4,Tamil,9,"Ramayana is an epic poem based on the life of Prince Rama, his wife Sita, brother Lakshmana, and their companions.",28.64602493118108
+nf4,Tamil,10,"However, Mangal Pandey's heroic act was an exemplary display of valor towards a noble ideal.",28.196016045285443
+nf4,Tamil,11,"The meat will cook with onions that have turned yellow, soaked in water, then cooked with spices until they stick well to the meat, about five to six minutes.",25.52464429315242
+nf4,Tamil,12,The Bhagavad Gita is one of the most sacred Hindu texts.,12.409288732043322
+nf4,Tamil,13,The book aims to promote learning of Sanskrit language and practical wisdom.,22.632192262186287
+nf4,Tamil,14,"Professor Acyuta Kumar Bandyopadhyay was an early pioneer in compiling the complete history of Howrah city, which he titled Howrah Sahareer Itibrito (First and Second Volumes).",58.650528429857374
+nf4,Tamil,15,"The main feature of the Shikhara temple facade is an arcaded porch with openings on all sides, but sometimes there aren't any windows at all.",23.619684185717603
+nf4,Tamil,16,"The culinary traditions of Meghalaya have been passed down through generations of maharajas and kancams, who have perfected their skills over centuries via oral tradition.",39.83372702217851
+nf4,Tamil,17,"Traditionally, these dishes were prepared by a head cook called Waza Vasa and his assistants known as Wazas.",28.561086563949228
+nf4,Tamil,18,"Pav Bhaji is a fast food that originated in Maharashtra, consisting of thick vegetable curry with bread rolls called pav.",50.25874929062738
+nf4,Tamil,19,"Lal Dad and Happa Kathun poems of Kashmiri poetry have mystical undertones and intense emotional expression, similar to Rajasthani poet Meera Bai whose verses are renowned for their devotional fervor.",26.48518910084809
+nf4,Tamil,20,The Bak hills cave complex near Pithampur in Madhya Pradesh has Buddhist frescoes dating back to the 1st century CE.,29.26786471075908
+nf4,Tamil,21,"The word ""root"" has multiple meanings depending on context, including that of a plant's stem (or root), but also its metaphorical use as an abstraction such as a person's foundation or base.",26.23689227367645
+nf4,Tamil,22,The Indus Valley Civilization was renowned for its technological prowess.,47.37388299755928
+nf4,Tamil,23,"The Pancha Pandavas all die, but only Yudhishthira survives.",27.101351112315943
+nf4,Tamil,24,"The battle lasts eighteen days, until finally the Pandavas lose.",34.53167938496711
+nf4,Tamil,25,"The central story of the Mahabharata is about a fight over succession to the throne of a kingdom that was located north of Delhi, which would later become known as the Pandava clan.",54.88477663476663
+nf4,Tamil,26,"Karnataka has a high number of vegetarians compared to non-vegetarian states, so its food culture tends to have more vegetarian dishes than those found elsewhere in India.",44.37835466343258
+nf4,Tamil,27,He responds with what’s going on at the battlefield.,32.77790640262317
+nf4,Tamil,28,The two major works of literature in Tamil are Silappadikaram and Manimekalyaai.,53.3848587837119
+nf4,Tamil,29,The spice used here is very hot and must be handled with care.,15.841424421481964
+nf4,Tamil,30,"Yoga comes from the Sanskrit root yuj which means to join, bind together or unite.",43.338793125696434
+nf4,Tamil,31,The Odissi dance has evolved over centuries based on numerous sculptures adorning temple walls across Orissa.,42.49772390990012
+nf4,Tamil,32,"Vaishstar said to Rajasee, ""You have promised, so you must keep your word.""",17.828368850158828
+nf4,Tamil,33,"When Arjuna realizes that he has been defeated, Krishna begins his teaching on how to live righteously.",24.57175918631948
+nf4,Tamil,34,"In Meghalaya, rice is often served with a spiced curry made with groundnuts (peanuts) called ""momos"" which are also eaten throughout India.",18.542727777133145
+nf4,Tamil,35,"First pour a spoonful of grated coconut into the pot, then add rice milk.",38.57935238649134
+nf4,Tamil,36,The Gurudwara built in 1835 after the gift of gold-plated wooden spire was an exquisite example of this craftwork.,16.7277279557713
+nf4,Tamil,37,The Vedic hymns were composed on specific notes called samavedas.,15.539609165957724
+nf4,Tamil,38,Ayodhya was once a city as large and grand as our modern cities!,25.25795632858464
+nf4,Tamil,39,I must do it!,7.558128557384089
+nf4,Tamil,40,There have been debates about our currency exchange rate lately.,26.19014159333824
+nf4,Tamil,41,Customers can avoid late payment fees if they pay their credit card bills on time every month.,15.610644854932868
+nf4,Tamil,42,Countries can attract foreign direct investment (FDI) to boost their economies.,40.394742685147314
+nf4,Tamil,43,The bank can recover its original classification status within 90 days after receiving an application for reclassification if the property was classified as such when the application was received.,33.94752405307769
+nf4,Tamil,44,Is wealth concentrated too much in few hands due to private capital accumulation or can this process be curbed through mechanisms such as competition and technological advancement?,40.04422364925583
+nf4,Tamil,45,The market intervenes at an enormous rate to prevent sudden changes and maintain expectations.,40.51536215590773
+nf4,Tamil,46,The data shows that economic activity has been able to withstand shocks over the past quarter.,34.75305720176447
+nf4,Tamil,47,Ecology usually talks about how an ecosystem works and how all its components interact with each other.,22.238564920097268
+nf4,Tamil,48,The term refers to how much money can be obtained for an asset at its current market value.,30.431702626929084
+nf4,Tamil,49,"In general, income recognition should be based on objective criteria rather than subjective ones.",45.30395939724638
+nf4,Tamil,50,So these interest payments have become overdue as they fall due on their due date which was March 31st but now falls after that because you were able to pay them off earlier than expected.,28.387304774863992
+nf4,Tamil,51,"The UPI system has been linked with similar systems abroad, including those in Bangladesh, Nepal, Bhutan, Sri Lanka, and even Myanmar.",21.20845333710271
+nf4,Tamil,52,"Energy security has become an important issue globally, with countries increasingly turning to LNG as a source of energy.",20.43289908521878
+nf4,Tamil,53,"However, markets can help grow sales but they do not support branding and marketing.",29.611104669697024
+nf4,Tamil,54,"PAs play an important role in the fee system, so they were renamed as PA's in March 2020.",32.919721979777115
+nf4,Tamil,55,"However, current regulations do not apply to online or e-commerce transactions.",51.845454940773706
+nf4,Tamil,56,The Ricardian theory says that countries with high productivity can export their best-performing goods while importing less productive ones.,17.686780611553417
+nf4,Tamil,57,"Banking sector growth was strong at 16.2 percent year-on-year (y-o-y) on September 16th, up sharply from 6.7 percent in the previous month.",34.22002440266947
+nf4,Tamil,58,"Crop insurance covers all these activities including pesticide spraying, weeding, harvesting, sorting, grading, transportation of produce on one's own farmland.",55.41599252746296
+nf4,Tamil,59,"Agricultural credit includes medium-term and long-term loans for irrigation equipment, tractors, etc.",29.333598823124017
+nf4,Tamil,60,"Bank supervisors are considering how unregulated banking activities can affect formal banks, and they want to encourage more investment and liquidity to help control them.",27.17057396174088
+nf4,Tamil,61,The global financial crisis has led governments worldwide to look more closely at their own weaknesses.,27.281811182542526
+nf4,Tamil,62,The market price is determined on the basis that there should be an equal amount of supply and demand.,43.39731642434828
+nf4,Tamil,63,"The equations of demand and supply provide an expression of the relationship between price and other variables (e.g., income).",48.50670709068133
+nf4,Tamil,64,"The net foreign investment inflow was Rs.10,259 crore as on March 31, 2021, which constitutes about 4% of India’s total FPI outflow during the year.",18.2053554194838
+nf4,Tamil,65,Trade balance refers to the difference between exports and imports of goods and services.,52.76460707613708
+nf4,Tamil,66,The Minister said that India has been ranked 6th globally in terms of EOI ranking and we have made significant progress in this regard with our efforts.,14.351941701927384
+nf4,Tamil,67,"Inflation was projected at 6.7 percent for the year on average, 7.1 percent for the second quarter, 6.5 percent for the third quarter, and 5.8 percent for the fourth quarter.",33.97575699402382
+nf4,Tamil,68,India's exports have been stagnant while its imports have grown more rapidly than before.,25.362063699064286
+nf4,Tamil,69,Economic growth and social performance are often used as indicators of development.,15.798547805561364
+nf4,Tamil,70,"The current debate about economic policy often focuses on how to balance social welfare with environmental protection, but there is also an urgent need to consider the relationship between these two areas.",37.63655599468239
+nf4,Tamil,71,"The restructuring debt will be calculated based on the current market value of the loan at the time of its issuance, with interest rates applied according to the borrower's type of credit facility (e.g., fixed rate versus floating rate).",28.57776962145523
+nf4,Tamil,72,"The Reserve Bank stepped in after the RBI had been criticised for its handling of the financial crisis, which led to the creation of a special liquidity facility worth ₹50,000 crore for mutual funds (SLF-MF). This move helped restore confidence in the market.",44.67690088074116
+nf4,Tamil,73,Recent years have seen rising inflation rates and more severe inflation fears as well as risk avoidance strategies such as stockpiling food supplies.,22.479823435446296
+nf4,Tamil,74,"The Reserve Bank of India (RBI) treats all notes as legal tender, regardless of their face value, while partially-deposited notes will be treated as uncollected deposits subject to action under the Income Tax Act.",33.23412143656798
+nf4,Tamil,75,India has an enormous number of credit cards.,16.701967864535508
+nf4,Tamil,76,"Despite such challenges, India has managed to maintain its economic stability.",23.478122322228582
+nf4,Tamil,77,"Financial markets have been shaken up recently, which could affect everyday life as well as long-term economic stability.",29.547951261302067
+nf4,Tamil,78,"If someone brings more than five notes but less than 5,000 rupees, he should send them to his bank account with details of the branch name, IFSC code, etc., so that they can change them at the nearest ATM counter or go there personally to get changed.",33.330457271907505
+nf4,Tamil,79,The court said that data protection laws must prioritize citizens' privacy rights and ensure that personal information is only collected when necessary and used solely for its intended purpose.,25.99975721007068
+nf4,Tamil,80,"Cybercrime is an illegal act that involves using computers and networks to commit crimes such as fraud, identity theft, and hacking.",24.90969051321278
+nf4,Tamil,81,"Packaged and baked foods often contain salt as a preservative, which can lead to high sodium intake.",35.70715771139534
+nf4,Tamil,82,Crumple zones are designed to absorb energy during an impact so that passengers can safely decelerate without being crushed.,13.89045051991168
+nf4,Tamil,83,"But that very day, one of the white captive prisoners who had been released by Narbhut Singh earlier that morning reported to the commander that he had heard Narbhut Singh say that he would only give up the fort after he had avenged his death at the hands of the Englishmen.",52.27444104903319
+nf4,Tamil,84,"In 1757, Robert Montgomery was appointed as Lieutenant Colonel of the Laghur Army.",33.002389738951
+nf4,Tamil,85,"Despite having four times as many British soldiers as Indian ones at Meerut, there was no suspicion among the British authorities until news reached Meerut, but they were still unsure whether these British soldiers had any connection with the Indian troops.",30.44026106058268
+nf4,Tamil,86,These can cause brain damage as well.,15.970119907812256
+nf4,Tamil,87,Every day two ships would arrive at the port.,12.454397625285988
+nf4,Tamil,88,"If there was any personal grudge against Pankaj Parashar, he would have been on the list of those who killed him instead of being included as one of the martyrs.",48.77380755798741
+nf4,Tamil,89,"He looked at me briefly then said, ""Sorry, there's no room here.""",13.9721712474932
+nf4,Tamil,90,We often take our trash for granted until we see what happens when it isn't taken care of properly.,16.67401464544856
+nf4,Tamil,91,"Over the past few years, digital technology has changed our lives dramatically.",25.988726195298916
+nf4,Tamil,92,"In the past, letters took days to reach their destination because each recipient had to write back individually.",35.024324856684665
+nf4,Tamil,93,The foundations of any revolution rest on its leaders; their character determines whether they will inspire others with goodness or evil.,22.142933812071647
+nf4,Tamil,94,"Each wife died after he married her, so he had 4 wives.",16.45325701635999
+nf4,Tamil,95,Writing has become an act of social responsibility as writers have come to understand that their words can influence people's lives.,31.819252354465373
+nf4,Tamil,96,His energy and courage were evident even at such an early age.,14.455747287887505
+nf4,Tamil,97,"We could see hundreds of soldiers marching into town with perfect order and discipline, their flags and banners waving proudly.",35.29888682934633
+nf4,Tamil,98,"They both studied Ramayana and Mahabharata together, as well as Marathi warriors stories, their youthful hearts were filled with the same inspiring tales of heroism.",30.664029009083016
+nf4,Tamil,99,There isn't enough data on cloudless satellite images to use them effectively during monsoon seasons when farming needs them.,21.88726558796109
+nf4,Tamil,100,Internet viruses can infect your computer if you click on an infected ad.,25.187447629699328
+nf4,Tamil,101,The lioness was able to sense that danger approaching her cave and rushed out to attack its enemy with her sharp claws.,22.80700692134924
+nf4,Tamil,102,Nana threatened to march on Bengal with his army and attack Calcutta.,37.24549266296282
+nf4,Tamil,103,The clerks surrounded me.,29.248835853928423
+nf4,Tamil,104,"After him, there was a short reign.",38.333244904638725
+nf4,Tamil,105,Brothers often have an intense love for each other.,34.25383133925883
+nf4,Tamil,106,"I thought that if they accepted this proposal, then others would also accept it.",35.67197684105108
+nf4,Tamil,107,"Urban areas have many ways to get around them, including cars, buses, trains, bicycles, and even walking.",18.6181051872079
+nf4,Tamil,108,"The RAID 10 (RAID 1+0) implementation ensures that if one drive fails, all data on the array can be recovered using the information stored on the remaining drives.",19.467681094714
+nf4,Tamil,109,"Sometimes you have to give up something else to get what you want: if one barrier is too hard to overcome, then another will take longer to deal with, and your arguments may become more complicated.",26.10104323366247
+nf4,Tamil,110,Swimming pools can be used as training facilities for learning how to save lives at sea.,23.5766786250822
+nf4,Tamil,111,Students should be encouraged to ask questions about first aid procedures when swimming.,59.84624564508956
+nf4,Tamil,112,The Punjabi soldiers were at the forefront of the national liberation movement.,22.12617794589273
+nf4,Tamil,113,My father does not have that kind of generosity.,21.313542272493088
+nf4,Tamil,114,"The British officer Henry was pleased with this because now he had a small loyal force under his command that included an English regiment, two Scottish Highlanders (sepoy) battalions, one Hindu infantry battalion, and one Muslim infantry battalion.",28.2434499238443
+nf4,Tamil,115,"The sun was rising over the horizon, breakfast was ready, hungry bellies were craving something warm and comforting, so we headed out into the morning.",32.97357416457049
+nf4,Tamil,116,"British soldiers, you have endured hardship to get your breakfast, not through sweating blood but with cool shade provided by mangoes. So enjoy your meal under the shady trees with your officers.",39.64072228945166
+nf4,Tamil,117,"You have seen seedlings grow into plants, puppies become dogs, and kittens become cats.",37.10480800675672
+nf4,Tamil,118,Men can also become victims of sexual assault.,19.25356419442461
+nf4,Tamil,119,Johny was an unruly boy who had been sent away to school but he returned home with his father after being told that he would have to face consequences if he didn't behave properly.,15.438012239754404
+nf4,Tamil,120,JPW Dutt was an important figure in making Bollywood famous.,8.169187994107936
+nf4,Tamil,121,"The film was followed by many more train-railway action films, including Double Crossing (1935), which featured even more dramatic railway battles.",22.311113959326622
+nf4,Tamil,122,Assamese cinema refers to films made in the Assamese language primarily seen in India's Assam state.,55.69986230659229
+nf4,Tamil,123,The process of making piña colada is completely transparent.,31.35875286158293
+nf4,Tamil,124,The climate changes gradually over time and space.,14.249943212085938
+nf4,Tamil,125,They have an articulate culture that has been shaped by their history and geography.,16.981044954715856
+nf4,Tamil,126,FDDI first launched its online film evaluation course on June 1st and will run until July 11th this year.,27.277508038211067
+nf4,Tamil,127,The film institute was established in 1969 as an autonomous organization under the Ministry of Information and Broadcasting.,27.580824580793163
+nf4,Telugu,0,"The outward appearance of a person is their attire, jewellery, hairstyle, makeup, etc.",35.14577107985186
+nf4,Telugu,1,"Ajanta, Ellora and Aurangabad Caves are located in Maharashtra, India, which house sculptures and paintings dating back to the first century CE - fifth century CE.",48.79908346834156
+nf4,Telugu,2,The body color of the mangoes is very similar with the skin tone of the people of this region.,24.714101721374803
+nf4,Telugu,3,"Ashoka started using stone extensively for sculptures and monuments, which was previously done only with wood and clay.",51.68527444322035
+nf4,Telugu,4,"Mumbai-based foodstuffs include the famous Maharashtrian dish of sabudana halwa, made with tapioca (sabudana) that has been boiled in coconut milk and spiced with mustard seeds, green chillies, and asafoetida.",26.916471987035745
+nf4,Telugu,5,"Chittinad cuisine is a style of cooking that comes from the citytaras of Tamilnadu state, specifically the region of Chittoor.",33.568043208453894
+nf4,Telugu,6,"Cinnamon is native to India, and its uses range from being used as a spice to use in medicine.",50.32667345506551
+nf4,Telugu,7,It can be eaten dry or roasted.,11.615374607529168
+nf4,Telugu,8,"Punjabi food varies greatly from city to city, with people in Amritsar preferring stuffed parathas and dairy products.",37.98591843913495
+nf4,Telugu,9,Rama was sent with Lakshmana.,30.805524061091088
+nf4,Telugu,10,Mangal Pandey was an early martyr who fought against British rule with his principles.,27.587546700783157
+nf4,Telugu,11,Meghalaya food is distinct and unlike other northeastern Indian states.,9.850717586156108
+nf4,Telugu,12,The Bhagavad Gita is one of the most famous Hindu scriptures.,12.90938631099016
+nf4,Telugu,13,The book aims to promote knowledge about the art of conversation and polite behavior.,30.075577611918145
+nf4,Telugu,14,"Professor Acyuta Kumar Banerjee has been instrumental in compiling his own town's history in two volumes titled ""Hooghly Sahitya"" in Hindi in 1994 and 1995.",30.949937123137765
+nf4,Telugu,15,"Some have open wooden facades with arched gazebos at their entrances, while others do not.",17.29981147363569
+nf4,Telugu,16,"Traditional Maharajas and Khanams have been preparing these dishes for generations, passing down their techniques through oral tradition.",28.90968255586424
+nf4,Telugu,17,The food is traditionally prepared with the help of vajas or cooks.,28.298359152129148
+nf4,Telugu,18,Pav Bhaji: It is a snack made with a thick vegetable curry served with soft bread roll (pav).,47.01320459984569
+nf4,Telugu,19,Lal Deed Mariy Habba Khauan-like Kashmiri writings have an unparalleled spirituality and intense yearning expressed through their profoundly emotional nature.,18.25920875276589
+nf4,Telugu,20,Buddhist cave paintings can be found at Bagh Caves near Dhar district in Madhya Pradesh.,43.88766821675746
+nf4,Telugu,21,"The word ""root"" has a common meaning in Sanskrit literature but also metaphorically means foot or base.",31.332019975107595
+nf4,Telugu,22,The Indus Valley civilization was known for its technological advancements.,49.68846309614862
+nf4,Telugu,23,The Pandavas all die; only Yudhishthira survives.,34.031095580894835
+nf4,Telugu,24,The war lasted eighteen days.,23.001318371642952
+nf4,Telugu,25,"The Mahabharata is an ancient Indian epic poem that tells the story of a war between two groups of cousins, the Pandavas and the Kauravas, over succession rights to their shared kingdom.",33.87588673918351
+nf4,Telugu,26,"In Karnataka, vegetarianism is more common than meat-eating, so their food tends to have many vegetarian dishes.",32.503619249350315
+nf4,Telugu,27,"The battlefield is full of action, with soldiers fighting each other on all sides.",25.36139739645076
+nf4,Telugu,28,The two major epic poems in Tamil literature are Silappadikaram and Manimakalai.,49.13195610178946
+nf4,Telugu,29,The spice is used with care here.,13.813240380963617
+nf4,Telugu,30,"Yoga is derived from the Sanskrit word 'yog', which means union, integration, or joining.",46.3192130511112
+nf4,Telugu,31,Odissi dance originated on temple walls in Orissa.,26.857355058838323
+nf4,Telugu,32,"Vasistu then spoke to the king with kindness, "" You can never refuse once you have made your word.""",24.265798362399156
+nf4,Telugu,33,Arjuna's Dilemma is an ancient Hindu epic poem that tells the story of Prince Arjuna who faces his inner conflict when he must choose between two paths - one leading to glory on the battlefield and another which leads to peaceful life as a farmer.,25.63777312335737
+nf4,Telugu,34,You can add coconut to your rice while kneading it into dough.,18.536776332785053
+nf4,Telugu,35,"The dish starts with a spoonful of coconut cream mixed with rice flour, then you can add your choice of meat (or fish) and cook it on a hot plate until cooked through.",30.88885262065704
+nf4,Telugu,36,"In 1835, Rani Rashmoni donated land near her palace at Gauripur (now known as Nabadwip) to build a gothic-style church with intricate carvings on its exterior walls.",24.19316804564467
+nf4,Telugu,37,The hymns of Samaveda were composed with metre and length of syllables preserved.,20.168889062772163
+nf4,Telugu,38,The ancient city of Ayodhya is so well preserved that we can still see its remnants today.,19.783324493706665
+nf4,Telugu,39,"Once you say ""I will do"", there is no option but to do it.",49.931108387266846
+nf4,Telugu,40,"In recent times, there have been debates about the value of the rupee and foreign exchange rates.",48.32751989193841
+nf4,Telugu,41,"Banks can report credit card accounts that have been past due for more than three days to credit information companies (CICs), but only if any late payment charges were applied after three days.",53.698655502686165
+nf4,Telugu,42,Countries can encourage internal direct investment to boost their economies.,52.53718744299665
+nf4,Telugu,43,"If you receive an approved package within 90 days after your bank application date, then you can get your status back as if you were accepted on time.",22.7070510647642
+nf4,Telugu,44,Is wealth creation inevitably concentrated in the hands of a few people?,19.050036071782756
+nf4,Telugu,45,It regulates markets to avoid excessive volatility and maintain stable prices.,41.18788526258943
+nf4,Telugu,46,Q2 suggests that economic resilience can endure even under high levels of stress.,30.96290036565103
+nf4,Telugu,47,The study of how markets interact with each other to produce economic diversity is called macroeconomics.,30.04791902763867
+nf4,Telugu,48,The price elasticity of demand for foodstuffs is usually low because people can wait until they need them.,15.349868176380864
+nf4,Telugu,49,The income tax system should be based on an objective assessment of individual earnings rather than personal considerations.,39.98114064753101
+nf4,Telugu,50,"So, such interest amounts do not become NPAs until the due date passes.",31.1940678080545
+nf4,Telugu,51,The introduction of UPI (Unified Payment Interface) as an attempt to add such payment systems to other jurisdictions would improve cross-border payments.,29.65862786571083
+nf4,Telugu,52,Liquefied Natural Gas (LNG) has become an important fuel source for electricity generation due to its high energy density and low cost compared to coal.,34.42562178280572
+nf4,Telugu,53,"However, markets can help you grow your business but they do not provide the ability to create a sustainable brand that will last over time.",42.05078754988803
+nf4,Telugu,54,Payment aggregators (PAs) have been regulated as payment system operators since March 2020.,31.32203540655127
+nf4,Telugu,55,"Payment aggregators, or e-commerce platforms, have been subject to new regulations in India.",35.897841523964594
+nf4,Telugu,56,"Recognizing this principle, countries often trade with each other based on their comparative advantages.",14.21759199924355
+nf4,Telugu,57,"The bank's lending rate rose to 16.2 percent last year compared with 6.7 percent this year, according to data released on September 9.",37.385544569244274
+nf4,Telugu,58,"Pichkari, weeding, harvesting, threshing, separating, transportation of own crops are all paid back with interest on loans taken beforehand.",34.27135341067242
+nf4,Telugu,59,"Agricultural credit is available on medium and long term basis to meet machinery costs, irrigation works etc.",22.724302970714238
+nf4,Telugu,60,Banking regulators have been trying to curb shadow banking activities that can damage traditional financial systems and economies.,25.25648739331666
+nf4,Telugu,61,The global economic crisis has led governments worldwide to seek more accurate data on child poverty.,19.07785516354526
+nf4,Telugu,62,The market clearance price is determined on the basis of demand and supply.,39.10772704813786
+nf4,Telugu,63,Supply and demand equilibrium determines price levels.,24.6960073049468
+nf4,Telugu,64,Foreign investment and remittances usually make up only a small portion of the overall income of the country.,24.367234475048345
+nf4,Telugu,65,The trade balance refers to the difference between the value of goods exported and imported.,51.43589873904736
+nf4,Telugu,66,"Minister G Singh said that India has been ranked 63rd on the Global Entrepreneurship Development Index (EODB) listing at the end of last year, but he added that this was due to continuous efforts made by the government and private sector to improve entrepreneurial development.",20.56320259874373
+nf4,Telugu,67,"Income tax rates have been cut by 7.1 percent on Q2 earnings, 6.5 percent on Q3 income, and 5.8 percent on Q4 income.",24.27162295186833
+nf4,Telugu,68,"India's exports grew more than its imports during 2017, but slower growth in both directions was also seen.",30.427173156840816
+nf4,Telugu,69,"The focus has been on economic growth (growth rate, GDP as a percentage of debt, GDP as a percentage of tax revenue, GDP as a percentage of government spending), social development (poverty, inequality, employment levels, nutritional status among population etc.) and environmental sustainability.",52.30310601006124
+nf4,Telugu,70,The current economic discussions often neglect environmental management responses.,31.627580686830125
+nf4,Telugu,71,"The present value of a loan with an appropriate discount rate can be calculated as the sum of the original amount, the interest due at the time of repayment, plus any premiums for insurance against default and financial distress.",28.556168529755038
+nf4,Telugu,72,The Reserve Bank of India has intervened with a $50 billion liquidity facility for financial markets to restore confidence.,33.796414933164634
+nf4,Telugu,73,Recent price spikes and subsequent sharp increases have led to widespread economic instability and panic among consumers.,21.419758502473503
+nf4,Telugu,74,Full-value notes issued by RBI will be treated as legal tender while half-value notes and discharged notes will be considered as unissued notes subject to fair value determination.,40.67708483407451
+nf4,Telugu,75,India has been experiencing an unprecedented growth in its debt market.,33.119831814629244
+nf4,Telugu,76,"Despite the geographical challenges, India has managed to maintain its economic resilience.",29.95587587998687
+nf4,Telugu,77,"The economy of India has been hit hard by the coronavirus pandemic, which has led to concerns about its ability to recover.",21.82933823296128
+nf4,Telugu,78,"A person with more than five notes less than 5,000 worth must report this to his bank so that he can get insurance against loss of such notes.",18.186131708975413
+nf4,Telugu,79,The court also noted that CBDCs must prioritize the protection of individuals' privacy rights while collecting information necessary for their operation.,21.23719872919795
+nf4,Telugu,80,A cyber attacker targets computers or networks to disrupt services or cause damage.,32.9935715561604
+nf4,Telugu,81,Packaged food products often contain high levels of salt as a preservative.,37.01180123761122
+nf4,Telugu,82,The interior of a car can become dangerous when you don't have your seatbelt fastened while driving at high speeds.,17.82870322127164
+nf4,Telugu,83,"The Englishman told him that he had heard that Pandit Jawaharlal Nehru was going to attack the fort with his army, but that if he could hold out long enough, then he would have time to get back to England.",29.104408940609037
+nf4,Telugu,84,"In this time, there was a Robert Montgomery as the main general.",43.15599745191772
+nf4,Telugu,85,"In Meerut, the English soldiers were surprised when they heard that there was no news about their regiment since daybreak, but this did not stop them from suspecting that the enemy had sent spies to listen to their conversations.",28.40388753953336
+nf4,Telugu,86,They can be addictive as well as harmful to your brain.,24.58738503716552
+nf4,Telugu,87,"Day after day, new armies arrive.",37.99802619168087
+nf4,Telugu,88,"In any case, Mangal Pandey was an individual who stood up against injustice, no matter what his name would have been on the list.",45.60639414191206
+nf4,Telugu,89,"He said goodbye with a smile, saying ""Sorry I left you alone, we don't have any space.""",22.7177228424688
+nf4,Telugu,90,What if we didn't clean up our own messes?,9.503186182506347
+nf4,Telugu,91,"In recent times, we have seen an unprecedented rate of change all over the world.",30.44323595314457
+nf4,Telugu,92,"In the past, sending a letter would take days, and everyone had their own personal response.",44.829536068681264
+nf4,Telugu,93,Revolutionary ideals are either good or evil depending on their underlying principles.,26.27646223797845
+nf4,Telugu,94,"Each time he lost his wife, Gandhi married again.",38.48178074499491
+nf4,Telugu,95,The idea that writers have an obligation to use their work to promote social justice has become widely accepted among authors around the world.,26.032696164035933
+nf4,Telugu,96,One fact can tell you everything about him.,10.925796034538587
+nf4,Telugu,97,"We could see hundreds of soldiers marching in perfect order up the mountain, playing their drums and flags as they entered the city.",29.657159577799582
+nf4,Telugu,98,"They read together Rama and Mahabharata, Maratha war stories, so their young hearts were stirred with heroic tales.",26.512904043234556
+nf4,Telugu,99,The scarcity of cloud-free visual information resources makes it difficult to utilize optical remote sensing data during monsoon season.,38.66817337486372
+nf4,Telugu,100,"If you click on any malicious ad online, it could also end up on your computer system.",32.67114090502455
+nf4,Telugu,101,The caveman was so frightened that he ran out of his cave and hurt himself with his paw on the ground.,27.121382758023604
+nf4,Telugu,102,He threatened to burn down Cawnpore.,27.946729444265973
+nf4,Telugu,103,Shaita and his clerks gathered around me.,79.53777636695473
+nf4,Telugu,104,He was followed by a short time by another Jeremy.,20.267902186969543
+nf4,Telugu,105,The people of Meghalaya have an extremely close bond with their family members.,16.961690050444336
+nf4,Telugu,106,I think they would agree if you could convince them.,16.180549067667787
+nf4,Telugu,107,Urban areas have many transportation options available.,26.788399936068075
+nf4,Telugu,108,"In case of a crash, a recovery mechanism ensures that data can be recovered back to its last known good state, even if the system has been corrupted or otherwise damaged beyond repair.",23.25661675764042
+nf4,Telugu,109,"In negotiations, you have to make compromises on both sides - if one side gets too much, then the other will get less. This can lead to long-term problems as people may feel that they aren't getting their fair share.",19.56599594500636
+nf4,Telugu,110,"Swimming pools are available, so you should learn how to swim before swimming in open water.",19.49692145162218
+nf4,Telugu,111,The first aid training should include questions about swimming safety and how to treat injuries that may occur while swimming.,34.393661718330904
+nf4,Telugu,112,The Punjab Sikhs have been known to take their national independence spirit very seriously.,26.874938879603068
+nf4,Telugu,113,My father was born with this kind of magnificent generosity.,21.205786032639736
+nf4,Telugu,114,"The rebellion was largely successful, as Henry had been able to keep his army intact despite losing many men.",14.348787888913694
+nf4,Telugu,115,The meal was ready when everyone arrived.,11.254082867030274
+nf4,Telugu,116,"British soldiers, your bodies will sweat out blood, but you can enjoy your breakfast under the cool shade of coconut trees.",36.24414791509323
+nf4,Telugu,117,"Seeds germinate, then they grow into plants, or puppies become dogs, or kittens become cats.",30.419679143163968
+nf4,Telugu,118,Boys are equally vulnerable to sexual abuse as girls.,92.47954761907545
+nf4,Telugu,119,"In the movie, the villain threatens to kill his son if he doesn't do what he says.",9.248515538196171
+nf4,Telugu,120,JBH Wadia and his brother HW Wadia were responsible for spreading stunt cinema across India.,34.74316700102914
+nf4,Telugu,121,"They have become movie legends with their train-railway action films such as Tughlaq Diamond (1940), Train to Aakha Bay (1952), Tum Se Hum Tum (1967), Tumse Saath Nahin (1982), Tumhare Naam Kya Hai (1988), Tumhe To Pyar Milaunga (",17.603949573402787
+nf4,Telugu,122,Assamese cinema is primarily seen in India's Assam state.,38.64928264636564
+nf4,Telugu,123,The scientific community has been slower than expected to accept the new findings.,15.125764219357546
+nf4,Telugu,124,The handshake is an essential part of any social interaction in India.,19.302977855272985
+nf4,Telugu,125,"They make something out of nothing, creating an intricate web of relationships that can only be understood through their own language.",23.788412313160915
+nf4,Telugu,126,"FTTI launched its first online film appreciation course on June 15th, 2020.",35.96595480720397
+nf4,Telugu,127,The National Film Archive of India has been co-ordinating this course at Pune.,49.84554479664003
+nf4,Odia,0,The face is the summation of all these characteristics that make up an individual person.,16.184284044991102
+nf4,Odia,1,Ajanta Caves in Maharashtra date back to the first century BCE and fifth century CE and feature non-repeating architecture and paintings.,38.09176134131248
+nf4,Odia,2,"The body color of the mangrove crab (Uca nerteri) matches the surrounding vegetation, creating an illusion of being one with its environment.",29.613652755048356
+nf4,Odia,3,Ashoka started using stone sculptures and famous monuments when he introduced his new religion Buddhism.,30.558796926743188
+nf4,Odia,4,Maharashtrian food is well known all over India and has many regional variations.,15.952837224133283
+nf4,Odia,5,"Chettinad‌ food is the traditional cuisine of Tamil Nadu state's Chettinad region, which is known for its distinct dishes made with locally grown spices and vegetables.",35.87318974140015
+nf4,Odia,6,"Daal channa (literally ""lentil chickpeas"") is an integral part of India's culinary heritage, with its use extending beyond just being a side dish to include medicinal applications as well.",26.29391061000525
+nf4,Odia,7,It is ground with a stone mortar called Hemadastha.,23.45068912240313
+nf4,Odia,8,"Punjabi food varies greatly between cities, with Amritsar being known for its Ammi kulchey (a type of fried bread) and paneer curry.",24.228520693925585
+nf4,Odia,9,"""Send Rama with Lakshmana"" - A common phrase used when someone wants to send their loved ones on an important journey together.",38.3265758977463
+nf4,Odia,10,Only Mangal Pandey had such an extraordinary courage to do what he did.,22.004067132142318
+nf4,Odia,11,"Pieces of onion once washed off then marinated with meat dipped in turmeric powder, and stirred until all spices have absorbed into the meat.",35.9178447259206
+nf4,Odia,12,"The Huttipushiya book is a collection of stories about animals, humans, and their interactions.",32.57957006430454
+nf4,Odia,13,The book aims to promote the art of expressing feelings and using good manners through the study of Sanskrit literature.,29.621491705100144
+nf4,Odia,14,"Professor Acyuta Kumar Bandopadhyay was instrumental in compiling the history of his hometown Howrah, which appeared as two volumes titled 'Howrah Sahiro Itivrttikatha' in 1994 and 1995.",48.75760851530199
+nf4,Odia,15,Chaitya arches have an important feature called chaitya window which is a semi-circular opening on the front façade.,26.26488997223193
+nf4,Odia,16,"Traditional foodways have been passed down through generations in many places around the world, including India.",21.29521513502793
+nf4,Odia,17,It is prepared using traditional methods with help of a Basta Waza team or Pachakadal team.,23.821095167381603
+nf4,Odia,18,"Pav Bhaji: It is a fast food dish originating in Maharashtra, consisting of thickly fried vegetable curry served with a soft roll called pav.",59.76351208083622
+nf4,Odia,19,Reddey Odeda and Hab Khauton‌ have their own distinct culinary traditions that set them apart from other North Eastern Indian states.,11.65741700569144
+nf4,Odia,20,"Bodh Gaya, India - The place where Buddha attained Enlightenment.",12.779266766210426
+nf4,Odia,21,"The word ""root"" has both literal and figurative meanings in English.",19.591518369808245
+nf4,Odia,22,The Indus Valley Civilization was known for its technological advancements.,53.36355125668059
+nf4,Odia,23,All the Pandavas die; only Yudhishthira survives.,43.11968987827153
+nf4,Odia,24,The battle lasts eighteen days and ends with the defeat of the Kauravas.,83.87840928824822
+nf4,Odia,25,"The epic Mahabharata tells the story of a struggle over the throne of Hastinapura, which was home to an ancient people known as the Bhār‌tas.",37.251993851507606
+nf4,Odia,26,"Karnataka has an unusually high number of vegetarians compared to its population size, so much that their diet is largely made up of non-vegetarian food items.",37.2561391106269
+nf4,Odia,27,"""Surely you can see that!""",5.899518425915299
+nf4,Odia,28,"Tamil literature has two major works, Silappathikaram and Manimekala.",42.62360524904141
+nf4,Odia,29,Lemon grass is used with care in this region.,30.571032863174292
+nf4,Odia,30,"The word 'yoga' comes from the original Sanskrit term 'yog', which means joining or binding together.",33.189209279074355
+nf4,Odia,31,The temple walls of Odisha have been carved with numerous symbols that reflect its rich cultural heritage.,29.74316774865718
+nf4,Odia,32,"Bashista looked at Rajan‌ and said: ""It would be unwise to break your word once you have made.""",19.001603244566198
+nf4,Odia,33,"Arjun has finally understood his own sorrow, and now he can begin to teach others about the secret of religious behavior on Earth.",19.11749546979762
+nf4,Odia,34,You can also add little bit of rice flour while pouring the rice into the pot.,30.540168461983864
+nf4,Odia,35,You can begin with making a cylindrical shape out of noodles (or rice) using chameleon cake molds.,22.97619587184907
+nf4,Odia,36,"The Gurudwara at Nanded was built under the patronage of Maharaja Ranjit Singh, which has an exquisite golden dome adorned with intricate carvings.",41.13764623263874
+nf4,Odia,37,The Odia language has its own distinct style of poetry called 'Bhāṣa'.,10.505301779807208
+nf4,Odia,38,It seems that ancient Ayodhya was no less than our modern cities.,38.74406849497016
+nf4,Odia,39,You have no choice but to do so.,27.045543346712808
+nf4,Odia,40,The recent days have seen divergent views on the exchange rate and foreign currency reserves.,53.39258301821649
+nf4,Odia,41,"Banks only report past due accounts to CICs when they have been overdue for three days or more, but if you pay your bill on time, then there will be no penalty.",25.790912279361358
+nf4,Odia,42,States can promote domestic direct investment to improve their financial situation.,54.558181480244585
+nf4,Odia,43,"In order to get an instant cashback on your bank loan, you can apply for a package that will be approved within 90 days after the application date. If approved, this status can be restored back to its original state as long as the approval was received before the deadline.",32.768864355293736
+nf4,Odia,44,Is the question whether economic inequality is inherently bad or whether there are ways to reduce it? Or both?,17.503225048238573
+nf4,Odia,45,It controls inflation through monetary policy.,14.32311319439948
+nf4,Odia,46,The data suggests that economic activity has returned to pre-pandemic levels.,37.62196898852349
+nf4,Odia,47,"The study of macroeconomics focuses on how aggregate variables such as GDP, unemployment, inflation, etc., interact with each other.",33.0496131669724
+nf4,Odia,48,Economic tropics refers to areas with high agricultural productivity due to favorable climate conditions.,19.809592692024697
+nf4,Odia,49,The principle should be fair and equitable rather than subjective judgments.,24.970645380470224
+nf4,Odia,50,The interest on this loan does not accrue at any time during its term and therefore has no n›p›a.,21.41009310807772
+nf4,Odia,51,"The UPI system has been rolled out across India, including its northeastern state of Meghalaya, which will enable Indians to send money to friends and family overseas more easily than before.",20.98899173230248
+nf4,Odia,52,Liquefied natural gas (LNG) energy has become increasingly important as an electricity generation source and industrial fuel due to its high efficiency and low carbon footprint.,31.90566213957877
+nf4,Odia,53,Markets can help you grow your business but they cannot create brand equity on their own.,24.33043771651889
+nf4,Odia,54,Payment aggregators have been included as an important player in payment systems and were called PSOS under March 2020 regulations.,37.43958316563627
+nf4,Odia,55,The law now requires online payment aggregators to comply with certain regulations regarding taxation and reporting requirements.,30.81712338504308
+nf4,Odia,56,"Ricardo said that such a country could benefit from exporting its high-value products and importing lower-valued ones, even if it had less comparative advantage than others.",36.20960198809555
+nf4,Odia,57,"Bank credit rose at an accelerated pace of 16.2 percent compared with September 9, 2022, up from 6.7 percent one year ago.",66.82802778402423
+nf4,Odia,58,"The agricultural sector includes activities such as irrigation, grass harvesting, storage, grading, transportation, etc., which help farmers secure loans before and after harvests.",34.391841322506934
+nf4,Odia,59,"Agricultural credit schemes include long-term loans for agricultural machinery, irrigation facilities, and other developmental activities.",52.66406797314769
+nf4,Odia,60,"Banking observers are watching closely over shadow banks, which have been blamed for undermining traditional banking systems and threatening the stability of the wider financial system. They are trying to improve capital adequacy and currency regulation as a way to curb their influence.",36.1164520959595
+nf4,Odia,61,The official sector has been increasingly focusing on gathering more comprehensive data and uncovering hidden vulnerabilities since the global financial crisis.,54.599061274511385
+nf4,Odia,62,Market price is determined by the equilibrium between supply and demand.,40.81549510697028
+nf4,Odia,63,The equilibrium price and quantity of goods and services determined by supply and demand.,32.068997446069694
+nf4,Odia,64,"The net worth of the country is about 10 billion USD, with foreign investment contributing around $2 billion annually.",17.441324998261827
+nf4,Odia,65,The trade balance is the difference between the value of goods exported and imported.,55.6070314728628
+nf4,Odia,66,Minister G‹i‹r‹a‹j Singh said that continuous efforts have led to better global recognition of EODBs and addressing challenges with regard to linkages with Global Value Chains (GVCs).,18.07797493473693
+nf4,Odia,67,The inflation projection for Q2 2023 stands at 6.7 percent with an expectation of risk neutrality.,25.45683471065606
+nf4,Odia,68,India's import growth has slowed down but its export growth has outpaced it.,54.37659316915347
+nf4,Odia,69,"The focus on growth has been primarily economic (GDP growth rate, budget deficit as percentage of GDP, debt/GDP ratio, tax revenue as percentage of GDP, etc.) and social (poverty, inequality, employment rates, nutrition levels, etc.).",51.26799422526431
+nf4,Odia,70,"Recent economic debates have been increasingly focused on balancing social and environmental performance, with some degree of neglecting interplay between them.",38.95330735065341
+nf4,Odia,71,"The loan will be restructured with an adjusted interest rate based on the current market value of the debt as of today, which includes both the principal amount outstanding and any accrued interest since the last repayment date.",27.10287437366214
+nf4,Odia,72,"The Reserve Bank of India announced a special liquidity facility worth 50,000 crore for its banking sector to help restore confidence in the financial system.",38.436811748790106
+nf4,Odia,73,"The recent sharp increase in interest rates and further increases have caused financial markets to contract, which has led to heightened volatility and increased risk aversion among investors.",44.680104947024894
+nf4,Odia,74,"Full-value notes are accepted as currency, while half-value notes and rejected notes are considered as substitutes.",31.43071404572818
+nf4,Odia,75,India has seen an impressive rise in its debt market.,19.20258709527398
+nf4,Odia,76,"Despite global instability, India has been able to maintain its economic stability.",26.62558404426029
+nf4,Odia,77,Financial markets have been shaken by concerns over potential economic and financial instability.,41.32034556545718
+nf4,Odia,78,Tenderers‌ should send their bank‌ account details along with this kind of notes‌ to a nearby common currency exchange office so that they can get them exchanged at a fair rate.,26.515578549170105
+nf4,Odia,79,"CBDCs must prioritize the protection of citizens' privacy rights when collecting personal data, ensuring that only identifiable information is collected for valid purposes.",24.86264182953799
+nf4,Odia,80,"A cyber attacker targets computer systems or networks with the intent to cause damage, disruption, or gain unauthorized access.",30.22813687691593
+nf4,Odia,81,The high salt content of packaged food products has led to an increased risk of hypertension among residents of all ages.,24.3626947744066
+nf4,Odia,82,"A car can skid if its brakes are applied suddenly, maneuvered skillfully, or hit by an accident, all of which may cause the vehicle to slide uncontrollably on the ground.",30.38757585341155
+nf4,Odia,83,"The next day, an English captive named Gore Cobb came to General with news that one of his captured prisoners had told him that Naga chieftain Nanglong had said he would surrender only after taking revenge on the British.",29.14832694510736
+nf4,Odia,84,The Lahore Garrison was under the command of General Robert Montgomery.,36.85268061446112
+nf4,Odia,85,"The English officers at Meerut were confident that their number was four to one against the sepoys until news arrived from Delhi, but they had no way of knowing whether the sepoys were communicating with each other secretly.",33.63622190263057
+nf4,Odia,86,It can also cause addiction and brain damage.,19.70806606437104
+nf4,Odia,87,Both sides were receiving new troops every day.,39.25155287550028
+nf4,Odia,88,"If there was any individual who deserved to be remembered as a martyr, it would have been Mangal Pandey.",35.39316811867263
+nf4,Odia,89,"He looked at me once, and with humility said, ""I am sorry, all our rooms are full.""",24.740142115054446
+nf4,Odia,90,What if we don't clean up our messy house?,9.505363202379373
+nf4,Odia,91,"Over recent years, our surroundings have seen many changes due to digital technology usage.",41.221562753114846
+nf4,Odia,92,"In the past, letters took days to arrive, and each recipient had their own personal copy to keep and respond to separately.",48.73795712669207
+nf4,Odia,93,The law of cause and effect holds that every action has an equal and opposite reaction.,13.681576687473388
+nf4,Odia,94,Got fourth wife after losing his first three wives.,15.960231573103387
+nf4,Odia,95,The concept of justice has become an important social duty for writers to spread awareness about slavery and its abolition among people.,32.709471972326284
+nf4,Odia,96,It is enough to know that he was born in India and has been living abroad since childhood.,13.840065343847916
+nf4,Odia,97,"We could clearly see hundreds of soldiers marching down the road towards the city with perfect discipline, carrying out military drills and waving flags and banners.",51.40864666098048
+nf4,Odia,98,They read together Rāma and Mahābhārata; they recited together Maratha warfare details; and their young hearts were stirred with tales of Hindu heroism.,34.547947963352954
+nf4,Odia,99,The lack of cloud-free optical‌ satellite data is a major barrier to using remote sensing data for agricultural applications during rainy seasons.,54.34236023040794
+nf4,Odia,100,We can also get harmful adverts on our computers when we click on them online.,39.14968432445825
+nf4,Odia,101,"Chilean‌wal‌la‌s have been known to take their dogs on long walks through the countryside, but this was the first time anyone had seen them do so with such purpose.",18.416788254697448
+nf4,Odia,102,He said he would attack Kanpur.,9.98308870209131
+nf4,Odia,103,Sheetajan gathered around me.,49.30743624967667
+nf4,Odia,104,The next stop was Jersyk‌.,7.298960356811237
+nf4,Odia,105,The brothers were deeply in love with each other.,69.14390273788607
+nf4,Odia,106,"I felt that if they agreed to this proposal, others might feel compelled to do so as well.",54.33261128556437
+nf4,Odia,107,"The city has an extensive network of roads, railways, airports, and waterways that connect it with its neighboring regions and countries.",17.233503623726257
+nf4,Odia,108,"The right‌-to-reclamation‌ protocol ensures that all changes made during a crash‌ can be recovered systematically through logging storage‌, with the advice of experts.",26.7333455428634
+nf4,Odia,109,"Firstly, when there are multiple tacks, one must spend more time on acquiring them, and secondly, accuracy becomes more complex.",34.796096999806245
+nf4,Odia,110,"If swimming is available, then learning how to swim can save your life.",26.85694848105338
+nf4,Odia,111,Students should feel free to ask questions about swimming safety if they have any doubts.,51.11277656221381
+nf4,Odia,112,It was necessary to know how much nationalistic feeling among Punjab Sepoys had been awakened.,47.12778405502348
+nf4,Odia,113,My father had never been able to enjoy such majestic beauty until he was old enough to travel abroad.,21.11910051143207
+nf4,Odia,114,"The rebellion had satisfied Henry with his newly formed alliance, which included English soldiers, artillerymen, and troops made up of both Hindu and Muslim soldiers who were now loyal to him.",23.826640283375035
+nf4,Odia,115,"The army was well equipped with weapons, water supplies were ready, hungry soldiers first ate their rations.",23.145561153297507
+nf4,Odia,116,"""You have earned your breakfast with sweat, not blood"" - this is how British soldiers were taught to say their morning meal.",30.497094388143196
+nf4,Odia,117,"You may have seen mangoes growing as succulent shoots called gaja (pronounced 'ga-ja') which then develop into full-grown trees over time, or perhaps you saw kukurjuks (kitten) grow up to become fully grown cats!",33.66742146166944
+nf4,Odia,118,Boys are also vulnerable to sexual abuse.,76.54322782284166
+nf4,Odia,119,"Bengal was devastated when lightning struck Jhansi on that fateful day, but its people were saved because their king had been warned about his son’s treachery.",17.297344403273474
+nf4,Odia,120,"J.B.H‌ was responsible for making stunt films famous worldwide. His brother, Homi W‌yah, also played an important role in this regard.",31.077772392371088
+nf4,Odia,121,"The train has become an iconic symbol of India's railway system, with many films featuring this style of cinematic action.",17.893493764873007
+nf4,Odia,122,Assamese cinema refers to films made in the state of Assam in India.,35.55194691109361
+nf4,Odia,123,The ancient art of Odisha has been transformed into modern forms.,17.00923759947941
+nf4,Odia,124,The more important thing is that there is an intentional act of purposefulness.,22.908204520578263
+nf4,Odia,125,"The novel offers an assorted mix of genres, including drama, comedy, tragedy, and romance.",24.20659989794277
+nf4,Odia,126,F‹tI announced its first ever online film festival on 15th June‌ to 11th July‌.,29.77025691342427
+nf4,Odia,127,The film museum was co-hosting this event with Pune International Film Festival.,27.46727255602001

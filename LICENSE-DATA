@@ -1,0 +1,7 @@
+The result files in this repository (CSV/JSON outputs, figures and tables) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+They are derived from IN22-Gen by AI4Bharat (CC BY 4.0), https://huggingface.co/datasets/ai4bharat/IN22-Gen,
+and from outputs of the models listed in README.md, each of which is subject to its own licence.
+Copyright (c) 2026 Shrey Sati

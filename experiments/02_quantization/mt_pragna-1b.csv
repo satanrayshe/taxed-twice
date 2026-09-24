@@ -1,0 +1,1281 @@
+precision,language,idx,hyp,chrf
+bf16,Hindi,0,"Service-related people have many traits, such as their jewellery, clothing, hats, shoes, etc., which are made of metal, jewelry, etc.",30.4405041120722
+bf16,Hindi,1,The Ajanta Caves are one of the most important archaeological sites in India.,11.905465593420235
+bf16,Hindi,2,The body's color changes as it moves outward.,10.903801414034728
+bf16,Hindi,3,"The Ashoka palaces were built with a wide variety of materials, including stone, wood, and mud.",18.45202147773165
+bf16,Hindi,4,"In Maharashtra, this dish is made with a mixture of spices and beans, and it is made by baking it in a tray.",24.78839806569171
+bf16,Hindi,5,Chettinad food is a unique cuisine of the Chettinad community of Natatukaoti Chettiar.,31.16953218628372
+bf16,Hindi,6,Dalchin is a popular Indian dish and is used as a source of nutrition and medicinal properties.,23.01641629434343
+bf16,Hindi,7,Grind the sugar in a bowl and add the water and mix well.,16.540596091656102
+bf16,Hindi,8,"People of Punjab like to visit Amritsar, Badalpur, Dhaulapur, Dhanagar, Dhanagari, Dhanagari, Dhanagari, Dhanagari, Dhanagari, Dhanagari, Dhanagari, Dhanagari, Dhanagari, Dhanagari, Dhanagari, D",17.155524861183228
+bf16,Hindi,9,The Lord sends Rama to the other side and Lal to the other side.,22.707413234669698
+bf16,Hindi,10,The Mangal Pandey's feat of scaling Mount Everest was a great example of audacity.,25.827850486169663
+bf16,Hindi,11,"When parsley is grown in a good way, it is not only a good vegetable but also a good spice.",10.263980087989024
+bf16,Hindi,12,The book is a collection of sources on the spiritual life of animals and humans.,30.12501564045366
+bf16,Hindi,13,The book aims to promote the use of the language in the field of intellectual and creative expression.,31.13948990358859
+bf16,Hindi,14,Professor Asitkar Bindopadhyay has written a history of Harivarti in Harivarti (the first and second volume) in the name of Harivarti Resurrection.,30.11890500415849
+bf16,Hindi,15,The main entrance of the temple is open on the side facing the east and the main entrance is on the side facing the west.,17.12354571112612
+bf16,Hindi,16,The Pak-style cuisine of Meghalaya is unique and different from other Northeastern Indian states.,11.407810554966888
+bf16,Hindi,17,"The main source of food for the Rasoiyas is the main course, which is usually prepared by the main cook.",21.035443518784152
+bf16,Hindi,18,"This is a fast food dish from Maharashtra, which is made by mixing various vegetables with a spicy sauce and then roasted in a pan. It is served with a hot and spicy roasted bread.",44.09229852679532
+bf16,Hindi,19,"The Hindu goddess Meera is known for her mystical and deep-seated love for Krishna, and the Kaliyana is known for her love for the Goddess Lakshmi.",17.264522958098887
+bf16,Hindi,20,The Bhagwan Gumfaas are the most famous of the many Buddhist cave temples in India.,19.21126266269705
+bf16,Hindi,21,The root word of the word 'plant' is 'plant' and the meaning of the word 'plant' is the base of the plant.,26.8630592002001
+bf16,Hindi,22,The Sindhu Valley civilization is known for its technological innovation and its use of copper and iron.,48.38559779972176
+bf16,Hindi,23,Only five Pandavas and Krishna survive.,44.90865312212725
+bf16,Hindi,24,The war lasts for a hundred days and ends with the Kaurva's defeat.,46.94857911688479
+bf16,Hindi,25,The central story of the Mahabharata is the struggle for succession between the kings of Hastinpur and the rivalry between the two kings of Hastinpur and the king of Ajay.,36.69813816647023
+bf16,Hindi,26,"In Kerala, the main dish is a vegetarian dish called 'Kozhi Vengayam', which is a vegetarian dish made with tomatoes, onions, and spices.",24.20264305664963
+bf16,Hindi,27,"The war zone is in the middle of the field, and the soldiers are talking about the war.",19.81654603267136
+bf16,Hindi,28,"In Tamil, there are two great epics, the Silapadaka and the Manikela.",30.0294126509819
+bf16,Hindi,29,"In this region, the use of mustard oil is strictly prohibited.",36.76440508519719
+bf16,Hindi,30,Yoga is a practice of physical and mental discipline that is essential for the well-being of the body and mind.,16.51684649236777
+bf16,Hindi,31,"The Odisha Udayasi temple is a unique temple in Odisha, which is made of different forms of sculptures.",24.55215199828189
+bf16,Hindi,32,"Vishwant now turned towards the king and said: ""King, you have given me a promise once, but I will not be able to fulfill it if I do not do it now.""",32.29964880291512
+bf16,Hindi,33,"Only when Arjun's anguish was explained to Krishna, the world was divided into two sides and the Hindu-Muslim conflict began.",23.392007988019824
+bf16,Hindi,34,"As you are adding the chocolate chips to the mixture, you can also add some nuts or nuts.",27.840154713788237
+bf16,Hindi,35,"You can make a cucumber salad with a chutney made of nuts and raisins, and then mix it with a good amount of chicken or fish.",16.214765576636452
+bf16,Hindi,36,The construction of the Guru Nankar Singh Darbar Shrine in Nandad in 1835 A.D. was a beautiful and exquisite work of art.,31.20756465426472
+bf16,Hindi,37,"The Samwadi in the selected verses are arranged in a way that they are divided into two parts, each with a different rhyme scheme.",21.1655964891738
+bf16,Hindi,38,"The ancient capital of Ayodhya was a city that was not only the capital of the Madhava Empire, but also the capital of the Hindu Empire.",34.71441683494117
+bf16,Hindi,39,"Once you have decided to do it, there is no other option but to do it.",44.49497488251383
+bf16,Hindi,40,The rupee's exchange rate and foreign currency reserves have been increasing in recent years.,35.16454283698916
+bf16,Hindi,41,"When a credit card account is overdue for three days, only the bank can tell that the balance is overdue or the late payment fee.",28.158935716565832
+bf16,Hindi,42,The country can benefit from foreign direct investment (FDI) to boost its economy.,31.52785553927511
+bf16,Hindi,43,"If the application is submitted within the period of 30 days from the date of the notification of the bank, the applicant's application will be considered for recognition of the bank's status and will be considered for recognition of the bank's status.",38.408244489325504
+bf16,Hindi,44,"Can private wealth accumulation limit the growth of the economy to a certain extent, or is technology, competition, and the ability to grow at a faster rate the responsibility of the individual?",37.37825886908861
+bf16,Hindi,45,"The market is highly unstable and has a high level of inflation, which is a major cause of the economic crisis.",22.003095600475117
+bf16,Hindi,46,The second quarter of the year has shown that economic activity is still strong.,33.967564558913885
+bf16,Hindi,47,"In the field of international economics, the nation is a market and the market is a nation.",26.458225766825656
+bf16,Hindi,48,The term 'Money in the Bank' refers to the amount of money that is available for a short period of time.,22.11487419406218
+bf16,Hindi,49,The income tax system should be based on the individual's income and not on the taxable assets.,25.02072190506045
+bf16,Hindi,50,"The interest rate on the loan is not fixed, and the result is that the interest rate of the loan is extremely high.",24.25198963567364
+bf16,Hindi,51,India's most rapid payment system - UPI - to be extended to other states and regions as well as to other countries.,20.33437222517374
+bf16,Hindi,52,The use of natural gas in industrial plants and power generation has a significant impact on the LNG market.,22.935626113717365
+bf16,Hindi,53,"While marketing tools can help you sell your product for a long time, they do not guarantee that you will be able to sell your product for a long time.",26.91427999461812
+bf16,Hindi,54,The payment system has been made mandatory for payment receivers and has been given to payment receivers as a part of the payment system operator's duties.,24.82248326264633
+bf16,Hindi,55,"The current regulations, which apply to online or e-commerce transactions, are applicable to those who are making payments through online or e-commerce platforms.",58.72327696898685
+bf16,Hindi,56,The country's export earnings are expected to be higher than the import of goods and services in the next five years.,12.51616555676483
+bf16,Hindi,57,"In the last six months, the bank's net profit has increased by 1.2 per cent to Rs. 7,044 crore.",15.541415080554811
+bf16,Hindi,58,"The cost of sowing, harvesting, and processing of crops is usually borne by the farmer.",22.19067714535116
+bf16,Hindi,59,"For the long-term irrigation of farm land, irrigation machines are purchased by the farmers.",24.61111895714703
+bf16,Hindi,60,Banking Inspector is investigating the banking system and the regulatory framework to ensure that it is not being used to facilitate illegal activities and to prevent the flow of illegal funds.,23.159272209618724
+bf16,Hindi,61,The global financial crisis has been a major challenge to the official sector and has made it more difficult to collect and analyze data.,41.96614057629937
+bf16,Hindi,62,Market price determination is a requirement for the settlement of the cost and demand of goods.,32.272339923928875
+bf16,Hindi,63,The value of the price and other factors in this price-quantity relation are determined by supply and demand.,38.278653315348095
+bf16,Hindi,64,"In the first case, the foreign investment and the foreign exchange received from the foreign employees and the foreign aid are added to the total capital reserves. In the second case, the foreign investment and the foreign exchange received from the foreign employees and the foreign aid are subtracted from the total capital reserves.",27.103306766722877
+bf16,Hindi,65,Exports and imports of goods and services have a significant impact on the trade balance.,40.87958428978754
+bf16,Hindi,66,"The Minister of Micro, Small and Medium Enterprises (MSME), (Independent Chairman), who attended the 15th SMME Global Summit in New Delhi on December 19-20, 2018, has given a speech on the SMME Global Summit and has been working to improve the MSME sector in India.",34.178166342082626
+bf16,Hindi,67,"The macro-level macro-economic growth rate for the first quarter of 2022-23 is estimated to be 7.1% in the second quarter of 2022-23, which is expected to be considerably higher than the growth rate of 5.8% in the first quarter of 2022-23.",18.55925662125488
+bf16,Hindi,68,"India's export growth has been slowing down, but the growth in export of goods and services has been much higher than the growth in imports.",35.390659858419106
+bf16,Hindi,69,"The current growth of the economy is mainly driven by economic growth, government revenue, and debt.",17.381777957766804
+bf16,Hindi,70,The current economic discussion is about the balance between social and economic activities and the environment.,45.89564634640303
+bf16,Hindi,71,"The interest rate and the interest payment on the borrowed amount are shown in the current rate and the interest payment on the borrowed amount, respectively, for the borrower class.",21.62649578553203
+bf16,Hindi,72,"The Indian Reserve Bank has provided 50,000 crore special fund for MSLF-MF to enhance financial stability and support the MSLF-MF market.",27.283041297292044
+bf16,Hindi,73,"The economic situation has become more fragile, and people are becoming more risky in their behavior.",15.188131360555948
+bf16,Hindi,74,The value of the notes issued by the Reserve Bank of India will be determined by the value of the notes issued by the Reserve Bank of India in its branches in the State.,21.55075607431574
+bf16,Hindi,75,India's loan capital has grown by a huge amount in the last few years.,20.694408949180414
+bf16,Hindi,76,The global economic crisis has not affected the Indian economy.,30.33772915008639
+bf16,Hindi,77,"The financial sector is a major source of income for the country, but the real economy is still in a state of flux.",34.444899397775714
+bf16,Hindi,78,"When a note with a value of 5 or more is given and the person giving it is asked to change the note with a value of 5 or more, the person giving the note should send it to the bank branch with the same information.",23.10251445903728
+bf16,Hindi,79,The Court has also observed that the private information and confidential information of the public interest should be kept confidential and should not be used for any purpose other than the purpose for which it was collected.,31.670151956121423
+bf16,Hindi,80,Cyber-attackers are able to access data or services from other computers or networks.,38.78454868884222
+bf16,Hindi,81,All the prepared foods and dishes in the packaged foods contain sodium.,24.938918014165747
+bf16,Hindi,82,"When the vehicle is in motion, it is advisable to stop the vehicle immediately and change the direction of the vehicle.",34.03522538444992
+bf16,Hindi,83,"But the next morning, a prisoner who had been given to the English by the Nawabs, came to the court and told the judge that he had heard that the Nawab had ordered him to destroy the fort.",34.07087326580003
+bf16,Hindi,84,"In the time of Lord Mountbatten, the head of the army was Lieutenant-General Robert Mountbatten.",33.730323399058534
+bf16,Hindi,85,"The news of the Merat camp was received with surprise, but when the news was brought to the camp, it was found that the Merat camp was secretly in contact with the Merat camp.",23.631011920549877
+bf16,Hindi,86,Only the mind of the inherited innocence can be affected by the innocence of the mind.,15.43108384214857
+bf16,Hindi,87,The new pieces of land are being added to the already existing ones.,16.59322766751661
+bf16,Hindi,88,"If any person has any individual disrespectful feelings, then Mangal Pandey's name will be in the list of murderers.",40.687551777617685
+bf16,Hindi,89,"He saw me, and with a sadness in his voice, said, 'I am sorry, we have no empty space here,' and I said, 'Alvin.'",25.691176852261503
+bf16,Hindi,90,"If we do not clean our house and surroundings regularly, what will happen?",36.12536684244084
+bf16,Hindi,91,The digital revolution has brought about a lot of changes in the world.,32.80270977939348
+bf16,Hindi,92,"In the past, a letter would take several days to reach its destination, and the sender would have to write a separate letter for each recipient.",54.719459457273615
+bf16,Hindi,93,The mystical and interesting aspects of the religious beliefs of the people of the region are reflected in the various deities and deities of the region.,19.93708059741554
+bf16,Hindi,94,Kaibagha Gandhi had four marriages in his life.,22.307094726611528
+bf16,Hindi,95,The author's mission was to encourage the people to be aware of their rights and to be aware of the social responsibility they have to protect the rights of others.,37.82384871524971
+bf16,Hindi,96,Only this fact can be guess at the capability and character of their work.,33.33509044868016
+bf16,Hindi,97,We saw these soldiers in military uniform and with colorful flags and banners on the streets of the city.,26.114298605246468
+bf16,Hindi,98,He read the Ramayana and Mahabharata and learned about the Marathi people's warlike spirit.,21.3403757187177
+bf16,Hindi,99,The lack of sufficient data on the distribution of the meteorites in the summer months of the Indian summer makes it difficult to use the meteorites for agricultural purposes.,23.016508797311488
+bf16,Hindi,100,"When we click on any unpleasant advertisement on the Internet, it can also reach our computer system.",70.29745612002121
+bf16,Hindi,101,"The giant snail, which had been trapped in the cave, was able to escape by jumping out of the cave.",18.80488844752595
+bf16,Hindi,102,The Nanas attacked the Kannapur and forced them to leave.,20.96911845580992
+bf16,Hindi,103,The Shiva and his officers stood guard over me.,30.496168638706923
+bf16,Hindi,104,The Zaryaids ruled for a while.,22.500728672973786
+bf16,Hindi,105,Both brothers were very fond of each other.,47.29076916179193
+bf16,Hindi,106,"If the proposal is approved, other people can be asked to accept it.",26.499053630140008
+bf16,Hindi,107,The most important factor in the transport system of the city is the transport of goods and people.,34.84554417155146
+bf16,Hindi,108,"If a crash occurs, the log must be secured to ensure that it is not lost and that the recovery process is organized in a way that allows for the recovery of all the records that were lost or deleted.",28.302981689718195
+bf16,Hindi,109,The problem of multiple obstructions in the path of a single object is the most difficult to solve.,12.264065840952986
+bf16,Hindi,110,"If you want to swim in the sea, you can do it in the river or in the sea.",15.944689548486258
+bf16,Hindi,111,Students should be encouraged to ask questions about swimming if they have any concerns about the process.,66.06725094727894
+bf16,Hindi,112,It was necessary to know that the Punjab Police had a strong nationalism.,37.68434790770856
+bf16,Hindi,113,This is the reason why my father was not able to accept my marriage.,31.061356759087005
+bf16,Hindi,114,"The British army had a small but well-trained force of Indian soldiers, including a few Sikhs and Hindus, which was able to hold its own against the more powerful British forces.",20.968312961824875
+bf16,Hindi,115,"The weapons were arranged in a circle around the table, and the food was prepared in a circle around the table.",24.86991397213248
+bf16,Hindi,116,"The British soldiers have not eaten their own food, but have eaten their own breakfast. Therefore, you should go to the army headquarters and ask for a breakfast.",26.103940601461705
+bf16,Hindi,117,You have seen the seedlings growing in the soil and then they grow into plants and then they grow into animals. Or other animals grow from the seedlings.,36.122379193029154
+bf16,Hindi,118,Boys are also at risk of sexual abuse.,45.8825563626144
+bf16,Hindi,119,"When the power went out in Chandigarh and the police were trying to arrest the thugs, Bamba had his son to take care of the weapons and had threatened to kill the police if they were not released.",20.899027997488968
+bf16,Hindi,120,The main producers of films in the Hindi film industry are the brothers G.B.H.Wadia and his brother H.Wadia.,30.43466443258084
+bf16,Hindi,121,Train rides in India are a great way to experience the country's diverse culture and heritage.,13.364198686550004
+bf16,Hindi,122,Assamese cinema is mainly a Assamese language cinema.,46.30046712170679
+bf16,Hindi,123,The original works are not as clear as the translations.,26.363199373925355
+bf16,Hindi,124,"It is a simple hand cleaning exercise, and it is an important part of the IRA's strategy.",21.01381223568215
+bf16,Hindi,125,"The novel is a compelling story with a lot of twists and turns, and the result is a delicate and intriguing novel, with many aspects of life and society in it.",33.78295179948951
+bf16,Hindi,126,"15 June to 11 July 2019, FTII has launched the first online film praise course.",40.00934322314898
+bf16,Hindi,127,The course is being prepared by the National Film Archives of India in collaboration with the Pune University.,62.87954640789809
+bf16,Bengali,0,"The service provider person has a variety of traits such as his/her shoes, jeans, t-shirt, hats, haircuts, hats, hairdos, haircuts, hairstyles, hairstyles, hairstyles, hairstyles, hairstyles, hairstyles, hairstyles, hairstyles, hairstyles, hairstyles",25.522751832518956
+bf16,Bengali,1,"The ancient Pandavas were buried in the Gurugram cave complex, which is located in the Uttarakhand state of India.",18.792876502821223
+bf16,Bengali,2,The colour of the skin and hair is a direct reflection of the amount of sunlight that hits the skin.,21.128297754509514
+bf16,Bengali,3,"The ancient architecture of Alaskan culture is a combination of stone, wood, and metal.",19.04155646819321
+bf16,Bengali,4,"Alu is a spicy dish made with aloo, garlic, onion, and spices. It is made in a similar way as the rest of the state's cuisine.",17.37382762396135
+bf16,Bengali,5,Chettinad cuisine is a unique cuisine of Tamil Nadu and is also known as Nattucooti.,30.214094423015524
+bf16,Bengali,6,Dahi Chirin is a main source of freshwater fish in the country and is used as a gastronomic delight.,18.40369765273592
+bf16,Bengali,7,This is a dry and hot climate.,13.906930364793864
+bf16,Bengali,8,Punjab's cuisine is unique and different from other parts of the country.,13.335204326369388
+bf16,Bengali,9,Ram and Lakshmana were sent to Ram's house by Lord Shiva.,31.252231868247502
+bf16,Bengali,10,"The heroism of Mangalpand's Brahmastra, which was a great work of the Indian National movement, was a direct result of the greatness of the Indian National movement itself.",17.102267068938364
+bf16,Bengali,11,"Peanut butter is the best substitute for mayonnaise, and it's a great way to add some extra flavor to your sandwich.",17.853142697600624
+bf16,Bengali,12,"The book is a collection of stories, poems, and essays that describe the human condition, its origins, and its evolution.",24.6581207030988
+bf16,Bengali,13,The purpose of this book is to encourage the use of Bengali as a medium of expression and to instill a love for Bengali culture in the readers.,43.62983131271026
+bf16,Bengali,14,The Haura City's history was documented in his book 'Haura City: The First and Second Edition' published in 1994 and 1999 respectively.,23.174673560158137
+bf16,Bengali,15,"The exterior of the Chains of Bharatpur is mostly open, with no windows or doors.",15.113939217347252
+bf16,Bengali,16,'Maharaja' (Indian specialist chefs) and 'Kansa' (Indian specialist chefs)-'s' are centuries old and have been used to make the perfect cuisine for centuries.,25.436098861931868
+bf16,Bengali,17,"The traditional food of Meghalaya is a combination of rice, vegetables, and meat.",21.752511336466497
+bf16,Bengali,18,"Pau vazi is a common dish in Mumbai, and it is made with a mixture of rice, flour, and spices.",15.548828020022002
+bf16,Bengali,19,"The language of the Kashmiri people is a combination of Hindi and Urdu, and it is the language of the Kashmiri people. The Kashmiri language is a combination of Hindi and Urdu, and it is the language of the Kashmiri people.",18.7474620890777
+bf16,Bengali,20,The Bhagwan Guhya cave in the middle of the district of Dhar is a Buddhist cave art gallery located in the district of Dhar in the state of Madhya Pradesh.,40.24859980770257
+bf16,Bengali,21,"The word 'plant' is used in the sense of a plant, but in Alkanic language, it is used in the sense of a foot or a foot.",26.668006689044592
+bf16,Bengali,22,The Sindhu civilization was a major technological and cultural force in the region.,25.744995192322857
+bf16,Bengali,23,"The Kaurabs died out, and only the Pandavas and Kaurabs survived.",36.65245181384348
+bf16,Bengali,24,The war lasted for a month and a half and the Kaurabs were defeated.,27.45903277417035
+bf16,Bengali,25,The story of the Hindu kings of Delhi is a story of a dynamic and powerful kingdom that was ruled by a succession of kings.,26.345452238500865
+bf16,Bengali,26,"The people of Karnataka are known for their love of sweets and drinks, and they have a wide variety of sweets and drinks to offer.",21.58503985504746
+bf16,Bengali,27,He was the one who told me what was happening in the war zone.,24.940957994958534
+bf16,Bengali,28,The two major Tamil literature works are Shilpakara and Manimiklai.,35.23924122985077
+bf16,Bengali,29,This region is known for its lush vegetation and the use of llago in cooking.,36.83202499146792
+bf16,Bengali,30,The word 'joy' is used in the context of the word 'concern' to mean the same thing.,20.61731992257977
+bf16,Bengali,31,The decorative carvings on the walls of the temple tower of Puri are a unique blend of styles and styles from the different regions of Orissa.,38.26276762163946
+bf16,Bengali,32,"Bishnugupta said to the king: ""King, you have to accept my promise.",21.70795804449586
+bf16,Bengali,33,The anger of Kartik was so great that he changed his behaviour towards the world. He taught the world the secret of his power.,21.331155653500275
+bf16,Bengali,34,"The spices in the curry are added gradually, so that the coral oil is not overpowered by the spices.",18.41821738500222
+bf16,Bengali,35,You can start with a small amount of naravela cocola and then add more if you like.,14.20373071372471
+bf16,Bengali,36,"The construction of the Rajasthan Palace was completed in 1835, under the reign of Maharaja Raja Singh. It is a beautifully decorated glorious palace with a magnificent golden goblet roof.",31.68731793145369
+bf16,Bengali,37,The Sambed is a collection of musical notation that is intended to be used as a guide to the musical structure of a particular song or piece of music.,20.9364015793442
+bf16,Bengali,38,"Coochbehar is a city in West Bengal, India, and the seat of the Coochbehar district.",14.945850699134496
+bf16,Bengali,39,"Once you say 'I will do it', you have to do it.",43.41655740981435
+bf16,Bengali,40,The exchange rate and foreign currency deposits are currently at a level that is satisfactory to us.,22.92612150947261
+bf16,Bengali,41,Any credit card transaction of three days or more will be treated as a non-payment and will be subject to a fine by the bank.,20.269452001629134
+bf16,Bengali,42,The Indian economy is expected to grow at a rate of around 7% in the next five years.,16.622235535667404
+bf16,Bengali,43,The application form is accepted for the first time within the next 90 days after the application is submitted.,17.254094709864308
+bf16,Bengali,44,"Individual savings can be a powerful tool to generate wealth, but it is not possible to generate wealth by increasing the number of people.",16.252399419794205
+bf16,Bengali,45,"The country is facing a serious economic crisis, and the government is trying to stabilize the economy by taking various measures.",18.15129694915936
+bf16,Bengali,46,The second quarter of the year is a time to review the economic development of the country and to ensure that the country's economic growth is sustained.,20.84250050871989
+bf16,Bengali,47,The main economic activity of a country is to connect it with other countries and regions.,17.794030294744903
+bf16,Bengali,48,The market price of the entire basket of goods is close to the financial value of the goods.,29.03154897834641
+bf16,Bengali,49,The scope of the right to property is wide and the right to redress is not subject to any particular criteria.,18.437517202173925
+bf16,Bengali,50,There is no need to pay for the booking of the tickets as the dates are still available.,16.393270226293136
+bf16,Bengali,51,India's rapidly growing economy is a good example of how a country can leverage its natural resources to become a global player in the financial sector.,13.489049943267675
+bf16,Bengali,52,The electricity generators and industries are being used to run the power generation and the oil and gas sector.,21.29652743527893
+bf16,Bengali,53,You can sell your products in the market but it is not a Technically Sustainable Business.,20.230535797735293
+bf16,Bengali,54,The P.A.R.A. is a regulatory body that regulates the use of the Internet and other electronic communication technologies. It is also responsible for the regulation of the Internet and other electronic communication technologies.,18.354333348817946
+bf16,Bengali,55,The current regulations for online payment are applicable to all the banks and credit unions.,40.95358035328537
+bf16,Bengali,56,"The country has a large market share in the world, and its export products are more competitive than those of other countries.",15.780554402919952
+bf16,Bengali,57,"The bank's net non-performing loans (NPLs) have increased by 6.7% in the last six months, compared to a year ago.",20.038271918819834
+bf16,Bengali,58,"The main crops in the region are rice, wheat, and corn.",9.01284883411131
+bf16,Bengali,59,The minimum and maximum loan repayment periods for the agricultural loan will be determined by the bank.,19.555925226610157
+bf16,Bengali,60,The banking system is being tested for the implementation of the Financial Institutions (Amendment) Bill 2019 and the best practices of the banking system are being tested.,18.272588858134384
+bf16,Bengali,61,The government is working to improve the quality of information and data collection in the government sector and in the private sector.,29.35832737209168
+bf16,Bengali,62,The demand for the same is equal to the value of the product.,18.90943252104634
+bf16,Bengali,63,The main and other characteristics of the construction are the cost and other requirements of the building.,22.573488359152503
+bf16,Bengali,64,The total amount of the financial assets is the sum of the amounts of financial assets of the company and the amounts of foreign exchange received from foreign sources.,22.96045156715119
+bf16,Bengali,65,Export and import of goods and services are the main sources of income for Bangladesh.,30.2430531034263
+bf16,Bengali,66,"The Minister of Micro, Small and Medium Enterprises (MSME) Shree Giriraj Singh in Delhi on December 19, 2018, inaugurated the 15th Global MSME Summit and opened the door to the world.",28.978605904930248
+bf16,Bengali,67,"The rate of inflation in this period has been 7.1%, 7.1% and 7.1% respectively. The third quarter of 2022 was 7.1% and the fourth quarter was 5.8% compared to the same period in 2021.",19.84908200935972
+bf16,Bengali,68,India's export growth has slowed down but remains positive.,31.1057600678242
+bf16,Bengali,69,The current economic growth rate is mainly driven by the increase in the productivity of the labour force and the government's ability to collect taxes.,18.38358029532054
+bf16,Bengali,70,The current economic discussions are more social and economic cooperation than the environmental one.,42.21230107379649
+bf16,Bengali,71,The interest rate of the bank is determined by the current interest rate of the bank and the interest rate of the next interest rate period. The interest rate of the bank is determined by the current interest rate of the bank and the interest rate of the next interest rate period.,24.655870655003568
+bf16,Bengali,72,"The government of India has decided to provide special financial assistance to the MSMEs (Micro, Small and Medium Enterprises) for the implementation of the special tarrif scheme for the MSMEs.",22.19416657509841
+bf16,Bengali,73,"The recent trend of high rainfall and larger rainfall in the recent past has led to a rise in the number of flood events and the probability of flood events, which is a direct result of the increased risk of flood events.",24.044563936328657
+bf16,Bengali,74,The full value of notes issued by the Central Bank of India and the cancellation of notes of half value will be assessed by the RBI and the issue of notes will be generated from the RBI's office.,32.24968572074239
+bf16,Bengali,75,India's loan guarantee scheme has seen a huge increase in the number of borrowers.,25.0478639446918
+bf16,Bengali,76,The Indian economy is stable and is not affected by the global economic crisis.,29.39378646965224
+bf16,Bengali,77,The economy and financial stability of the country are strong and stable.,33.90087465643106
+bf16,Bengali,78,"The number of notes given in a note is not more than 5 but 500 notes are given in a note. If the note holder is a bank customer, he should inform the bank branch where he is located that he has received the note.",24.392655024283325
+bf16,Bengali,79,The court has to make sure that the information obtained is confidential and that the person who is obtaining the information is in a position to protect the privacy of the information.,19.29988047116451
+bf16,Bengali,80,Cybercrime is a crime committed using computers and the Internet.,20.263376281623056
+bf16,Bengali,81,The use of nuts in the packaged foods is due to the high content of sodium in the nuts.,24.495843430531817
+bf16,Bengali,82,"If you are driving a car, you should always be careful, as there is a chance of a collision.",12.068491424129652
+bf16,Bengali,83,"But, the English officer heard that the Nawab had been killed, and he said that he would not attack him unless he was killed.",21.89428595107777
+bf16,Bengali,84,"This time, Lieutenant-General Roberts Mangambar was the head of the army in Lahore.",37.31570824392711
+bf16,Bengali,85,"The Mogadishu Spirit was a secret agent of the British Empire, and the Mogadishu Spirit was a secret agent of the British Empire, and the Mogadishu Spirit was a secret agent of the British Empire, and the Mogadishu Spirit was a secret agent of the British Empire, and the Mogadishu Spirit was a secret agent of the British Empire, and the",17.186993427841426
+bf16,Bengali,86,"These are only the symptoms of the disease, but the mood of the brain is affected by the consumption of these foods.",31.25168119520225
+bf16,Bengali,87,"The day after the attack, the number of new soldiers was increasing.",24.67063347102486
+bf16,Bengali,88,The name of the city of Mangalore is a tribute to the victims of the Mangalore massacre.,17.956668794394083
+bf16,Bengali,89,I was very sad to hear that my friends are not coming to visit me.,14.209170106266496
+bf16,Bengali,90,What will happen if we throw away the waste?,20.801253819976235
+bf16,Bengali,91,The digital age has brought about a lot of changes in our everyday lives.,26.68854628420617
+bf16,Bengali,92,"In the past, a letter would take several days to reach its destination, and each recipient would have to write a separate reply.",57.8073946108814
+bf16,Bengali,93,The underlying principle of the evolution of the universe is that of evolution. It is a process of increasing complexity and complexity.,30.181115550239813
+bf16,Bengali,94,"Death is a painful experience for every human being, but the four marriages of Kabir Gandhi are a painful experience for the Indian nation.",22.053380931520937
+bf16,Bengali,95,The main purpose of this book is to encourage the people to be more aware of their rights and to be more active in the fight for their rights.,27.01325397252636
+bf16,Bengali,96,Only this information can be used to estimate his capabilities and characteristics.,36.14564427096577
+bf16,Bengali,97,The Shilpa Shivra is a beautiful sea of flowers and the military flags of the different countries are clearly visible from the city.,23.724250604247693
+bf16,Bengali,98,"Ramahyan and Mahabharat are the two most important stories of the ancient Indian civilization. They have been combined together to form the Mahabharat, and the Hindu warrior's story has been told to them.",31.201360776918857
+bf16,Bengali,99,The main problem in using remote sensing data for crop yield estimation is the lack of sufficient number of optical sensors.,30.999470012202814
+bf16,Bengali,100,"Internet is a very powerful tool, and it can be used to spread any kind of harmful information.",21.48908848751316
+bf16,Bengali,101,"The guha was in danger, so Chilliayanwen took the opportunity to attack the enemy and destroy the enemy's army.",22.535327243998964
+bf16,Bengali,102,The Tatars were forced to flee to Kashmir and the Kashmiri Pandus were forced to flee to the Kashmiri Pandus.,19.834950667174294
+bf16,Bengali,103,The Shetty and his staff were all over the place.,31.337688906124505
+bf16,Bengali,104,"After a few days, he returns to the United States.",17.189661206619938
+bf16,Bengali,105,The brothers had a strong bond with each other.,46.05453279159061
+bf16,Bengali,106,They would have to accept the same plan as me.,16.48427213809967
+bf16,Bengali,107,"The city's public transport system is a mix of buses, taxis, and trains.",20.518284888725898
+bf16,Bengali,108,The process of rebuilding a website after a crash is called rebuilding the site. The process of rebuilding the site is called rebuilding the site.,14.06652225859572
+bf16,Bengali,109,"The main problem is to find the right combination of the two, and the time spent on it is more complex.",22.426710925294024
+bf16,Bengali,110,Swimming is a good way to save lives in the event of a drowning accident.,21.044378198300333
+bf16,Bengali,111,First aid is a must for any student who is going to participate in any water sports.,19.178480223116377
+bf16,Bengali,112,The Punjab Spiritual Identity was a very strong feeling in the hearts of the Punjabi people.,23.23524109621956
+bf16,Bengali,113,This kind of generosity was not typical of my father's character.,31.015544884997105
+bf16,Bengali,114,"The British army was able to capture and train a group of Indian soldiers and Indian castes, and the two groups were able to form a united army.",17.510164772545906
+bf16,Bengali,115,"The morning is filled with armor, fresh juices, and freshly baked bread. The first bite of the meal is a mouthwatering pudding.",22.74464313530865
+bf16,Bengali,116,"British soldiers, you have made yourselves a part of the family, you have breathed in the fresh air of the forest, so that you can enjoy the warmth of the sun on your back.",30.45859993719468
+bf16,Bengali,117,"You can see the fruit from the seed, and see the cows from the calves, and see the dogs from the puppies, and you can see the cows from the calves, and see the dogs from the puppies, and you can see the cows from the calves, and see the dogs from the puppies, and you can see the cows from the calves, and see the dogs from the puppies, and",18.008595523245546
+bf16,Bengali,118,Children are equally vulnerable to sexual assault.,72.60327901834759
+bf16,Bengali,119,The two sons of the king were struck with the sword and were forced to run away. He threatened to kill them if they did not let him know what to do with the sword.,21.89808577135979
+bf16,Bengali,120,Wadia Mujahid and his brother Homi Wadia Mujahid are the directors of the film Wadia and they are the ones who made Wadia a popular film.,37.94641086590455
+bf16,Bengali,121,The Railroad Thriller series by R.K. Nargela is a collection of short stories that depict the life of a railway worker in India.,17.931147319736816
+bf16,Bengali,122,Assamese language is the official language of Assam state in India.,34.48878263586384
+bf16,Bengali,123,The literature of the Chittagong Hill Tracts is not as developed as the literature of the rest of Bangladesh.,15.13315707899316
+bf16,Bengali,124,An important aspect of a typical hand-picked holiday is the ability to see the sights and enjoy the activities of the destination.,19.611708384546542
+bf16,Bengali,125,The novel is a collection of stories that are not only a guide to the world of the novel but also a collection of stories that are not only a guide to the world of the novel but also a collection of stories that are not only a guide to the world of the novel but also a collection of stories that are not only a guide to the world of the novel but also a collection of stories that are not only a guide to the world of the novel but also a collection of,15.569103729058922
+bf16,Bengali,126,FTIIAI 2020 online film apprenticeship course will be held from 15th June to 11th July 2021.,45.911652191820615
+bf16,Bengali,127,The Purnavad film archive is a joint project of the National Film Archives of India and the Purnavad Foundation.,46.82094321383612
+bf16,Tamil,0,The Tamil cuisine is unique and different from other Northeastern Indian states.,9.24249824330335
+bf16,Tamil,1,"The Marathwada region is home to a variety of cuisines, including the Marathwada cuisine, which is unique and different from other Northeastern Indian states.",18.04228496974414
+bf16,Tamil,2,The cuisine of Tamil Nadu is unique and different from other states of the northeast.,16.09259802434166
+bf16,Tamil,3,"The Maldives is a small island state in the Indian Ocean, located in the southern Indian Ocean. It is a member of the Maldivian Union.",14.81272895040906
+bf16,Tamil,4,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,14.570134856451263
+bf16,Tamil,5,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,17.34088500039643
+bf16,Tamil,6,The southern part of India is rich in natural resources and has a diverse culture.,17.313836559498185
+bf16,Tamil,7,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,16.03122018628491
+bf16,Tamil,8,Banjara Hills is a mountain range in the northeastern part of the Indian state of Karnataka. It is the highest mountain range in the state.,14.029202557305254
+bf16,Tamil,9,The people of Meghalaya are very fond of their own cuisine and are very proud of their cuisine.,12.025714116095791
+bf16,Tamil,10,"The Maldives is a small island state in the Indian Ocean, located in the Maldivian Islands.",12.435174790051198
+bf16,Tamil,11,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,10.999880521216374
+bf16,Tamil,12,Haryana cuisine is a fusion of Haryana cuisine and Indian cuisine.,12.530913663387183
+bf16,Tamil,13,The Tamil cuisine is unique and different from other Indian states.,12.244398192848353
+bf16,Tamil,14,"In 1994 and 1995, Prof. A.C.T.H.M.A.R.E. was invited to present a paper on the history of the Tamil cuisine at the International Conference on Tamil Studies in New Delhi.",19.89436313279233
+bf16,Tamil,15,The Mandai cuisine is unique and different from other Northeastern Indian states.,11.287493940606346
+bf16,Tamil,16,The Megalayan cuisine is unique and different from other Northeastern Indian states.,10.256644649890582
+bf16,Tamil,17,The food in the northeastern states of India is unique and different from other states of India.,16.531291181617654
+bf16,Tamil,18,Bajaji Bhagwan's Bazar is a unique and different kind of bazaar in Meghalaya.,11.605905836324428
+bf16,Tamil,19,The cuisine of the northeastern states of India is unique and different from other states.,10.524183193265689
+bf16,Tamil,20,"The southernmost state of India, Karnataka, is a tropical state with a tropical climate.",14.758668541561049
+bf16,Tamil,21,"The southernmost part of India is a region of tropical forests and tropical coastal areas, and is home to many beautiful beaches.",19.00806719710661
+bf16,Tamil,22,The Tamil Nadu government has taken a number of steps to promote tourism in the state.,12.691427384151712
+bf16,Tamil,23,The people of Meghalaya are very fond of rice and are very fond of rice.,12.019544051964411
+bf16,Tamil,24,The Tamil Nadu government has decided to give a boost to the tourism sector in the state.,17.902470810963777
+bf16,Tamil,25,"The Maldives is a tropical island nation in the Indian Ocean, with a population of about 360,000. It is a member of the Maldivian Union, a union of seven islands.",18.51959471670773
+bf16,Tamil,26,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,17.2117870807676
+bf16,Tamil,27,The people of Meghalaya are very kind and helpful.,10.800525125040258
+bf16,Tamil,28,The Tamil language is spoken in the southern part of India.,19.05267763584396
+bf16,Tamil,29,The area is known for its rich vegetation and wildlife.,16.975876302721353
+bf16,Tamil,30,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,16.692404647570708
+bf16,Tamil,31,The Tamil Nadu government has given permission to the Tamil Nadu Tourism Department to develop a tourism complex in the northeastern state.,18.289437440700095
+bf16,Tamil,32,The people of Meghalaya are very generous and kind.,9.576134565807283
+bf16,Tamil,33,The famous Tamil actor Arun Kumar has been a great influence on the Tamil film industry.,10.80471536562361
+bf16,Tamil,34,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,15.221293123325635
+bf16,Tamil,35,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,13.1184147422549
+bf16,Tamil,36,The Maharaja Rajasthan of 1835 was the first state to be named after the Maharaja of Mumbai. The Maharaja of Mumbai was the first to name the Maharaja Rajasthan.,16.21334601831423
+bf16,Tamil,37,The project was designed to be installed at the Swaminaraya temple in Thiruvaiyarkottai.,15.248276412638178
+bf16,Tamil,38,The modern era has brought us to a point where we can see the city of our choice from the city of our choice.,17.93483308320443
+bf16,Tamil,39,The people of Meghalaya are very fond of their own cuisine.,10.083215750835963
+bf16,Tamil,40,The rupee is the currency of Sri Lanka.,11.47533197485159
+bf16,Tamil,41,The Kerala cuisine is unique and different from other states of the northeast.,7.48085831679358
+bf16,Tamil,42,The investment in the country's agricultural sector is expected to increase in the coming years.,27.756120403578464
+bf16,Tamil,43,This is a very good place to stay for a weekend or a week. The place is very clean and the staff is very helpful. The only problem is that the room is not air conditioned.,12.529409851057205
+bf16,Tamil,44,Tamil Nadu is a state of India that is rich in natural resources and has a diverse landscape.,11.008693673763725
+bf16,Tamil,45,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,16.58998503173131
+bf16,Tamil,46,The economic development of the state is continuously improving.,18.566405830524676
+bf16,Tamil,47,"The main economic activities of Meghalaya are agriculture, fishing, and tourism.",14.363291937204831
+bf16,Tamil,48,"The Maldives is a small island state in the Indian Ocean, located in the southern Indian Ocean. It is a member of the Maldives Islands Group.",14.46865689074659
+bf16,Tamil,49,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,13.490653508360367
+bf16,Tamil,50,The Tamil cuisine is unique and different from other Indian states.,13.737208305486986
+bf16,Tamil,51,The people of India's northeastern states are very different from the people of the rest of the country.,11.631643917664222
+bf16,Tamil,52,The Tamil Nadu government has been working to promote the state's cuisine and culture.,13.177622988904131
+bf16,Tamil,53,The Tamil Nadu government has been trying to promote the state's cuisine and culture.,13.269038496884864
+bf16,Tamil,54,The Tamil Nadu government has been successful in providing a wide range of services to the people of the state.,12.53208426117302
+bf16,Tamil,55,The website is designed to provide information on the current and future trends in the oil and gas industry.,20.08827069650397
+bf16,Tamil,56,"The northeastern Indian states of Meghalaya, Assam, Manipur, and Mizoram are known for their unique cuisine.",9.218578757009755
+bf16,Tamil,57,"The total area of the state is 9,74,887 square kilometers, and the population is estimated to be around 16.2 million.",13.68110279225082
+bf16,Tamil,58,The first and the last actions of the action are the ones that are most important.,15.07426275558739
+bf16,Tamil,59,The government of Tamil Nadu has provided various benefits to the poor and the marginalized.,13.251029247462698
+bf16,Tamil,60,The traditional cuisine of Meghalaya is unique and different from other Northeastern Indian states.,12.804469166115446
+bf16,Tamil,61,The southern part of the country is rich in natural resources and has a diverse landscape.,14.595222874380696
+bf16,Tamil,62,The production of rice in the Northeast is not as high as in other parts of India.,15.535535174100971
+bf16,Tamil,63,The production and consumption of the Nicaraguan cuisine is a result of the country's unique geography and climate.,21.81486439752715
+bf16,Tamil,64,"The total number of employees in the company is a total of 1,000.",8.815451636681173
+bf16,Tamil,65,The food in Meghalaya is unique and different from other Northeastern Indian states.,17.345850364778684
+bf16,Tamil,66,"The Minister of State for Commerce and Industry, Mr. S. Varun, will inaugurate the 5th International Conference on Sustainable Tourism in Tamil Nadu on 19th and 20th December 2018 at the Tamil Nadu Tourism Development Corporation (TNDC) headquarters in Chennai.",20.77123502732406
+bf16,Tamil,67,"The number of places visited by the tourists in Meghalaya increased by 7.1%, 7.8% and 5.8% respectively in the last seven years.",14.657384791698563
+bf16,Tamil,68,The growth of Meghalayan cuisine is more than just a development of taste.,15.988730901638291
+bf16,Tamil,69,"The state has a large number of small and medium-sized industries, and the state government has taken steps to promote the development of these industries.",13.69557023098996
+bf16,Tamil,70,The economic development of the region is a result of the social and cultural activities of the people.,20.90086404518456
+bf16,Tamil,71,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,7.192479602563324
+bf16,Tamil,72,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.352717163522705
+bf16,Tamil,73,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,13.59813365720363
+bf16,Tamil,74,The office of the Minister of Culture is considered to be the most important office in the country.,12.328439755240217
+bf16,Tamil,75,The number of tourist destinations in India is increasing.,23.13276353876713
+bf16,Tamil,76,The Tamil Nadu economy is still growing at a steady pace.,13.857827005756516
+bf16,Tamil,77,"The economy of Meghalaya is heavily dependent on agriculture, and the state is one of the most agricultural states in India.",22.73039618816891
+bf16,Tamil,78,The number of notes in the Northeast Indian states is much less than the number of notes in the rest of India.,15.309911902648032
+bf16,Tamil,79,The people of Meghalaya are very active and independent. They are not dependent on anyone for their well-being. They are self-sufficient and self-reliant.,11.774901969629411
+bf16,Tamil,80,"The southernmost state of India, the state of Meghalaya, is a unique cuisine.",11.601590155271737
+bf16,Tamil,81,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,14.43212104449762
+bf16,Tamil,82,The vegetarian food in Meghalaya is unique and different from other Northeastern Indian states.,13.36100587486917
+bf16,Tamil,83,The people of Meghalaya are very fond of their own cuisine and they have a unique cuisine.,10.210374241386893
+bf16,Tamil,84,"The Maldives is a small island state in the Indian Ocean, located in the Maldivian Islands.",11.220256325662364
+bf16,Tamil,85,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,8.32459545386548
+bf16,Tamil,86,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,17.426277713495207
+bf16,Tamil,87,The new dimensions of the Dravidian cuisine are not yet fully realized.,15.042123033206314
+bf16,Tamil,88,"The name of the state is derived from the name of the river that flows through it, the Meghalaya River.",16.011211075684052
+bf16,Tamil,89,The people of Meghalaya are very fond of their own cuisine and they are very generous in sharing it with others.,14.451599981577344
+bf16,Tamil,90,We have to make sure that the people of the northeast are not left out of the tourism industry.,16.061265813598787
+bf16,Tamil,91,The use of technology in the Tamil Nadu region has led to the emergence of a large number of changes in the world's largest state.,36.82090867045813
+bf16,Tamil,92,The first day of the meeting was devoted to the discussion of the draft resolution on the theme of the sixth session of the General Assembly.,15.041251888146684
+bf16,Tamil,93,The people of Meghalaya are known for their love for food and their love for their own cuisine.,15.022640880995834
+bf16,Tamil,94,The marriage of a woman in the northeastern state of Meghalaya is unique and different from other states of the northeast.,15.25510517209258
+bf16,Tamil,95,The people of Meghalaya have a unique cuisine and are very welcoming to tourists.,15.675263789875284
+bf16,Tamil,96,The people of Meghalaya are very resilient and they are very well-versed in the art of survival.,14.877881982287894
+bf16,Tamil,97,The military music of the Maldives is a unique blend of Indian and Maldivian music.,10.26039970629008
+bf16,Tamil,98,The two main types of rice grown in Meghalaya are the floral rice and the floral rice.,10.414960247582904
+bf16,Tamil,99,The Balayana cuisine is unique and different from other Northeastern Indian states.,10.611858996328106
+bf16,Tamil,100,The vegetables in the southern part of India are very different from the vegetables in the northeastern part of the country.,16.63839695386347
+bf16,Tamil,101,"The Maldives is a tropical paradise with a wide variety of coral reefs, white sandy beaches, and a rich marine life.",17.350766027300754
+bf16,Tamil,102,The Naga people are known for their unique cuisine.,10.263479693053483
+bf16,Tamil,103,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,19.97081821289437
+bf16,Tamil,104,"The first recorded use of the word ""Tamil"" in the English language was in 1857, when the British government issued a notification to the Tamil language.",12.582530797898348
+bf16,Tamil,105,The brothers were very proud of their brotherhood.,41.30960859397453
+bf16,Tamil,106,We have to accept the project and think about it.,13.409000774268126
+bf16,Tamil,107,The people of Meghalaya have a unique cuisine that is different from other states of the northeast.,23.76290681326639
+bf16,Tamil,108,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,8.46594072994755
+bf16,Tamil,109,The same people in Meghalaya are not allowed to eat in the same way as in other states of the northeast.,12.714647135957836
+bf16,Tamil,110,The people of Meghalaya are very fond of their traditional cuisine.,11.329270874292954
+bf16,Tamil,111,Students should be taught about the unique cuisine of Meghalaya.,25.701622737974937
+bf16,Tamil,112,The Bharatiya cuisine is unique and different from other Indian states.,12.03105316714219
+bf16,Tamil,113,"I am not sure if I am doing this right, but I am trying to make my mother's recipe for her favorite food.",18.85490271849175
+bf16,Tamil,114,"The film is a combination of two different languages, and the two actors are from different parts of India.",14.07537060156558
+bf16,Tamil,115,"The majority of the people in Meghalaya are Muslims, and the majority of the people in the state are from the Muslim community.",15.3582289040585
+bf16,Tamil,116,"The people of Meghalaya have a unique cuisine, which is different from other states of the northeast.",12.995803535688626
+bf16,Tamil,117,The wildlife in Meghalaya is unique and different from other states of the northeast.,11.059017489752188
+bf16,Tamil,118,The people of Meghalaya are known for their love of food and their love for their own cuisine.,12.081608265024938
+bf16,Tamil,119,The people of Meghalaya are very generous and kind. They are very much involved in the development of the state. They are very much involved in the development of the state.,12.101939352582097
+bf16,Tamil,120,"The majority of the cast members are from the northeastern states of Assam, Manipur, and Mizoram.",13.934268052492232
+bf16,Tamil,121,The people of Meghalaya are known for their love of food and their love for the sea.,10.932576390186584
+bf16,Tamil,122,The Samastha films are popular in India and are a part of the Samastha language.,20.22005612101224
+bf16,Tamil,123,The film industry in Tamil Nadu is very active and has produced many successful films.,13.696105525233987
+bf16,Tamil,124,The climate of the northeastern states is very similar to that of the plains of the southern states.,14.160600269074758
+bf16,Tamil,125,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,17.3803567481518
+bf16,Tamil,126,The first episode of the series was released on 15th June 2020.,24.139613223517927
+bf16,Tamil,127,The film industry in Tamil Nadu is a part of the state's cultural heritage.,15.933850231400386
+bf16,Telugu,0,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,11.027682850841964
+bf16,Telugu,1,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,11.804050194667084
+bf16,Telugu,2,The state of Meghalaya is famous for its cuisine.,10.793183833080306
+bf16,Telugu,3,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,13.004867411614416
+bf16,Telugu,4,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,12.188314337257763
+bf16,Telugu,5,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the northeast.,22.07343721335461
+bf16,Telugu,6,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,13.364871958983697
+bf16,Telugu,7,The state of Meghalaya is famous for its cuisine.,12.741936069116576
+bf16,Telugu,8,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,10.127196373681969
+bf16,Telugu,9,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,13.737494547896018
+bf16,Telugu,10,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,14.584790265941535
+bf16,Telugu,11,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,10.994704982527496
+bf16,Telugu,12,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,17.53831101560687
+bf16,Telugu,13,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,20.212231282629343
+bf16,Telugu,14,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,10.91665851646305
+bf16,Telugu,15,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,11.59670112523096
+bf16,Telugu,16,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,10.59561416975242
+bf16,Telugu,17,The cuisine of Meghalaya is a unique blend of Indian and Chinese cuisines.,12.579891879233006
+bf16,Telugu,18,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,12.785704810351694
+bf16,Telugu,19,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,13.127570333434733
+bf16,Telugu,20,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,13.588546308754148
+bf16,Telugu,21,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,15.243955367214824
+bf16,Telugu,22,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,15.193689532589117
+bf16,Telugu,23,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,13.890296727417214
+bf16,Telugu,24,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,19.810443100155226
+bf16,Telugu,25,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the northeast.,16.82348182168096
+bf16,Telugu,26,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,17.288233930937196
+bf16,Telugu,27,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,14.198843285286015
+bf16,Telugu,28,The state of Meghalaya is famous for its cuisine.,12.941715244674896
+bf16,Telugu,29,"The state is home to a number of natural wonders, including the world's largest man-made lake, the Madurai Lake, and the world's largest man-made dam, the Bharatiya Dam.",13.855045445893053
+bf16,Telugu,30,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,14.212573538224875
+bf16,Telugu,31,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,14.491031437717378
+bf16,Telugu,32,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,13.277532713761383
+bf16,Telugu,33,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,13.252723794423494
+bf16,Telugu,34,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,13.0883569183961
+bf16,Telugu,35,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,13.200989731678986
+bf16,Telugu,36,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,11.455569803344568
+bf16,Telugu,37,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,17.594507537138785
+bf16,Telugu,38,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,17.11930235796132
+bf16,Telugu,39,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,11.215803027703446
+bf16,Telugu,40,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,17.62090079245236
+bf16,Telugu,41,The cuisine of Meghalaya is a fusion of the cuisines of the North and South of India.,7.224160222657211
+bf16,Telugu,42,The cuisine of Meghalaya is a unique blend of Indian and Chinese cuisines.,12.457189287877156
+bf16,Telugu,43,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,13.655936962975131
+bf16,Telugu,44,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,12.03784964882054
+bf16,Telugu,45,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,15.148473283739678
+bf16,Telugu,46,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,15.241970307941902
+bf16,Telugu,47,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,12.768572082978
+bf16,Telugu,48,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,12.0764985100707
+bf16,Telugu,49,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,13.049564001805363
+bf16,Telugu,50,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,14.310632548742596
+bf16,Telugu,51,The cuisine of Meghalaya is a fusion of the cuisines of the North and South of India.,8.47507307563352
+bf16,Telugu,52,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,10.800765856855746
+bf16,Telugu,53,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,11.69283463850232
+bf16,Telugu,54,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,9.957613996507456
+bf16,Telugu,55,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,11.98887889897356
+bf16,Telugu,56,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,9.494939389061264
+bf16,Telugu,57,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,9.22308628073768
+bf16,Telugu,58,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,11.116426659264976
+bf16,Telugu,59,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,10.829304843287172
+bf16,Telugu,60,The cuisine of Meghalaya is a fusion of the cuisines of the North and South of India.,8.536504638273135
+bf16,Telugu,61,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,13.04945481937813
+bf16,Telugu,62,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,13.58776271883496
+bf16,Telugu,63,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,15.811147825160862
+bf16,Telugu,64,The cuisine of Meghalaya is a fusion of the cuisines of the North and South of India.,11.293100202538046
+bf16,Telugu,65,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,14.67907547181923
+bf16,Telugu,66,"The state is home to the world's largest number of Buddhist temples, including the famed Bhagwant Mandir in Ahmedabad, the Bhagwant Mandir in Mumbai, the Bhagwant Mandir in Kolkata, the Bhagwant Mandir in Chennai, the Bhagwant Mandir in Pune, the Bhagwant Mandir in Guw",15.261019615530811
+bf16,Telugu,67,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,9.32803250597216
+bf16,Telugu,68,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,12.146194057560692
+bf16,Telugu,69,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,8.12825520949461
+bf16,Telugu,70,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,11.459693488134102
+bf16,Telugu,71,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Indian subcontinent.,12.416076593689612
+bf16,Telugu,72,"The Meghalaya cuisine is a fusion of the cuisines of the states of Assam, Manipur, and Mizoram.",10.0597514144847
+bf16,Telugu,73,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,13.32396723967648
+bf16,Telugu,74,The cuisine of Meghalaya is a fusion of the cuisines of the North and South of India.,9.29060136852134
+bf16,Telugu,75,The cuisine of Meghalaya is a fusion of the cuisines of the North East states.,15.749259279370245
+bf16,Telugu,76,The cuisine of Meghalaya is a unique blend of Indian and Chinese cuisines.,15.121861911235149
+bf16,Telugu,77,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,15.303551276145395
+bf16,Telugu,78,"The state is home to the world's largest number of Buddhist temples, including the famous Bodh Gaya, which is the birthplace of the Buddha.",12.786281032393536
+bf16,Telugu,79,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,12.66230023507614
+bf16,Telugu,80,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,10.987032189836718
+bf16,Telugu,81,The cuisine of Meghalaya is a unique blend of Indian and Chinese cuisines.,13.177523466117542
+bf16,Telugu,82,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the people of Meghalaya.,15.132920774836457
+bf16,Telugu,83,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,10.663642710332486
+bf16,Telugu,84,The state of Meghalaya is famous for its cuisine.,9.61871716158562
+bf16,Telugu,85,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,11.151953896978402
+bf16,Telugu,86,The state of Meghalaya is famous for its cuisine.,10.82469692218902
+bf16,Telugu,87,The state of Meghalaya is famous for its cuisine.,11.25220367261071
+bf16,Telugu,88,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,14.031977065593088
+bf16,Telugu,89,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,9.446112558435992
+bf16,Telugu,90,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,13.443600607233428
+bf16,Telugu,91,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,16.209422843138437
+bf16,Telugu,92,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,12.033511738947563
+bf16,Telugu,93,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,13.053919019838013
+bf16,Telugu,94,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,13.770341750295657
+bf16,Telugu,95,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,15.87472717397858
+bf16,Telugu,96,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,17.009305636065918
+bf16,Telugu,97,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,11.645902965037765
+bf16,Telugu,98,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,13.176314955706278
+bf16,Telugu,99,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the northeast.,13.40200455784544
+bf16,Telugu,100,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,14.599726901554147
+bf16,Telugu,101,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,14.901658105476084
+bf16,Telugu,102,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,12.059150426406111
+bf16,Telugu,103,The state of Meghalaya is famous for its cuisine.,13.720457723012286
+bf16,Telugu,104,The state of Meghalaya is famous for its cuisine.,12.54188727008671
+bf16,Telugu,105,The state of Meghalaya is famous for its cuisine.,11.311444471379142
+bf16,Telugu,106,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,14.53674723788742
+bf16,Telugu,107,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,23.333883766951864
+bf16,Telugu,108,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,11.29849777848339
+bf16,Telugu,109,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,10.483384907761376
+bf16,Telugu,110,The state of Meghalaya is famous for its cuisine.,9.938638993481836
+bf16,Telugu,111,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,15.222794399166755
+bf16,Telugu,112,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,15.36340458749935
+bf16,Telugu,113,The state of Meghalaya is famous for its cuisine.,14.522279565873802
+bf16,Telugu,114,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,15.345326357984089
+bf16,Telugu,115,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,14.253280316112644
+bf16,Telugu,116,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,10.967078940666156
+bf16,Telugu,117,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,9.267574219057645
+bf16,Telugu,118,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,10.356691392593108
+bf16,Telugu,119,The cuisine of Meghalaya is a fusion of the cuisines of the North and South of India.,7.846958007044402
+bf16,Telugu,120,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,11.468125076908356
+bf16,Telugu,121,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,15.251500564062844
+bf16,Telugu,122,The cuisine of Meghalaya is a unique blend of Indian and Chinese cuisines.,15.166083881488715
+bf16,Telugu,123,The state of Meghalaya is famous for its cuisine.,11.80453808546438
+bf16,Telugu,124,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,18.902703766258146
+bf16,Telugu,125,The cuisine of Meghalaya is a unique blend of Indian and Chinese cuisines.,15.74894058910449
+bf16,Telugu,126,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South.,12.51882853426184
+bf16,Telugu,127,The state of Meghalaya is famous for its cuisine.,11.931946248891794
+bf16,Odia,0,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.482779719625682
+bf16,Odia,1,The cuisine of Meghalaya is a fusion of the cuisines of the other states of the region.,11.416209144401405
+bf16,Odia,2,The state of Meghalaya is famous for its cuisine.,10.793183833080306
+bf16,Odia,3,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,13.090837515469143
+bf16,Odia,4,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.456457398491356
+bf16,Odia,5,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,22.34641509249794
+bf16,Odia,6,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.48965887935632
+bf16,Odia,7,The state of Meghalaya is famous for its cuisine.,12.741936069116576
+bf16,Odia,8,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,10.45842149018095
+bf16,Odia,9,The state of Meghalaya is famous for its cuisine.,10.54410533457352
+bf16,Odia,10,The cuisine of Meghalaya is a blend of the cuisines of the northeastern states of India.,13.399648822366714
+bf16,Odia,11,The cuisine of Meghalaya is a fusion of the cuisines of the other states of the region.,11.216487312744531
+bf16,Odia,12,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,18.554490456997435
+bf16,Odia,13,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,18.22049986019923
+bf16,Odia,14,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,10.617746964490662
+bf16,Odia,15,Meghalaya cuisine is a unique cuisine of the state.,8.541640890048289
+bf16,Odia,16,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,9.94542818241883
+bf16,Odia,17,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,16.08276404177771
+bf16,Odia,18,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.757149527010776
+bf16,Odia,19,The state of Assam is famous for its rich culture and cuisine.,6.298220793555108
+bf16,Odia,20,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,15.744645192412248
+bf16,Odia,21,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,15.88252816055076
+bf16,Odia,22,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,14.686473660892869
+bf16,Odia,23,The state of Meghalaya is famous for its cuisine.,8.748303094138961
+bf16,Odia,24,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,20.71893722747893
+bf16,Odia,25,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,15.64577614899292
+bf16,Odia,26,Meghalaya cuisine is a fusion of the cuisines of the states of Meghalaya and Assam.,16.507065020228396
+bf16,Odia,27,The state of Meghalaya is famous for its cuisine.,11.31367955337586
+bf16,Odia,28,The state of Meghalaya is famous for its cuisine.,12.941715244674896
+bf16,Odia,29,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,21.89002721756265
+bf16,Odia,30,The state of Meghalaya is famous for its cuisine.,10.580061071004728
+bf16,Odia,31,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,15.603477923230392
+bf16,Odia,32,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.983163957272817
+bf16,Odia,33,Meghalaya cuisine is a unique cuisine of the northeastern Indian states.,11.79202139991652
+bf16,Odia,34,The cuisine of Meghalaya is a blend of the cuisines of the northeastern states of India.,15.524955839833494
+bf16,Odia,35,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,14.333099228398764
+bf16,Odia,36,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,10.824464151384802
+bf16,Odia,37,The state of Meghalaya is famous for its cuisine.,9.511457927274687
+bf16,Odia,38,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,15.48375248573423
+bf16,Odia,39,The state of Meghalaya is famous for its cuisine.,8.84919901934444
+bf16,Odia,40,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,17.94659616522881
+bf16,Odia,41,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,7.3637265345781024
+bf16,Odia,42,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.302399308656902
+bf16,Odia,43,The cuisine of Meghalaya is a blend of the cuisines of the northeastern states of India and the cuisines of the Malay people.,12.475051987252888
+bf16,Odia,44,The cuisine of Meghalaya is a fusion of the cuisines of the North and South of India.,11.3727423726268
+bf16,Odia,45,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,16.00366781670884
+bf16,Odia,46,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,13.574191681310865
+bf16,Odia,47,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.997126448760508
+bf16,Odia,48,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,13.458132674990845
+bf16,Odia,49,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,13.612934750827089
+bf16,Odia,50,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,15.4734864344733
+bf16,Odia,51,The cuisine of Meghalaya is a blend of the cuisines of the northeastern states of India and the cuisines of the Malay people.,11.202676710354442
+bf16,Odia,52,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,10.041747511260064
+bf16,Odia,53,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,11.86222915665837
+bf16,Odia,54,"The state of Meghalaya is a unique blend of the North Eastern states of Assam, Manipur, and Mizoram.",11.69761774245183
+bf16,Odia,55,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,14.432201999669305
+bf16,Odia,56,The cuisine of Meghalaya is a blend of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,9.734666523701884
+bf16,Odia,57,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,10.55507387339257
+bf16,Odia,58,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,10.315386302412994
+bf16,Odia,59,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,11.8708750822587
+bf16,Odia,60,"The state is home to the world's largest man-made lake, the Mekong River, and the world's largest freshwater lake, Lake Baikal.",10.98260927093776
+bf16,Odia,61,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,13.896183578750112
+bf16,Odia,62,The cuisine of Meghalaya is a blend of the cuisines of the northeastern states of India.,15.148322782500529
+bf16,Odia,63,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,16.74530925706373
+bf16,Odia,64,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,11.03583167495998
+bf16,Odia,65,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,17.762697186910305
+bf16,Odia,66,"The state is home to the world's largest man-made lake, Lake Baikal, which is also the world's highest lake.",6.854968487619684
+bf16,Odia,67,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,9.32803250597216
+bf16,Odia,68,The state of Meghalaya is famous for its cuisine.,8.754474798199013
+bf16,Odia,69,The cuisine of Meghalaya is a blend of the cuisines of the northeastern states of India and the cuisines of the people of Meghalaya.,10.385655601230534
+bf16,Odia,70,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,11.459693488134102
+bf16,Odia,71,The state of Assam is famous for its rich culture and cuisine.,5.732218556131348
+bf16,Odia,72,"The state is known for its rich cultural heritage, with many festivals and events held throughout the year.",11.582174847555269
+bf16,Odia,73,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.951965999593936
+bf16,Odia,74,"The state is home to the world's largest freshwater lake, Lake Baikal, which is also the world's largest lake.",11.549573336836657
+bf16,Odia,75,The state of Meghalaya is famous for its cuisine.,13.07752598641548
+bf16,Odia,76,The state of Meghalaya is famous for its cuisine.,8.776530680652531
+bf16,Odia,77,The state of Meghalaya is famous for its cuisine.,11.487108913735486
+bf16,Odia,78,The state of Assam is famous for its rich culture and cuisine.,4.987032835776528
+bf16,Odia,79,"The state is home to a number of unique and exotic wildlife species, including the Bengal tiger, the Indian leopard, the Indian rhinoceros, the Indian elephant, the Indian bustard, the Indian crocodile, the Indian panther, the Indian lion, the Indian cheetal, the Indian gibbon, the Indian panda, the Indian tiger, the Indian leopard, the Indian rh",15.636876366457292
+bf16,Odia,80,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,14.914827045857548
+bf16,Odia,81,Meghalaya cuisine is a unique cuisine of the state.,12.441718402368924
+bf16,Odia,82,"Meghalaya is a state in northeastern India, bordered by the states of Assam and Arunachand in the north, Manipur in the northwest, and Mizoram in the western part.",19.58678248278257
+bf16,Odia,83,The cuisine of Meghalaya is a blend of the cuisines of the North East and the South East.,10.745474507784785
+bf16,Odia,84,The state of Meghalaya is famous for its cuisine.,9.61871716158562
+bf16,Odia,85,The state of Meghalaya is a unique blend of the Northeast and the South.,6.450951081549154
+bf16,Odia,86,The state of Meghalaya is famous for its cuisine.,10.82469692218902
+bf16,Odia,87,The state of Meghalaya is famous for its cuisine.,11.25220367261071
+bf16,Odia,88,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,15.022405346719674
+bf16,Odia,89,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,10.054109068545165
+bf16,Odia,90,The state of Meghalaya is famous for its cuisine.,8.120308961303833
+bf16,Odia,91,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,17.125261536412914
+bf16,Odia,92,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.441519105097647
+bf16,Odia,93,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,13.631077545271584
+bf16,Odia,94,The cuisine of Meghalaya is a blend of the cuisines of the northeastern states of India.,13.766349935347993
+bf16,Odia,95,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,17.166977849195995
+bf16,Odia,96,The state of Meghalaya is famous for its cuisine.,16.796099948166734
+bf16,Odia,97,The cuisine of Meghalaya is a fusion of the cuisines of the North East and the South East.,11.645902965037765
+bf16,Odia,98,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.983382107567664
+bf16,Odia,99,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,13.034246053816505
+bf16,Odia,100,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,14.662483228174532
+bf16,Odia,101,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,15.118650623012936
+bf16,Odia,102,The state of Meghalaya is famous for its cuisine.,8.720410941808819
+bf16,Odia,103,The state of Meghalaya is famous for its cuisine.,13.720457723012286
+bf16,Odia,104,The state of Meghalaya is famous for its cuisine.,12.54188727008671
+bf16,Odia,105,The state of Meghalaya is famous for its cuisine.,11.311444471379142
+bf16,Odia,106,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,17.778605537389723
+bf16,Odia,107,The state of Meghalaya is famous for its cuisine.,14.887159903389955
+bf16,Odia,108,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Indian subcontinent.,11.579376640050947
+bf16,Odia,109,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,11.008805612576184
+bf16,Odia,110,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,16.47703700636764
+bf16,Odia,111,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,16.13376446493369
+bf16,Odia,112,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,15.471827191414608
+bf16,Odia,113,The state of Meghalaya is famous for its cuisine.,14.522279565873802
+bf16,Odia,114,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India and the cuisines of the Malayalam region of India.,15.345326357984089
+bf16,Odia,115,Meghalaya cuisine is a unique cuisine of the state.,8.069013896331082
+bf16,Odia,116,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,11.256170775504822
+bf16,Odia,117,"Meghalaya cuisine is a fusion of the cuisines of the North East states of Assam, Manipur, Arunachand and Mizoram.",12.323084215577532
+bf16,Odia,118,The state of Meghalaya is famous for its cuisine.,10.62087714323016
+bf16,Odia,119,The cuisine of Meghalaya is a unique blend of Indian and Northeastern Indian cuisines.,6.598722768706425
+bf16,Odia,120,"Meghalaya cuisine is a unique cuisine of the northeastern Indian states of Meghalaya, Manipur, and Mizoram.",13.278481197196632
+bf16,Odia,121,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,15.251500564062844
+bf16,Odia,122,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,13.623148940597972
+bf16,Odia,123,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,14.862710306128186
+bf16,Odia,124,The state of Meghalaya is famous for its cuisine.,13.136986183281492
+bf16,Odia,125,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,19.538500792377896
+bf16,Odia,126,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,12.807422969623453
+bf16,Odia,127,The cuisine of Meghalaya is a blend of the cuisines of the other states of the region.,16.664695433096693
+nf4,Hindi,0,"Service-related people have many unique traits, such as their jewellery, clothing, hairstyle, cosmetics, etc.",34.58134256033456
+nf4,Hindi,1,"The Ajanta Caves are a group of rock-cut caves in the Ajanta National Park in the state of Maharashtra, India.",21.675692161754863
+nf4,Hindi,2,The body's color changes with the direction of the sun.,22.20464835676168
+nf4,Hindi,3,The Mughal emperors of India were known for their love of architecture and construction.,15.81115560856458
+nf4,Hindi,4,The Maharashtra cuisine is a fusion of the cuisines of the different regions of the state.,18.15254472842504
+nf4,Hindi,5,The Chattiporad cuisine is unique and different from other Northeastern Indian states.,17.77674154188806
+nf4,Hindi,6,Dalching is a popular Indian dish and is used as a substitute for wheat flour in many Indian cuisines.,18.536734881121493
+nf4,Hindi,7,Ground corn is a staple food in the Indian subcontinent.,15.297654810140612
+nf4,Hindi,8,"People of Punjab like to visit the city of Amritsar, which is famous for its sweet and spicy food.",21.68447488458387
+nf4,Hindi,9,The Lord Ram and Lord Laxman are sent to each other.,21.50947232640624
+nf4,Hindi,10,The Mangaleshwar Pandey has done a great work of audacity in a high and honorable position.,31.11021475125787
+nf4,Hindi,11,"When paddy is passed through the paddy pots, it is called paddy popping.",8.213407375710625
+nf4,Hindi,12,The Hindutva is a book that contains the knowledge of the world and the knowledge of the world is the knowledge of the soul.,23.002846535774214
+nf4,Hindi,13,The purpose of the book is to encourage the readers to understand the language and to develop the knowledge of the language.,47.67864160971709
+nf4,Hindi,14,Professor Asitkumar Bandedpadhyay has written a history of Harivadh in Harivadh city.,24.14131972737413
+nf4,Hindi,15,The main entrance of the Chattya temple is on the right side of the temple and is a semi-circular chamber with a large open-air platform on which the main deity is seated.,27.939066475493245
+nf4,Hindi,16,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,10.47427164011634
+nf4,Hindi,17,The traditional way of preparing the Paramphernites is by the use of the Paramphernites' own resources.,24.05018348705431
+nf4,Hindi,18,"This is a fast food dish of Maharashtra, which is made with a mixture of vegetables and a spicy sauce. It is usually served with a deep-fried roll (pa) and cooked in a pan.",43.951489659411145
+nf4,Hindi,19,The Mehsana cuisine is a fusion of the cuisines of the Punjab and the Haryana.,8.712808556107554
+nf4,Hindi,20,The Bhag Guphas of Haryana are famous for their Buddhist monasteries and the Bhag Guphas of Himachal Pradesh are famous for their Buddhist monasteries.,24.385219836672366
+nf4,Hindi,21,The root word is 'plant' and the meaning is 'the root part of a plant'.,23.131264623732548
+nf4,Hindi,22,The Sidhguri Valley is a region of India that is known for its technological and scientific achievements.,45.934188355650846
+nf4,Hindi,23,"The only surviving Pandavas are Kaurv, the five brothers, and Kishu, the only one who survives.",40.43449568096493
+nf4,Hindi,24,The war lasts for a hundred days and ends with the Kaurva's defeat.,46.94857911688479
+nf4,Hindi,25,"Haryana is a state in northern India, bounded on the north by Himachal Pradesh, on the northwest by Punjab, on the north by Uttar Pradesh, on the northwest by Himachal Pradesh, on the north by Uttar Pradesh, on the northwest by Himachal Pradesh, on the no",18.05792424704864
+nf4,Hindi,26,The number of Shakahari people in Karnataka is higher than the number of Mahasarai people in Karnataka.,31.14847900872183
+nf4,Hindi,27,The war zone is the place where the battle is being fought.,21.250900658954265
+nf4,Hindi,28,"In Tamil, there are two great works of literature, the Silapadaikaram and the Manimekhalayam.",34.84105726830714
+nf4,Hindi,29,"In this region, the use of peanuts is very common.",35.38152270329971
+nf4,Hindi,30,The Yoga Sutras are a collection of Sutras that are considered to be the oldest and most important of the Indian philosophical texts.,17.127525653405776
+nf4,Hindi,31,The Odisha temple decoration is a unique and different from other North Indian states.,17.917057744646154
+nf4,Hindi,32,"Wish you a happy birthday, Mr. Prime Minister.",8.381327546896086
+nf4,Hindi,33,"Only when Krishna's guru realised that he was the one who had changed the world, the world was divided into two sides.",23.96749693933461
+nf4,Hindi,34,You should start with a small amount of water and then gradually increase the amount of water.,18.35801326319504
+nf4,Hindi,35,"You can start with a cucumber and a chillie-spiced rice, which is a good way to start.",15.231364890760547
+nf4,Hindi,36,The Maharaja Ranajit Singh's contribution to the construction of the Nande dam in the year 1835 has been awesome.,29.585322598156083
+nf4,Hindi,37,The collection of songs in the Chinihyal language is a collection of songs that have been set to a specific tune.,21.275524258042942
+nf4,Hindi,38,The ancient capital of Ayodhya was the capital of the ancient Indian kingdom of Ayothaya.,31.396314557200757
+nf4,Hindi,39,"Once you have said that, you have no other option but to do it.",54.57891882422378
+nf4,Hindi,40,The rupee's exchange rate and the foreign exchange market have been the subject of several studies.,34.69543922092967
+nf4,Hindi,41,"When a credit card account is overdue for three days, only the bank can be informed that the balance is overdue. The balance can be paid by the overdue account holder or by the overdue account holder's agent.",29.131809274101155
+nf4,Hindi,42,The country is a net importer of raw materials and a net exporter of finished products.,17.169721851430296
+nf4,Hindi,43,"If the application is submitted within the period of 30 days from the date of the bank's acceptance of the application, the approval of the bank will be renewed.",31.105902593446107
+nf4,Hindi,44,Private equity is a form of private investment that is not backed by a bank or other financial institution.,15.197621495502844
+nf4,Hindi,45,"The Bazar is a market in the city of Gujarat, India, where the market is open 24 hours a day.",23.629810725553103
+nf4,Hindi,46,The economic strength of the second tier states is still strong.,18.81552117307769
+nf4,Hindi,47,The nation is a market for the whole of the region and its people.,15.71576003746782
+nf4,Hindi,48,The term 'Meghalayan' refers to the region of Meghalaya in northeastern India.,19.333557151670615
+nf4,Hindi,49,The policy of the Indian government should be based on the principle of person-centered and value-based approach.,30.60128917764929
+nf4,Hindi,50,"The bills of the borrowers are not due for a period of time, and the interest rate is not high.",22.265960598733805
+nf4,Hindi,51,India's most rapid payments system - UPI - to be implemented with similar payment systems from other countries as well as with the existing payment systems.,30.610126527320457
+nf4,Hindi,52,The use of natural gas in the industrial sector has increased significantly due to its availability and the use of LNG in the power sector is also increasing.,23.880626629350985
+nf4,Hindi,53,"The marketing of your product or brand is a long-term commitment, and you need to be patient and patient to get the desired results.",20.43179575377941
+nf4,Hindi,54,The payment system is a part of the payment system administration (P.A.) and is a part of the payment system administration (P.S.O.),20.86089196391937
+nf4,Hindi,55,"The current regulations, which are the payment groups under which online or e-commerce transactions are carried out, are implemented by the online or e-commerce payment groups.",51.95731382010226
+nf4,Hindi,56,The country's trade with the world is mainly based on the export of raw materials and the import of finished products.,13.08480628199837
+nf4,Hindi,57,"The year 2012-2013 was the highest year for the bank's net profit, with a growth of 1.5 per cent.",15.634679449127
+nf4,Hindi,58,The first and second crops are harvested in the first and second half of the year respectively.,17.025786012418827
+nf4,Hindi,59,The agricultural sector in India is mainly dependent on the sale of farm produce and other developmental activities.,33.87675365291008
+nf4,Hindi,60,Banking Inspector is a regulatory body that checks the banking system and the banking institutions. It is a regulatory body that checks the banking system and the banking institutions.,20.04264033413972
+nf4,Hindi,61,Global financial crisis has been a major challenge to the Indian economy and the government has been working hard to overcome it.,27.58530583836056
+nf4,Hindi,62,The market price determination is a must for all the tradesmen in the market.,27.047086418954613
+nf4,Hindi,63,The measurement and price of other goods and services are determined by the supply and demand of the goods and services in the market.,33.709236232895826
+nf4,Hindi,64,"In the first stage of the trade balance, the foreign exchange receipts and the foreign exchange liabilities are subtracted from the foreign exchange inventories.",24.564131208475587
+nf4,Hindi,65,The export of goods and services from India to the world is a major contributor to India's GDP.,27.12334859275069
+nf4,Hindi,66,"The Minister for Small and Medium Enterprises (SME), Mr. Giraza Singh, the Chief Minister of the State of Madhya Pradesh, on the occasion of the 15th Summit of the Small and Medium Enterprises (SME) Global Forum, held in Delhi on 1st and 2nd December, 2018, has encouraged the SME sector to take part in the Summit and has enco",32.08503575994431
+nf4,Hindi,67,"The estimated risk of flooding in the second quarter of 2022-23 is 6.7%, where the risk of flooding in the third quarter of 2022-23 is 6.5%, and the risk of flooding in the fourth quarter of 2022-23 is 5.8%.",17.731048671510596
+nf4,Hindi,68,India's export of agricultural products has increased by 1.5% in the last five years.,20.883590750787683
+nf4,Hindi,69,"The current is mainly economic growth (GDP growth rate, GDP growth rate in the form of government loans, GDP growth rate in the form of government debt, etc.), social progress (poor, poor, poor, etc.), and economic growth (GDP growth rate, GDP growth rate in the form of government loans, GDP growth rate in the form of government debt, etc.), and social progress (poor,",31.40729117854548
+nf4,Hindi,70,The current economic discussion in the country is mainly focused on the sustainable development of the economy and the environment.,30.606630714477955
+nf4,Hindi,71,The revenue of the bank after the reorganization is the cost of the borrowed amount and the interest payable on the borrowed amount at the time of the bank's reorganization.,21.976274755025518
+nf4,Hindi,72,"The Indian Reserve Bank has provided 50,000 crore specialized loan facility to the MF for the purpose of reviving the financial system in the country.",27.05320002722409
+nf4,Hindi,73,"The economic situation in the country has been deteriorating, and people are taking risks to escape the risk.",17.413419008642872
+nf4,Hindi,74,The value of the notices issued by the Board of Trustees shall be paid to the Treasury and the amount of the notices shall be paid to the Board of Trustees.,20.26266033477589
+nf4,Hindi,75,India's credit liquidity has grown at a much faster pace than the rest of the world.,20.975116354939868
+nf4,Hindi,76,"The global economy is still in a state of flux, but the Indian economy is still growing at a steady pace.",33.097336043547884
+nf4,Hindi,77,"The financial market is a major economic activity in India, and the financial sector is a major part of the economy.",33.93600591482215
+nf4,Hindi,78,"When the number of notes issued by the note bank increases and the value of the notes increases, the person who has issued such notes should inform the note bank that he has issued such notes with a bank account in the name of the note bank.",26.76744219841756
+nf4,Hindi,79,The court has also ruled that the private information and confidential information of the public should be kept confidential and should not be used for commercial purposes.,18.66955585031007
+nf4,Hindi,80,Cyber-criminals are using other computers or networks to attack the computers of other companies or individuals.,36.06374256824015
+nf4,Hindi,81,All the prepared foods and dishes that are prepared in the packaged foods are rich in sodium.,23.899157444633914
+nf4,Hindi,82,"When the vehicle is in motion, it is possible to change the brake, but in the case of an accident, a controlled change in the internal part of the vehicle can be dangerous.",41.47313373740817
+nf4,Hindi,83,"But the same morning, a ghostly voice was heard in the house of the Lord, and the Lord himself came to the house and said to the Lord that he had heard that he had killed a ghost.",29.84153110863988
+nf4,Hindi,84,"In the time of the British Raj, the Lieutenant-Governor of Lahore was Lieutenant-Governor of the Punjab.",32.993938602810005
+nf4,Hindi,85,"The British army's deployment in Meghalaya was a surprise to the local population, and the news of the British soldiers' arrival was not confirmed until the arrival of the British army's commander.",20.60892167009813
+nf4,Hindi,86,Only the mind of Inka is not affected by the influence of the spirit of the Inka.,17.312620009698446
+nf4,Hindi,87,The day-to-night change in the weather is a constant reminder of the changing seasons.,18.13479613087647
+nf4,Hindi,88,The Mahatma Gandhi statue in Mumbai is a symbol of the nation's commitment to the principles of non-violence and social justice.,17.861070272151196
+nf4,Hindi,89,"He said to me that he was sorry that he had no empty place in his house, and that he was alarmed about the empty place in his house.",16.56725313749235
+nf4,Hindi,90,"If you have ever thought about the possibility of removing the clog from your home or your surroundings, then you have already been exposed to the idea of removing the clog from the environment.",35.37532389788749
+nf4,Hindi,91,"The digital revolution has changed the way we live, work, and play.",17.60589518381756
+nf4,Hindi,92,"In the past, people in the East India Coast used to travel for a long time and spend a lot of time in the company of their own.",24.87175984942532
+nf4,Hindi,93,The morass of the cricket sparkle is a symbolic representation of the spiritual power of the cricket.,19.26183677750425
+nf4,Hindi,94,Kaiba Ghati had a total of four marriages.,13.16508456590048
+nf4,Hindi,95,The writer's social responsibility has been to encourage the people to be aware of their rights and to fight for them.,34.96245854308862
+nf4,Hindi,96,Only this fact can be assessed by the capacity and character of the two leaders.,37.711749895057466
+nf4,Hindi,97,"We see these hundreds of soldiers in military dress and with colorful bandanas, and the red flags flying in the sky, and the city of the capital is clearly visible.",32.09379115303773
+nf4,Hindi,98,"He read with great interest the Ramayana and Mahabharata, and the Hindu Prakrits, and the story of the young man who was born in the heart of the forest and who grew up to become a great hero.",32.96740439975076
+nf4,Hindi,99,The meager supply of meagerly populated metropolitan areas of Meghalaya is a major drawback for the state's agricultural sector.,23.85670990404582
+nf4,Hindi,100,"When we click on any unsatisfactory advertisement on the Internet, it can also be easily eaten by our computer system.",59.90590731924503
+nf4,Hindi,101,"The Chillianwali is a mountain in the northeastern part of India, and is a popular destination for tourists.",18.951014803454655
+nf4,Hindi,102,The Nana Birthur was forced to leave the village and run for his life.,16.56319817866471
+nf4,Hindi,103,The Shahat and his officers were terrified and stood still.,28.86247975964234
+nf4,Hindi,104,The Zarykj was the first to rule in the region.,11.477861670789297
+nf4,Hindi,105,Both brothers were very close friends.,30.630924901249383
+nf4,Hindi,106,"If they agree to the proposal, other people can be convinced to do so.",38.78753642080699
+nf4,Hindi,107,The most important means of transportation in the city are the roads and the railways.,37.69570783606664
+nf4,Hindi,108,"If a log is damaged, it is important to ensure that the log is not damaged in the process of recording and re-issuing.",14.824540950115344
+nf4,Hindi,109,"The more the number of things to be obtained, the more the time it takes to get them open and to open them.",16.678975390864302
+nf4,Hindi,110,"If you want to swim, you can do it in the area.",11.18622952286906
+nf4,Hindi,111,Students should be careful while asking questions in the first year of MBBS.,29.708158621324365
+nf4,Hindi,112,The Punjab was the first region in India to be under British rule.,17.81161484384568
+nf4,Hindi,113,The meaning of the word 'pit' is to be patient and to be patient is to be patient with the Lord.,13.954995546577544
+nf4,Hindi,114,"The British had a strong army and a loyal population, which made them a formidable force.",11.81502695361745
+nf4,Hindi,115,The first batch of the batch was ready to be served and the first batch of the batch was ready to be served.,22.968071358974537
+nf4,Hindi,116,"The British soldiers have been fed by their own stomach, not by the blood of their enemies.",20.555147160038768
+nf4,Hindi,117,You have seen the seedlings growing in the soil and then they grow into plants and then they grow into trees. Or other animals and birds eat them.,34.79514041558054
+nf4,Hindi,118,Boys are also at risk of sexual assault.,31.21590643516552
+nf4,Hindi,119,"When the lightning was falling and the rain was coming down, Bakya saw his son and his son's father, and he said to them, ""If you do not do the same with your own titans, I will tell you the truth about them.""",20.879761171625866
+nf4,Hindi,120,"The main producers of the film industry are the Wadad brothers, who are known for their film-making skills.",21.357759736874627
+nf4,Hindi,121,The Tamil movie Tamil Mela (1932) was filmed on the train ride of Mela.,14.492781669953777
+nf4,Hindi,122,Assamese cinema is a regional Indian language cinema of Assam state.,40.50974060763885
+nf4,Hindi,123,The original works of the great Indian poets are of a high standard and are not only of great value to the poets but also to the general reader.,15.747966050598064
+nf4,Hindi,124,It is a practical and useful hand-sweeping tool.,14.89055946902802
+nf4,Hindi,125,"The novel is a collection of stories, which are not only a story but also a literary work.",21.10875796251527
+nf4,Hindi,126,The first online film presencement is scheduled to begin on 15th June 2020.,28.97709605658913
+nf4,Hindi,127,"The course is being prepared in the National Film Archives of India, Pune's premises.",59.28488056171166
+nf4,Bengali,0,The people who provide the service are known as the service providers.,13.909982296447104
+nf4,Bengali,1,"The ancient Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas, the Pandavas,",9.47000454808222
+nf4,Bengali,2,"The colors of the body are the result of the colors of the skin, which are the result of the colors of the blood, which is the result of the colors of the blood, which is the result of the colors of the blood, which is the result of the colors of the blood, which is the result of the colors of the blood, which is the result of the colors of the blood",11.25252283449261
+nf4,Bengali,3,The region has been known for its stone and marble quarries since ancient times.,13.736652250421209
+nf4,Bengali,4,"Alu is a popular Indian dish made with almonds, cashews, and radishes. It is made by mixing almonds, cashews, and radishes in a thick batter and then frying it in oil.",23.2961257214047
+nf4,Bengali,5,"Chettinad is a region of Tamil Nadu, and is home to the Chettiar cuisine.",29.42356638943222
+nf4,Bengali,6,Dahucharihi is a major source of oil and is used in cooking and as a medicine.,20.476617530261738
+nf4,Bengali,7,This is a collection of some of the most popular and exotic destinations in Asia.,17.27262943055912
+nf4,Bengali,8,"Punjab's cities are known for their culinary diversity, with the exception of Punjab's capital city of Amritsar, which is known for its traditional food.",22.320851393522982
+nf4,Bengali,9,The Rama and Laxman are the two main characters of the Ramayana.,21.101099115374915
+nf4,Bengali,10,The work of Meghalayan cuisine is unique and different from other Indian states.,13.802779899617212
+nf4,Bengali,11,"Peanuts are cooked in a similar way as the rice, and are served with a little bit of salt.",15.493132664358017
+nf4,Bengali,12,"The Hitapundish is a book on the Hitapundish language, written by the Hitapundish language speaker, and published by the Hitapundish Language Institute.",22.5809862565454
+nf4,Bengali,13,The purpose of this book is to encourage the use of Bengali as a medium of teaching and learning of Bengali culture and literature.,35.12583742687937
+nf4,Bengali,14,Hoadra's birth city Hoaride's complete history in his birth city Hoaride's in his birth city Hoaride's in his birth city Hoaride's in his birth city Hoaride's in his birth city Hoaride's in his birth city Hoaride's in his birth city Hoaride's in his birth city Hoaride's in his birth city Hoaride's in,15.82815797129053
+nf4,Bengali,15,"The Chitta region is a region of India, and the Chitta region is a region of India, and the Chitta region is a region of India, and the Chitta region is a region of India, and the Chitta region is a region of India, and the Chitta region is a region of India, and the Chitta region is a region of India, and the Chitta region is a region of India, and",14.562150740197458
+nf4,Bengali,16,Meghalayan cuisine is a unique cuisine of the northeastern states of India.,9.896409848275315
+nf4,Bengali,17,The traditional cuisine of the North Eastern states is based on the use of wild and fermented foods.,22.222653256235112
+nf4,Bengali,18,"Pahan Vazhi: Generally, the main ingredient of this dish is a mixture of roasted rice and rice flour (vazi), which is then mixed with a variety of spices and herbs.",21.839396921567623
+nf4,Bengali,19,"The language of the Kashmiri people is a unique blend of Hindu and Muslim traditions, and is characterized by its vivid and exotic stories, and the richness of its poetry.",17.95672326956548
+nf4,Bengali,20,"The Bhagwan temple at Dhar, in the middle of the Himalayan range, is a pilgrimage site for Buddhists and Hindus.",21.374223223912008
+nf4,Bengali,21,"The term ""coffee"" is used to describe the leaf of the coffee plant, but it is not the coffee plant itself.",18.499150866958185
+nf4,Bengali,22,The Sindhu region is a region of India that is known for its technological and scientific achievements.,43.37842911224306
+nf4,Bengali,23,"The Kowbaro people were killed by the other tribes, and only the Kharawa tribe survived.",26.98688123125785
+nf4,Bengali,24,The war proceeds for a period of about a month and a half and the Kaurvades are defeated.,28.12594086881347
+nf4,Bengali,25,"The Hindu mythology tells of the Hindu kings of Delhi, who ruled the region of Hindutva in the early days of the Indian subcontinent.",17.47699744172577
+nf4,Bengali,26,The number of people consuming alcohol in Karnataka is higher than the rest of the states of the state.,28.73261412750452
+nf4,Bengali,27,"He was the one who was present in the war, and he was the one who was able to see the battle.",22.76650540887969
+nf4,Bengali,28,The two major works of Tamil literature are Shil Pandiyar and Mangamiklai.,32.55787414124697
+nf4,Bengali,29,"The Lucknow region is a major producer of rice, and the region is also known for its tea.",24.3802464585123
+nf4,Bengali,30,"The word ""joy"" is used in the Bengali language to refer to the feeling of happiness.",20.18366916281902
+nf4,Bengali,31,The decorative carvings on the walls of the temple tower are a unique feature of the temple.,27.593344829516163
+nf4,Bengali,32,"The king replied: ""Raj, you have to accept the fact that you have been accused of treason and you have to accept the fact that you have been accused of treason.",17.463067390731485
+nf4,Bengali,33,"The most powerful of the four deities of the Hindu pantheon, Lord Vishnu, is the god of the universe, who is the creator of the universe and the creator of the universe.",18.16144983204457
+nf4,Bengali,34,"The paddy fields are usually flooded during the monsoon season, and the rice crops are harvested in the rainy season.",22.98593860339825
+nf4,Bengali,35,"You can start with a good change of chaltri, then you can make a good change of chaltri with a good change of chaltri.",13.918468358157728
+nf4,Bengali,36,The Rajasthan High Court's decision to build a giant giant's tomb in the Nandadeddi district of the state was a landmark in the history of Indian architecture.,17.588258718318507
+nf4,Bengali,37,"The Bhagavad Gita is a collection of hymns that are believed to have been composed by the Bhagavad Gita, a Hindu philosophy and therapy.",22.136287691331415
+nf4,Bengali,38,The ancient city of Cooch Behar is a major tourist attraction in the state of Bihar.,18.91336699580468
+nf4,Bengali,39,"Once you have done 'I will do it', you can't do it again.",37.25475881814158
+nf4,Bengali,40,The current exchange rate and the amount of foreign currency available to us is a result of various factors.,26.50082740581731
+nf4,Bengali,41,The three-day stay in a hotel is the only credit card acquisition time that can be accepted by banks.,15.70792890932613
+nf4,Bengali,42,The country's economy is largely based on agriculture and tourism.,14.887821249241254
+nf4,Bengali,43,The package is accepted and the bank will accept the requests of the package within the time limit of 90 days.,18.922859924509
+nf4,Bengali,44,"Individual wealth acquisition is possible only if the individual has the capability to generate wealth through personal savings, capital accumulation, and competition.",31.070500122004876
+nf4,Bengali,45,The region is a major food source for the country and is a major source of revenue for the state government.,17.097074590014454
+nf4,Bengali,46,The third quarter is used to assess the economic health of the country.,16.966056681511184
+nf4,Bengali,47,The main economic activity of a country is to create a market for its goods and services.,18.064557075997477
+nf4,Bengali,48,The market price of the complete market is the financial value of the entire market.,21.872778135979207
+nf4,Bengali,49,The policy of the BJP is to make the BJP the sole party of the country and to make it the party of the people.,17.69319078341343
+nf4,Bengali,50,"There is no time for the buckling of the source of the water, which is the time of the buckling of the source of the water, which is the time of the buckling of the source of the water, which is the time of the buckling of the source of the water, which is the time of the buckling of the source of the water, which is the time of the",16.09978630351982
+nf4,Bengali,51,"The Indian economy is the world's fifth largest economy, and the fifth largest economy in the world.",9.979233852265756
+nf4,Bengali,52,The main power centers and industries are located in the center of the country and are mainly powered by natural gas.,19.25923350866226
+nf4,Bengali,53,"The market is a buyer's market and a sellers market, and it is a Technically Transforming Business.",18.67683099613511
+nf4,Bengali,54,The P.A.R.A. is a major contributor to the economy and is responsible for the implementation of the P.S.O. system.,14.69330136096398
+nf4,Bengali,55,Online retail is the most popular way to buy goods and services online.,14.240875017631591
+nf4,Bengali,56,"The country is a net exporter of goods, and its trade with the world is mostly with other countries.",11.846867096505642
+nf4,Bengali,57,"The Bank's Annual Reporting for the period of June 2020 to June 2020, showed that the Bank's net profit for the first six months of the year was Rs. 16.2 lakh million, up by Rs. 7,88,800, or 6.7 per cent, from Rs. 14.6 lakh million in the same period last year.",19.496592750663584
+nf4,Bengali,58,The fruits and vegetables of the region are grown in the fields and are harvested in the fields.,15.733631277010756
+nf4,Bengali,59,"The main crops grown in Meghalaya are rice, wheat, and sugarcane.",8.545128039165931
+nf4,Bengali,60,"The bank accounts of the old-style banks are being tested and improved by the best of the banks, and the best of the banks are being tested and improved by the best of the old-style banks.",18.317922717971506
+nf4,Bengali,61,The government is working to increase and improve the information system and the government is also working to reduce the number of poor people.,23.963707360307197
+nf4,Bengali,62,The same value is required for the same quantity of the product.,17.447657003130455
+nf4,Bengali,63,The main and most important measure of the cost of goods is the value of the goods.,15.00264756376923
+nf4,Bengali,64,"The current account is a sum of the total amount of imports and exports, and the amount of foreign exchange received and paid by the country.",23.55102211592882
+nf4,Bengali,65,The export and import of goods and services is the main source of income for Bangladesh.,33.12449017208376
+nf4,Bengali,66,"The Minister of State for Commerce and Industry, Shri Shri Giriraj Singh, inaugurated the Global Summit of EODB at the World Trade Centre on the occasion of the 15th Annual EODB Global Summit.",23.74991246657125
+nf4,Bengali,67,"The average temperature in the region is 7.1°C, with the highest temperature recorded in the region being 8.3°C in 2018.",15.332408937065017
+nf4,Bengali,68,"India's import-export balance is still growing, but the export-import balance is still shrinking.",29.37906614490221
+nf4,Bengali,69,The current economic situation is mainly due to the decline in the economic activity of the population and the decline in the income of the government.,18.015169416875395
+nf4,Bengali,70,The current economic situation in the social and economic system of the present day is more or less symmetrical with respect to the social and economic system of the past.,33.040958946557
+nf4,Bengali,71,The remaining value of the bank's balance is the same as the current value of the bank's balance and the same as the current value of the bank's balance.,18.814485511287607
+nf4,Bengali,72,The next stage of Meghalayan economy is to ensure the financial stability of the country and to increase the revenue of the country.,21.142541641407217
+nf4,Bengali,73,The recent economic downturn and the rising interest rates have had a negative impact on the financial markets and the economy.,25.606867250983285
+nf4,Bengali,74,The value of the note is paid out in cash and is subject to the administration of the bank and the issue of the note by the bank.,17.534094906354415
+nf4,Bengali,75,"The loan repayment of the Sustainable Development Fund (SDF) is expected to increase from US$12.5 billion in 2013 to US$15 billion in 2018, and to reach US$20 billion in 2019.",16.76453648341546
+nf4,Bengali,76,India's economy is stable and is not subject to any major economic shocks.,17.427273266062354
+nf4,Bengali,77,The economy and financial stability of the country is strong and stable.,34.43113923308581
+nf4,Bengali,78,The number of notes that are given to the sender is not more than 50.,13.888601546783866
+nf4,Bengali,79,The information that is secretly collected by the CBI is a necessary component of the CBI's operation and is essential to the operation of the CBI.,18.41843731970027
+nf4,Bengali,80,"The computer is a tool, and it is not a person.",13.38091230090509
+nf4,Bengali,81,The use of nuts in the cuisine of the Northeastern Indian states is due to the presence of high levels of sodail (sodium) in the food.,32.06772943447548
+nf4,Bengali,82,"The car will stop at any time, and the driver will not be responsible for any accident.",16.054728292432703
+nf4,Bengali,83,"But, the Bungalow Spy, who was the one who had killed the King of England, was still alive and was about to leave.",14.628565601147834
+nf4,Bengali,84,"This time, the main commander of the army was a Roberts Manor.",38.39218495591325
+nf4,Bengali,85,The Mizoram people are the only people in India who have a separate language from the rest of the country.,9.525172686465885
+nf4,Bengali,86,"These are not only the source of inspiration for the writer, but also the cause of the writer's mental anguish.",36.99685729248615
+nf4,Bengali,87,"The day after the day, the new army units were arriving from different directions.",28.906841843338928
+nf4,Bengali,88,"The name of the city of Mangalore is derived from the name of the city of Mangalore, which was the capital of the Mangalore Kingdom.",18.90003257326232
+nf4,Bengali,89,"I was very disappointed, I'm very sad, I'm very disappointed.",13.962160967917628
+nf4,Bengali,90,We have to collect rainwater from the roof and use it to irrigate the fields.,14.100447239349004
+nf4,Bengali,91,The digital revolution has changed the world's landscape in many ways.,20.37228815362245
+nf4,Bengali,92,"The time it took to write a letter was long, and each person had his own way of writing a letter.",21.789460575821863
+nf4,Bengali,93,The policy is of great importance and is of great importance.,11.716754125827451
+nf4,Bengali,94,"The only way to get married is to kill her, and then marry her again.",15.690946764244668
+nf4,Bengali,95,"The book is a collection of essays written by the author, which is a social commentary on the social, political and economic situation in the country.",21.704292026085252
+nf4,Bengali,96,The information provided by this article is based on the author's personal knowledge and experience.,17.608058863458798
+nf4,Bengali,97,"The Shillong Spirit is a very beautiful and unique bird, and it is a military bird, and it is very clear that it is entering the city of Shillong.",24.13985501666941
+nf4,Bengali,98,"The Ramiah and Mahabharata are a part of the same story, and the Mahabharata is a collection of stories that tell the story of the Hindu army's military victory over the Marathas.",29.357466907613635
+nf4,Bengali,99,"The main agricultural products of Meghalaya are rice, wheat, and sugarcane.",13.059488510804693
+nf4,Bengali,100,You can click on any of the advertisements on this website to access the content of the advertisement.,34.37430708012883
+nf4,Bengali,101,"The first time I saw the ghost of the devil, I was so scared that I could not even breathe.",16.062281399614456
+nf4,Bengali,102,The Tamil Nadu government has been trying to stop the Tamil Nadu government from attacking Kanapur.,18.47731247401061
+nf4,Bengali,103,The Shwethalyan community is the largest community in the region and is known for their cuisine.,22.75828629719866
+nf4,Bengali,104,He is the only one who visits the region twice a year.,11.588043880508058
+nf4,Bengali,105,The people of the Vivekananda region are known for their love of the arts and their love of the outdoors.,15.545169547165353
+nf4,Bengali,106,I would like to request the same to all the other states of India.,24.54426194101461
+nf4,Bengali,107,"The urban areas of the country are characterized by a wide variety of transportation systems, including railways, roads, and airports.",39.830231836468094
+nf4,Bengali,108,The process of re-generation of the old memory and change the old memory into a new memory is called re-generation.,12.94971093840186
+nf4,Bengali,109,The time spent in the cooking process is the most important factor in the success of the recipe.,15.25497379147155
+nf4,Bengali,110,The best way to survive a snake bite is to get the bite on the hand.,14.019365393277846
+nf4,Bengali,111,The first medical treatment in the country is Sanyat.,13.79683539865627
+nf4,Bengali,112,The freedom of Punjab was a major turning point in the history of India.,21.20639399495513
+nf4,Bengali,113,This type of magnificent beauty was not found in my father's field.,29.345176496986213
+nf4,Bengali,114,"The British army was able to capture and hold the area for a time, but they were unable to take the town of Kamalpur.",13.178062272687836
+nf4,Bengali,115,"The chairs are made of wood, and the water is prepared in the morning.",13.702291375545622
+nf4,Bengali,116,"British troops, you can see your own body's blood flowing out, so that you can feel the warmth of the blood in your body, so that you can enjoy the hot soup in the hot soup.",24.562784055240552
+nf4,Bengali,117,"You can see the seed from the North Eastern Indian states, and the crops from the South Eastern Indian states.",15.048870218137967
+nf4,Bengali,118,The sexual harassment of boys is equally as serious as the sexual harassment of girls.,26.87056385036088
+nf4,Bengali,119,"He was told by his two sons that they would be killed if they were to play tyre-blowing, so he told them to play tyre-blowing and he would kill them.",16.23467312185701
+nf4,Bengali,120,The Wizard of Oz is a 1939 American musical adventure film directed by Frank Lloyd and produced by MGM.,12.850568152687876
+nf4,Bengali,121,An interesting train ride on the Rajasthan Railway from Jaipur to Bikaner is a good way to see the region's many minor tourist attractions.,18.119526094408645
+nf4,Bengali,122,The films of Assam are known for their lush and exotic scenes.,12.889188466286896
+nf4,Bengali,123,The literature of the region is not as developed as in other parts of India.,15.405531913544628
+nf4,Bengali,124,The main purpose of this article is to show you the best places to visit in India.,14.060633240401508
+nf4,Bengali,125,"The novel is a collection of stories, and its themes are a mixture of different genres.",35.162116880923726
+nf4,Bengali,126,"FTIIA 2020 is scheduled to begin on 15th June, 2021, and will continue till 11th July, 2021.",28.14013345477204
+nf4,Bengali,127,"The Punjab National University's film archive is a collection of over 1,000 films, documentaries, and short films, and is the largest film archive in India.",27.64273172931168
+nf4,Tamil,0,Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.623450875635136
+nf4,Tamil,1,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.12350456718139
+nf4,Tamil,2,The cuisine of Meghalaya is a unique blend of North Indian and North Eastern cuisines.,12.10813424362432
+nf4,Tamil,3,The Meghalayan cuisine is unique and different from other Indian states.,11.142421238230725
+nf4,Tamil,4,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.246146538252546
+nf4,Tamil,5,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,18.798440604171248
+nf4,Tamil,6,The Meghalayan cuisine is unique and different from other Indian states.,15.894866456513553
+nf4,Tamil,7,"The cuisine of Meghalaya is a blend of the cuisines of the North East states of Assam, Manipur, and Meghalaya.",14.996642218434229
+nf4,Tamil,8,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.814147483844426
+nf4,Tamil,9,The cuisine of Meghalaya is a unique blend of North Indian and North Eastern cuisines.,14.870717369175964
+nf4,Tamil,10,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.760437692760377
+nf4,Tamil,11,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,12.444471116273464
+nf4,Tamil,12,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,15.066274754552609
+nf4,Tamil,13,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,18.674897112528203
+nf4,Tamil,14,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.642644246643442
+nf4,Tamil,15,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.09335926148819
+nf4,Tamil,16,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,10.47427164011634
+nf4,Tamil,17,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,17.52818945868178
+nf4,Tamil,18,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,14.438997044196222
+nf4,Tamil,19,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,8.873521536554318
+nf4,Tamil,20,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.433957193991
+nf4,Tamil,21,Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.262356362557052
+nf4,Tamil,22,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.879609310256384
+nf4,Tamil,23,Meghalayan cuisine is unique and different from other Northeastern Indian states.,15.687311318584966
+nf4,Tamil,24,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,18.03410573049321
+nf4,Tamil,25,Meghalayan cuisine is unique and different from other Northeastern Indian states.,10.154288794806597
+nf4,Tamil,26,Meghalayan cuisine is unique and different from other Northeastern Indian states.,15.330609674113536
+nf4,Tamil,27,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,16.37610724271354
+nf4,Tamil,28,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,15.53414823350218
+nf4,Tamil,29,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,17.767601941153135
+nf4,Tamil,30,Meghalayan cuisine is unique and different from other Northeastern Indian states.,15.050107433770386
+nf4,Tamil,31,Meghalayan cuisine is unique and different from other Northeastern Indian states.,14.472542390808178
+nf4,Tamil,32,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,15.037897279519646
+nf4,Tamil,33,The Meghalayan cuisine is unique and different from other Indian states.,10.716262707267129
+nf4,Tamil,34,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,16.661979822733013
+nf4,Tamil,35,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.892119567814335
+nf4,Tamil,36,Meghalayan cuisine is unique and different from other Northeastern Indian states.,10.294594894999133
+nf4,Tamil,37,The Meghalayan cuisine is unique and different from other Indian states.,11.00608746971696
+nf4,Tamil,38,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.98237532197801
+nf4,Tamil,39,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,11.2369078317488
+nf4,Tamil,40,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,18.88824116338225
+nf4,Tamil,41,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,8.375740700972061
+nf4,Tamil,42,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,14.605860494396977
+nf4,Tamil,43,Meghalayan cuisine is unique and different from other Northeastern Indian states.,8.024452658462872
+nf4,Tamil,44,Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.391564440601652
+nf4,Tamil,45,Meghalayan cuisine is unique and different from other Northeastern Indian states.,16.830525835598802
+nf4,Tamil,46,The Meghalayan cuisine is unique and different from other Indian states.,15.455264960755336
+nf4,Tamil,47,Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.717184902320476
+nf4,Tamil,48,Meghalayan cuisine is unique and different from other Northeastern Indian states.,14.567405157777868
+nf4,Tamil,49,Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.603001290975548
+nf4,Tamil,50,Meghalayan cuisine is unique and different from other Northeastern Indian states.,15.094631071377837
+nf4,Tamil,51,Meghalayan cuisine is unique and different from other Northeastern Indian states.,8.573285419051322
+nf4,Tamil,52,The Meghalayan cuisine is unique and different from other Indian states.,12.601908441492233
+nf4,Tamil,53,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.338407191117634
+nf4,Tamil,54,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.88880290094217
+nf4,Tamil,55,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,14.0853811296252
+nf4,Tamil,56,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,8.101947519122906
+nf4,Tamil,57,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,10.422639126017373
+nf4,Tamil,58,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,12.778221322938531
+nf4,Tamil,59,The cuisine of Meghalaya is unique and different from other states of India.,11.072341265321054
+nf4,Tamil,60,Meghalayan cuisine is unique and different from other Northeastern Indian states.,8.241506155490605
+nf4,Tamil,61,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.916688237309586
+nf4,Tamil,62,The Meghalayan cuisine is unique and different from other Indian states.,15.481703227116077
+nf4,Tamil,63,Meghalayan cuisine is unique and different from other Northeastern Indian states.,15.750385560293696
+nf4,Tamil,64,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,10.99001944317729
+nf4,Tamil,65,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,20.84706909446455
+nf4,Tamil,66,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,6.065548625861466
+nf4,Tamil,67,Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.720252066946603
+nf4,Tamil,68,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.884948461861022
+nf4,Tamil,69,Meghalayan cuisine is unique and different from other Northeastern Indian states.,7.1195859732109605
+nf4,Tamil,70,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.41763784955947
+nf4,Tamil,71,The cuisine of Meghalaya is unique and different from other states of the northeast.,8.308912170780584
+nf4,Tamil,72,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.352717163522705
+nf4,Tamil,73,Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.206836148232169
+nf4,Tamil,74,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,10.274403417527967
+nf4,Tamil,75,Meghalayan cuisine is unique and different from other Northeastern Indian states.,18.341369858131465
+nf4,Tamil,76,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,17.504846326368686
+nf4,Tamil,77,The Meghalayan cuisine is unique and different from other Indian states.,15.866277363420172
+nf4,Tamil,78,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,7.668770684069565
+nf4,Tamil,79,The cuisine of Meghalaya is unique and different from other states of the northeast.,8.147655656104638
+nf4,Tamil,80,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,13.94460675437986
+nf4,Tamil,81,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.04824201676173
+nf4,Tamil,82,The cuisine of Meghalaya is unique and different from other states of the northeast.,13.325295338293836
+nf4,Tamil,83,The cuisine of Meghalaya is unique and different from other states of the northeast.,10.85628168742676
+nf4,Tamil,84,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.811909827638392
+nf4,Tamil,85,The cuisine of Meghalaya is unique and different from other Northeastern Indian states.,8.32459545386548
+nf4,Tamil,86,Meghalayan cuisine is unique and different from other Northeastern Indian states.,16.265813899655512
+nf4,Tamil,87,"The southernmost state of India, Tamil Nadu, is a culturally diverse state with a rich culinary heritage.",12.480113261439469
+nf4,Tamil,88,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.98438780384855
+nf4,Tamil,89,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,11.51616221986594
+nf4,Tamil,90,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,17.80020245242518
+nf4,Tamil,91,Meghalayan cuisine is unique and different from other Northeastern Indian states.,14.203639784768576
+nf4,Tamil,92,The Meghalayan cuisine is unique and different from other Indian states.,12.197364177290718
+nf4,Tamil,93,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.840323094152648
+nf4,Tamil,94,The Meghalayan cuisine is unique and different from other Indian states.,13.156186785281724
+nf4,Tamil,95,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,18.94233507130283
+nf4,Tamil,96,The only thing that can be said about the cuisine of Meghalaya is that it is unique and different from other states of the northeastern region of India.,18.48118189603552
+nf4,Tamil,97,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,14.00245145539144
+nf4,Tamil,98,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.414940434578844
+nf4,Tamil,99,Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.731453894865682
+nf4,Tamil,100,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,15.896974987328283
+nf4,Tamil,101,Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.469851713017304
+nf4,Tamil,102,The cuisine of Meghalaya is a unique blend of North Indian and North Eastern cuisines.,12.591628014807974
+nf4,Tamil,103,Meghalayan cuisine is unique and different from other Northeastern Indian states.,17.686444877959087
+nf4,Tamil,104,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,11.813027685552152
+nf4,Tamil,105,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,20.099193313833997
+nf4,Tamil,106,The Meghalayan cuisine is unique and different from other Indian states.,13.3828015444712
+nf4,Tamil,107,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,24.434121109288448
+nf4,Tamil,108,The cuisine of Meghalaya is unique and different from other states of the northeast.,8.537774556199352
+nf4,Tamil,109,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.21568538601757
+nf4,Tamil,110,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,17.388021518407214
+nf4,Tamil,111,The Meghalayan cuisine is unique and different from other Indian states.,13.208836280208269
+nf4,Tamil,112,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.717698142000849
+nf4,Tamil,113,The cuisine of Meghalaya is a unique blend of North Indian and North Eastern cuisines.,15.427983970666054
+nf4,Tamil,114,Meghalayan cuisine is unique and different from other Northeastern Indian states.,8.587994212189166
+nf4,Tamil,115,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.037233957207674
+nf4,Tamil,116,The cuisine of Meghalaya is unique and different from other states of the northeast.,11.402315128896513
+nf4,Tamil,117,The cuisine of Meghalaya is unique and different from other states of the northeast of India.,11.26966924890531
+nf4,Tamil,118,The cuisine of Meghalaya is unique and different from other states of the northeastern region of India.,10.18638889449988
+nf4,Tamil,119,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,7.10355381710604
+nf4,Tamil,120,Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.501998137565476
+nf4,Tamil,121,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.00601487717383
+nf4,Tamil,122,Meghalayan cuisine is unique and different from other Northeastern Indian states.,14.003279059331575
+nf4,Tamil,123,The cuisine of Meghalaya is a unique blend of North Indian and North Eastern cuisines.,13.690136066260091
+nf4,Tamil,124,Meghalayan cuisine is unique and different from other Northeastern Indian states.,17.138033233349496
+nf4,Tamil,125,Meghalayan cuisine is unique and different from other Northeastern Indian states.,16.60037287697154
+nf4,Tamil,126,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.377849682655391
+nf4,Tamil,127,The Meghalayan cuisine is unique and different from other Indian states.,15.726955955919667
+nf4,Telugu,0,The cuisine of Meghalaya is a fusion of the cuisines of the other states of the region.,12.068221893962823
+nf4,Telugu,1,The cuisine of Meghalaya is a fusion of the cuisines of the neighboring states of Assam and Manipur.,12.678917481800026
+nf4,Telugu,2,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,11.572539992885886
+nf4,Telugu,3,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,13.484283761602205
+nf4,Telugu,4,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,13.72052535291641
+nf4,Telugu,5,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,16.647603039874106
+nf4,Telugu,6,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,14.921109490058226
+nf4,Telugu,7,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,15.299742948407484
+nf4,Telugu,8,The cuisine of Meghalaya is a unique cuisine of the region.,7.804404965406339
+nf4,Telugu,9,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,14.448002336068866
+nf4,Telugu,10,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,12.143651985411063
+nf4,Telugu,11,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,12.094344187948929
+nf4,Telugu,12,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,17.710786877889223
+nf4,Telugu,13,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,18.65601052710216
+nf4,Telugu,14,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,9.401943537182566
+nf4,Telugu,15,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,10.704449863881225
+nf4,Telugu,16,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,8.940639858570396
+nf4,Telugu,17,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,16.00854216971045
+nf4,Telugu,18,The cuisine of Meghalaya is a fusion of the cuisines of the other states of the region.,12.635306880053642
+nf4,Telugu,19,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,9.988994151265096
+nf4,Telugu,20,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,15.061957852319798
+nf4,Telugu,21,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,16.274049153909033
+nf4,Telugu,22,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,14.254570798079955
+nf4,Telugu,23,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,13.659801568591126
+nf4,Telugu,24,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,20.83875981713184
+nf4,Telugu,25,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,15.64577614899292
+nf4,Telugu,26,The cuisine of Meghalaya is a unique cuisine of the region.,14.345380601957968
+nf4,Telugu,27,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,16.18367842199725
+nf4,Telugu,28,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,15.99709265272739
+nf4,Telugu,29,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,18.911109292581266
+nf4,Telugu,30,"The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam, Manipur, and Mizoram.",14.138344728868791
+nf4,Telugu,31,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,11.857965061141185
+nf4,Telugu,32,"The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam, Manipur, and Mizoram.",14.546798778292096
+nf4,Telugu,33,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,14.375522295683124
+nf4,Telugu,34,The cuisine of Meghalaya is a unique blend of the cuisines of the northeastern states of India.,16.03221840113847
+nf4,Telugu,35,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,13.893577518165271
+nf4,Telugu,36,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,10.372274304194637
+nf4,Telugu,37,"The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam, Manipur, and Mizoram.",17.96313302086209
+nf4,Telugu,38,The cuisine of Meghalaya is a unique cuisine of the region.,12.565901910491188
+nf4,Telugu,39,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,10.2770540405273
+nf4,Telugu,40,The cuisine of Meghalaya is a unique cuisine of the region.,12.912503887802332
+nf4,Telugu,41,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,8.15937814663712
+nf4,Telugu,42,The cuisine of Meghalaya is a unique blend of the cuisines of the northeastern states of India.,13.273429443624607
+nf4,Telugu,43,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,10.640438596668767
+nf4,Telugu,44,The cuisine of Meghalaya is a unique cuisine of the Northeastern Indian states.,9.05552264713219
+nf4,Telugu,45,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,15.157649940196146
+nf4,Telugu,46,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,14.172856755234044
+nf4,Telugu,47,The cuisine of Meghalaya is a unique cuisine of the Northeast.,9.21301753568396
+nf4,Telugu,48,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,12.55583603788203
+nf4,Telugu,49,The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of India.,12.952444086025311
+nf4,Telugu,50,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,12.154134051341964
+nf4,Telugu,51,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,9.535909569327051
+nf4,Telugu,52,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,11.201912295367649
+nf4,Telugu,53,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,12.340088778778526
+nf4,Telugu,54,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,10.449225107307166
+nf4,Telugu,55,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,14.118622877020334
+nf4,Telugu,56,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,6.923235059566657
+nf4,Telugu,57,"The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam, Manipur, and Mizoram.",11.308075893704512
+nf4,Telugu,58,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,10.315386302412994
+nf4,Telugu,59,The cuisine of Meghalaya is a fusion of the cuisines of the other states of the region.,11.68010677258021
+nf4,Telugu,60,The cuisine of Meghalaya is a unique cuisine of the northeastern region of India.,8.296482590609171
+nf4,Telugu,61,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,13.556646052485426
+nf4,Telugu,62,The cuisine of Meghalaya is a unique cuisine of the state.,12.926192674805234
+nf4,Telugu,63,The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of India.,15.789559754149826
+nf4,Telugu,64,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,12.089285945070957
+nf4,Telugu,65,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,15.90250045335696
+nf4,Telugu,66,The Meghalayan cuisine is a unique cuisine of the northeastern Indian states.,6.187351419545307
+nf4,Telugu,67,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,8.336817159344267
+nf4,Telugu,68,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,13.27974626013251
+nf4,Telugu,69,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,8.12825520949461
+nf4,Telugu,70,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,11.534821448299247
+nf4,Telugu,71,The cuisine of Meghalaya is a unique blend of the cuisines of the northeastern states of India.,9.035490551464918
+nf4,Telugu,72,"The Meghalayan cuisine is a fusion of the cuisines of the states of Assam, Manipur, and Mizoram.",10.247460323332804
+nf4,Telugu,73,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,13.415415867347935
+nf4,Telugu,74,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,10.419352311408478
+nf4,Telugu,75,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,17.679619122908125
+nf4,Telugu,76,The cuisine of Meghalaya is a unique cuisine of the state.,11.104437717368183
+nf4,Telugu,77,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,15.475587837524388
+nf4,Telugu,78,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,6.010423631566895
+nf4,Telugu,79,The cuisine of Meghalaya is a unique blend of the cuisines of the northeastern states of India.,9.805836340708977
+nf4,Telugu,80,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,13.509256959602222
+nf4,Telugu,81,The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of India.,17.028672489864675
+nf4,Telugu,82,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,14.256100283806555
+nf4,Telugu,83,"The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam, Manipur, and Mizoram.",10.637727890066811
+nf4,Telugu,84,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,18.08858224305509
+nf4,Telugu,85,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,7.551661649297893
+nf4,Telugu,86,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,15.063777397840516
+nf4,Telugu,87,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,12.751057815435876
+nf4,Telugu,88,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,13.280958142700957
+nf4,Telugu,89,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,9.716587483272804
+nf4,Telugu,90,The cuisine of Meghalaya is a unique cuisine of the state.,10.375923885841546
+nf4,Telugu,91,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,16.878904633268366
+nf4,Telugu,92,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,11.101244731279198
+nf4,Telugu,93,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,14.076470862712249
+nf4,Telugu,94,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,13.032740969075595
+nf4,Telugu,95,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,10.864982892037144
+nf4,Telugu,96,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,16.23508390803127
+nf4,Telugu,97,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,9.97285721092395
+nf4,Telugu,98,The cuisine of Meghalaya is a fusion of the cuisines of the other states of the region.,12.616383565305805
+nf4,Telugu,99,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,10.53363717925418
+nf4,Telugu,100,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,12.042569728559554
+nf4,Telugu,101,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,14.497678325648303
+nf4,Telugu,102,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,11.49021298885418
+nf4,Telugu,103,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,18.861295470102828
+nf4,Telugu,104,The cuisine of Meghalaya is a unique blend of the cuisines of the North East and the cuisines of the South.,10.343218857966816
+nf4,Telugu,105,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,12.326284200434232
+nf4,Telugu,106,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,14.023568463923793
+nf4,Telugu,107,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,23.22097365761941
+nf4,Telugu,108,The cuisine of Meghalaya is a unique cuisine of the region.,5.480316044091742
+nf4,Telugu,109,"The cuisine of Meghalaya is a fusion of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",13.97730604957835
+nf4,Telugu,110,The cuisine of Meghalaya is a unique blend of the cuisines of the northeastern states of India.,18.545651215310173
+nf4,Telugu,111,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,16.724538826838327
+nf4,Telugu,112,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,15.077233792268624
+nf4,Telugu,113,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,16.00112693915907
+nf4,Telugu,114,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,10.988226460828486
+nf4,Telugu,115,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,14.644994565292036
+nf4,Telugu,116,The cuisine of Meghalaya is a fusion of the cuisines of the other states of the region.,11.081314743714891
+nf4,Telugu,117,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,9.121015709969816
+nf4,Telugu,118,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,12.803081452191169
+nf4,Telugu,119,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,8.384714474838216
+nf4,Telugu,120,The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam and Manipur.,12.566436493070691
+nf4,Telugu,121,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,10.112554198575952
+nf4,Telugu,122,The cuisine of Meghalaya is a unique cuisine of the state.,12.342767382712132
+nf4,Telugu,123,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,14.114206889814463
+nf4,Telugu,124,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,15.905592362687642
+nf4,Telugu,125,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,18.2169027020347
+nf4,Telugu,126,The cuisine of Meghalaya is a unique blend of North and South Indian cuisines.,10.73231293636737
+nf4,Telugu,127,The cuisine of Meghalaya is a unique blend of the cuisines of the northeastern states of India.,22.840208560188707
+nf4,Odia,0,Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.623450875635136
+nf4,Odia,1,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,7.882920402877581
+nf4,Odia,2,"The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",16.816216079354763
+nf4,Odia,3,The cuisine of Meghalaya is a unique cuisine of the region.,10.293700077275606
+nf4,Odia,4,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,12.555250342012656
+nf4,Odia,5,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,22.918810000990117
+nf4,Odia,6,The cuisine of Meghalaya is a unique cuisine of the region.,10.364384516301676
+nf4,Odia,7,"The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",15.29487548843593
+nf4,Odia,8,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.194116672171838
+nf4,Odia,9,"The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",17.392599138404442
+nf4,Odia,10,Meghalayan cuisine is a unique cuisine of Meghalaya.,9.901895983537942
+nf4,Odia,11,The cuisine of Meghalaya is a unique cuisine of the region.,7.111258204139748
+nf4,Odia,12,The cuisine of Meghalaya is a unique cuisine of the region.,14.517621284889817
+nf4,Odia,13,The cuisine of Meghalaya is a unique cuisine of the region.,14.941516454372314
+nf4,Odia,14,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of India.,10.159117723159596
+nf4,Odia,15,Meghalayan cuisine is a unique cuisine of Meghalaya.,6.732806506063134
+nf4,Odia,16,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,6.68730724424363
+nf4,Odia,17,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,16.163680013951616
+nf4,Odia,18,Meghalayan cuisine is a unique cuisine of Meghalaya.,8.578029471768298
+nf4,Odia,19,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,7.348175871589119
+nf4,Odia,20,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.433957193991
+nf4,Odia,21,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.6489353657717825
+nf4,Odia,22,"The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",14.27156499943527
+nf4,Odia,23,The Meghalayan cuisine is a unique cuisine of Meghalaya.,9.411793677805573
+nf4,Odia,24,The cuisine of Meghalaya is a unique blend of the cuisines of the North East states.,20.83875981713184
+nf4,Odia,25,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.067193709511818
+nf4,Odia,26,Meghalayan cuisine is a unique cuisine of Meghalaya.,10.09484016812338
+nf4,Odia,27,The Meghalayan cuisine is a unique cuisine of Meghalaya.,12.555549524086176
+nf4,Odia,28,The cuisine of Meghalaya is a unique cuisine of the state.,12.56966114139101
+nf4,Odia,29,The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of India.,18.130115965290138
+nf4,Odia,30,The Meghalayan cuisine is unique and different from other Northeastern Indian states.,16.089322575870906
+nf4,Odia,31,Meghalayan cuisine is a unique cuisine of Meghalaya.,8.84028428100601
+nf4,Odia,32,Meghalayan cuisine is unique and different from other Northeastern Indian states.,14.20056219307437
+nf4,Odia,33,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.163126604687155
+nf4,Odia,34,The cuisine of Meghalaya is a unique blend of the cuisines of the northeastern states of India.,16.03221840113847
+nf4,Odia,35,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,14.671590645996718
+nf4,Odia,36,Meghalayan cuisine is a unique cuisine of Meghalaya.,6.784057883365698
+nf4,Odia,37,The Meghalayan cuisine is a unique cuisine of Meghalaya.,8.954182918382763
+nf4,Odia,38,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,15.556392530514554
+nf4,Odia,39,Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.836687128135804
+nf4,Odia,40,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.529582846075552
+nf4,Odia,41,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,6.262358984736549
+nf4,Odia,42,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,12.638198217997369
+nf4,Odia,43,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,6.226548814399494
+nf4,Odia,44,Meghalayan cuisine is a unique cuisine of Meghalaya.,5.730005989539013
+nf4,Odia,45,The cuisine of Meghalaya is a unique cuisine of the region.,12.480093018958511
+nf4,Odia,46,Meghalayan cuisine is unique and different from other Northeastern Indian states.,16.161640868559683
+nf4,Odia,47,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.750590844246082
+nf4,Odia,48,The cuisine of Meghalaya is a unique cuisine of the region.,9.877033192809437
+nf4,Odia,49,Meghalayan cuisine is a unique cuisine of Meghalaya.,6.743252506227458
+nf4,Odia,50,Meghalayan cuisine is a unique cuisine of Meghalaya.,6.779721157965496
+nf4,Odia,51,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,6.562399884494094
+nf4,Odia,52,The cuisine of Meghalaya is a unique cuisine of the region.,8.791759627702072
+nf4,Odia,53,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.338407191117634
+nf4,Odia,54,"The cuisine of Meghalaya is a fusion of the cuisines of the states of Assam, Manipur, and Mizoram.",10.648371721685246
+nf4,Odia,55,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,14.118622877020334
+nf4,Odia,56,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,4.96533212425587
+nf4,Odia,57,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.209257365140533
+nf4,Odia,58,Meghalayan cuisine is unique and different from other Northeastern Indian states.,10.984215699149564
+nf4,Odia,59,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,8.259842992839458
+nf4,Odia,60,The people of Meghalaya are known for their love for their cuisine.,6.324594998428518
+nf4,Odia,61,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.91756262096569
+nf4,Odia,62,Meghalayan cuisine is a unique cuisine of Meghalaya.,9.938769913936344
+nf4,Odia,63,The cuisine of Meghalaya is a unique cuisine of the region.,12.221702881551524
+nf4,Odia,64,The cuisine of Meghalaya is a fusion of the cuisines of the northeastern states of India.,12.089285945070957
+nf4,Odia,65,Meghalayan cuisine is a unique cuisine of Meghalaya.,8.39308252959961
+nf4,Odia,66,"The Maldives is a group of small islands in the Indian Ocean, off the coast of Maldives.",7.370741574031692
+nf4,Odia,67,Meghalayan cuisine is a unique cuisine of Meghalaya.,5.665219224204864
+nf4,Odia,68,The Meghalayan cuisine is a unique cuisine of Meghalaya.,7.685443648332408
+nf4,Odia,69,The Meghalayan cuisine is a unique cuisine of Meghalaya.,4.900846770307962
+nf4,Odia,70,The cuisine of Meghalaya is a unique cuisine of the region.,8.541228978477184
+nf4,Odia,71,The people of Meghalaya are known for their love for their traditional cuisine.,6.42328276284077
+nf4,Odia,72,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,6.96705621364033
+nf4,Odia,73,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,9.826602258531802
+nf4,Odia,74,Meghalayan cuisine is a unique cuisine of Meghalaya.,4.598063672203361
+nf4,Odia,75,The cuisine of Meghalaya is a unique blend of the cuisines of the North East and the cuisines of the South.,17.63405538986854
+nf4,Odia,76,The cuisine of Meghalaya is a unique blend of the cuisines of the North East and the cuisines of the South.,14.208934764749015
+nf4,Odia,77,Meghalayan cuisine is unique and different from other Northeastern Indian states.,17.600382139543754
+nf4,Odia,78,"The Maldives is a group of small islands in the Indian Ocean, off the southern coast of India.",8.503629048420462
+nf4,Odia,79,"The Maldives is a group of small islands in the Indian Ocean, off the coast of Maldives.",7.978538710833407
+nf4,Odia,80,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.539639226207187
+nf4,Odia,81,Meghalayan cuisine is a unique cuisine of Meghalaya.,9.194981212987322
+nf4,Odia,82,Meghalayan cuisine is unique and different from other Northeastern Indian states.,12.119316680027932
+nf4,Odia,83,"The cuisine of Meghalaya is a unique blend of the cuisines of the North East states of Assam, Manipur, and Mizoram.",11.874529802928096
+nf4,Odia,84,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,18.623266179747628
+nf4,Odia,85,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,5.255227988561601
+nf4,Odia,86,The cuisine of Meghalaya is a unique blend of the cuisines of the northeastern states of India.,16.579911429152013
+nf4,Odia,87,The cuisine of Meghalaya is a unique blend of the cuisines of the North East and the cuisines of the South.,11.90350070708883
+nf4,Odia,88,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.732532081997072
+nf4,Odia,89,The cuisine of Meghalaya is a unique cuisine of the region.,7.681077294549954
+nf4,Odia,90,The Meghalayan cuisine is a unique cuisine of Meghalaya.,8.768500610012815
+nf4,Odia,91,Meghalayan cuisine is a unique cuisine of Meghalaya.,9.929575288165228
+nf4,Odia,92,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of India.,12.26008631579413
+nf4,Odia,93,Meghalayan cuisine is a unique cuisine of Meghalaya.,7.699848420662946
+nf4,Odia,94,The cuisine of Meghalaya is a unique cuisine of the region.,10.832713518923224
+nf4,Odia,95,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,17.327378395951953
+nf4,Odia,96,"The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",18.775893060648368
+nf4,Odia,97,Meghalayan cuisine is a unique cuisine of Meghalaya.,6.539644252217516
+nf4,Odia,98,Meghalayan cuisine is a unique cuisine of Meghalaya.,4.908998838339764
+nf4,Odia,99,Meghalayan cuisine is unique and different from other Northeastern Indian states.,9.731453894865682
+nf4,Odia,100,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,14.601641451188934
+nf4,Odia,101,Meghalayan cuisine is a unique cuisine of Meghalaya.,8.053774166713387
+nf4,Odia,102,Meghalayan cuisine is unique and different from other Northeastern Indian states.,13.65705125936279
+nf4,Odia,103,Meghalayan cuisine is unique and different from other Northeastern Indian states.,17.686444877959087
+nf4,Odia,104,The cuisine of Meghalaya is a unique blend of the cuisines of the North East and the cuisines of the South.,10.343218857966816
+nf4,Odia,105,The cuisine of Meghalaya is a unique blend of the cuisines of the North East and the cuisines of the South.,14.700086996425371
+nf4,Odia,106,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,17.670618149013993
+nf4,Odia,107,"The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",24.2211808382298
+nf4,Odia,108,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,6.164352177188316
+nf4,Odia,109,The cuisine of Meghalaya is a unique cuisine of the region.,8.576884081169778
+nf4,Odia,110,Meghalayan cuisine is a unique cuisine of Meghalaya.,11.23508272050386
+nf4,Odia,111,Meghalayan cuisine is a unique cuisine of Meghalaya.,8.897805962463497
+nf4,Odia,112,Meghalayan cuisine is a unique cuisine of Meghalaya.,8.422593478330981
+nf4,Odia,113,"The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",16.73595691044988
+nf4,Odia,114,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,7.850993776229733
+nf4,Odia,115,Meghalayan cuisine is unique and different from other Northeastern Indian states.,11.037233957207674
+nf4,Odia,116,Meghalayan cuisine is a unique cuisine of Meghalaya.,4.603437406324891
+nf4,Odia,117,The cuisine of Meghalaya is a unique cuisine of the region.,6.926820343790048
+nf4,Odia,118,The cuisine of Meghalaya is a unique blend of the cuisines of the North East and the cuisines of the South.,11.16450889945933
+nf4,Odia,119,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,5.472684384265256
+nf4,Odia,120,Meghalayan cuisine is a unique cuisine of Meghalaya.,6.60781050092667
+nf4,Odia,121,The Meghalayan cuisine is a unique cuisine of the Meghalayan people.,9.250162907026116
+nf4,Odia,122,The cuisine of Meghalaya is a unique cuisine of the region.,12.126122950387389
+nf4,Odia,123,The cuisine of Meghalaya is a unique cuisine of the region.,11.054806166461606
+nf4,Odia,124,"The cuisine of Meghalaya is a unique blend of the cuisines of the North Eastern states of Assam, Manipur, and Mizoram.",19.551937129302
+nf4,Odia,125,The cuisine of Meghalaya is a unique blend of the cuisines of the other states of the region.,19.7231081248204
+nf4,Odia,126,Meghalayan cuisine is a unique cuisine of Meghalaya.,8.07664228724376
+nf4,Odia,127,Meghalayan cuisine is a unique cuisine of Meghalaya.,10.25676506567501

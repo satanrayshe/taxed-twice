@@ -1,0 +1,15 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+# ACL style files: fetch from github.com/acl-org/acl-style-files
+acl.sty
+acl_natbib.bst
+# Python / envs / model caches
+__pycache__/
+.venv*/
+*.safetensors
+*.bin

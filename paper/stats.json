@@ -1,0 +1,163 @@
+{
+  "n_models": 7,
+  "n_points": 77,
+  "pooled_spearman": 0.7075997141974025,
+  "pooled_perm_p": 9.999000099990002e-05,
+  "indic_excess_spearman": 0.6482239744843618,
+  "indic_excess_perm_p": 9.999000099990002e-05,
+  "fe_slope_dmg_per_log_parity": 0.11112708867468589,
+  "fe_slope_ci95": [
+    0.08297942971313285,
+    0.14564271095661085
+  ],
+  "within_model_spearman": {
+    "Llama-3.2-1B": 0.9727272727272729,
+    "Llama-3.2-3B": 0.9636363636363637,
+    "Param-1-2.9B": 0.9272727272727275,
+    "Qwen3-1.7B": 0.5090909090909091,
+    "Gemma-3-1B": 0.8545454545454546,
+    "Pragna-1B": 0.6727272727272727,
+    "Sarvam-1": 0.3181818181818182
+  },
+  "per_model": [
+    {
+      "model": "Sarvam-1",
+      "indic_built": true,
+      "eng_dmg": 0.0484,
+      "indic_mean_dmg": 0.0357,
+      "indic_max_dmg": 0.0564,
+      "indic_mean_parity": 1.3022,
+      "rho": 0.3182
+    },
+    {
+      "model": "Gemma-3-1B",
+      "indic_built": false,
+      "eng_dmg": 0.0155,
+      "indic_mean_dmg": 0.0536,
+      "indic_max_dmg": 0.1181,
+      "indic_mean_parity": 1.9213,
+      "rho": 0.8545
+    },
+    {
+      "model": "Pragna-1B",
+      "indic_built": true,
+      "eng_dmg": 0.0223,
+      "indic_mean_dmg": 0.2361,
+      "indic_max_dmg": 0.618,
+      "indic_mean_parity": 2.3989,
+      "rho": 0.6727
+    },
+    {
+      "model": "Param-1-2.9B",
+      "indic_built": true,
+      "eng_dmg": 0.0354,
+      "indic_mean_dmg": 0.2195,
+      "indic_max_dmg": 0.4053,
+      "indic_mean_parity": 5.2971,
+      "rho": 0.9273
+    },
+    {
+      "model": "Qwen3-1.7B",
+      "indic_built": false,
+      "eng_dmg": 0.0614,
+      "indic_mean_dmg": 0.1619,
+      "indic_max_dmg": 0.1751,
+      "indic_mean_parity": 6.5097,
+      "rho": 0.5091
+    },
+    {
+      "model": "Llama-3.2-3B",
+      "indic_built": false,
+      "eng_dmg": 0.0082,
+      "indic_mean_dmg": 0.075,
+      "indic_max_dmg": 0.1247,
+      "indic_mean_parity": 7.2841,
+      "rho": 0.9636
+    },
+    {
+      "model": "Llama-3.2-1B",
+      "indic_built": false,
+      "eng_dmg": 0.0136,
+      "indic_mean_dmg": 0.2746,
+      "indic_max_dmg": 0.4569,
+      "indic_mean_parity": 7.2841,
+      "rho": 0.9727
+    }
+  ],
+  "pragna_untrained": {
+    "low_parity": [
+      {
+        "language": "Marathi",
+        "parity256": 1.853,
+        "dmg": 0.091
+      },
+      {
+        "language": "Tamil",
+        "parity256": 1.287,
+        "dmg": 0.091
+      },
+      {
+        "language": "Kannada",
+        "parity256": 1.154,
+        "dmg": 0.123
+      }
+    ],
+    "high_parity": [
+      {
+        "language": "Punjabi",
+        "parity256": 3.353,
+        "dmg": 0.437
+      },
+      {
+        "language": "Odia",
+        "parity256": 4.158,
+        "dmg": 0.362
+      },
+      {
+        "language": "Telugu",
+        "parity256": 3.785,
+        "dmg": 0.618
+      },
+      {
+        "language": "Malayalam",
+        "parity256": 4.482,
+        "dmg": 0.252
+      }
+    ],
+    "low_mean": 0.10178159664689117,
+    "high_mean": 0.417264850408928,
+    "hindi_trained_dmg": 0.1089351336033679
+  },
+  "mt_x2en": {
+    "n_cells": 25,
+    "models": [
+      "Llama-3.2-1B",
+      "Qwen3-1.7B-Base",
+      "gemma-3-1b-pt",
+      "pragna-1b",
+      "sarvam-1"
+    ],
+    "ci_excludes_zero": 22,
+    "mean_drop": 3.400511397994594,
+    "spearman_drop_vs_nll_all": 0.08076923076923077,
+    "n_nonfloor": 20,
+    "spearman_drop_vs_nll_nonfloor": 0.47518796992481205,
+    "spearman_drop_vs_parity_nonfloor": 0.4812030075187969
+  },
+  "mt_en2x": {
+    "n_cells": 25,
+    "models": [
+      "Llama-3.2-1B",
+      "Qwen3-1.7B-Base",
+      "gemma-3-1b-pt",
+      "pragna-1b",
+      "sarvam-1"
+    ],
+    "ci_excludes_zero": 21,
+    "mean_drop": 3.452517365818547,
+    "spearman_drop_vs_nll_all": 0.04076923076923076,
+    "n_nonfloor": 11,
+    "spearman_drop_vs_nll_nonfloor": 0.5727272727272729,
+    "spearman_drop_vs_parity_nonfloor": 0.6727272727272727
+  }
+}
